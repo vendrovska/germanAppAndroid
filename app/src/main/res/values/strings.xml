@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">germanApp</string>
+    <string name="button_start">Start</string>
+    <string name="button_derArticle">DER</string>
+    <string name="button_dieArticle">DIE</string>
+    <string name="button_dasArticle">DAS</string>
+    <string name="textview_currentWord">CurrentWord</string>
+</resources>
