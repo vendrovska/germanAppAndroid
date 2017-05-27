@@ -20,7 +20,7 @@ public class DisplayGameActivity extends AppCompatActivity {
         textview_currentWord.setText(message);
     }
     public void checkUserAnswer(View view){
-        String message = ((Button) view).getText().toString();
+        String message = ((Button) view).getText().toString() + "TEST";
         TextView textview_currentWord = (TextView) findViewById(R.id.textView);
         textview_currentWord.setText(message);
     }
