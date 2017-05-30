@@ -10,7 +10,42 @@ public class DisplayGameActivity extends AppCompatActivity {
 
     String [] wordsDictionary = new String[]{"one", "two", "three"};
     String currentCorrectArticle = "DER";
+    GermanNoun [] germanNouns = new GermanNoun[4];
+    public void fillLocalDictionary(){
+        //TODO get data from real dictionary
 
+        //todo:replace code below with a real data
+        GermanNoun firstNoun = new GermanNoun();
+        firstNoun.Article = "DER";
+        firstNoun.EnglishTranslation = "belt";
+        firstNoun.GermanText = "Buckle";
+        firstNoun.AlphabetOrderId = 1;
+        firstNoun.RandomOrderId = 3;
+        GermanNoun secondNoun = new GermanNoun();
+        secondNoun.Article = "DIE";
+        secondNoun.EnglishTranslation = "Map";
+        secondNoun.GermanText = "Welt";
+        secondNoun.AlphabetOrderId = 2;
+        secondNoun.RandomOrderId = 2;
+        GermanNoun thirdNoun = new GermanNoun();
+        thirdNoun.Article = "DAS";
+        thirdNoun.EnglishTranslation = "Girl";
+        thirdNoun.GermanText = "Madchen";
+        thirdNoun.AlphabetOrderId = 3;
+        thirdNoun.RandomOrderId = 1;
+        GermanNoun initialNoun = new GermanNoun();
+        initialNoun.Article = "DAS";
+        initialNoun.EnglishTranslation = "Girl";
+        initialNoun.GermanText = "Madchen";
+        initialNoun.AlphabetOrderId = 3;
+        initialNoun.RandomOrderId = 1;
+        germanNouns[0] = firstNoun;
+        germanNouns[2] = secondNoun;
+        germanNouns[3] = thirdNoun;
+        germanNouns[4] = initialNoun;
+
+
+    }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
