@@ -9,6 +9,8 @@ import android.widget.TextView;
 public class DisplayGameActivity extends AppCompatActivity {
 
     String [] wordsDictionary = new String[]{"one", "two", "three"};
+    String currentCorrectArticle = "DER";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -21,8 +23,22 @@ public class DisplayGameActivity extends AppCompatActivity {
         textview_currentWord.setText(message);
     }
     public void checkUserAnswer(View view){
-        String message = ((Button) view).getText().toString();
-        changeCurrentWordValue(message);
+        String articleChosen = ((Button) view).getText().toString();
+        if(articleChosen == currentCorrectArticle){
+            //add answer to total # of corretct answers
+            //say the word aloud
+            //check if word has article chosen correctly 3 times in a row
+            //remove the word from array if it was guessed three times in a row
+            //check if more words needed to the array (if fewer words are left)
+            //make correct button to be of a green color
+            //OR
+            //clear word correct answers conunting back to 0
+            //proceed to the next word
+            //color pressed button to the red color
+
+
+        }
+       // changeCurrentWordValue(message);
         //todo switch fr btn name to handkle diff. article values
         //todo connect to mongo db dictionary
     }
