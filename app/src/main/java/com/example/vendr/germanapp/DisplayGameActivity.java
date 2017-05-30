@@ -13,6 +13,7 @@ public class DisplayGameActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display_game);
+        changeCurrentWordValue("Hello");
     }
     public void setCurrentWordValue(View view){
         String message = wordsDictionary[0];
@@ -20,8 +21,13 @@ public class DisplayGameActivity extends AppCompatActivity {
         textview_currentWord.setText(message);
     }
     public void checkUserAnswer(View view){
-        String message = ((Button) view).getText().toString() + "TESTttt";
+        String message = ((Button) view).getText().toString();
+        changeCurrentWordValue(message);
+        //todo switch fr btn name to handkle diff. article values
+        //todo connect to mongo db dictionary
+    }
+    public void changeCurrentWordValue(String newWord){
         TextView textview_currentWord = (TextView) findViewById(R.id.textView);
-        textview_currentWord.setText(message);
+        textview_currentWord.setText(newWord);
     }
 }
