@@ -6,11 +6,12 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import java.util.Random;
+
 public class DisplayGameActivity extends AppCompatActivity {
 
-    String [] wordsDictionary = new String[]{"one", "two", "three"};
     String currentCorrectArticle = "DER";
-    GermanNoun [] germanNouns = new GermanNoun[4];
+    GermanNoun [] wordsDictionary = new GermanNoun[4];
     public void fillLocalDictionary(){
         //TODO get data from real dictionary
 
@@ -35,27 +36,24 @@ public class DisplayGameActivity extends AppCompatActivity {
         thirdNoun.RandomOrderId = 1;
         GermanNoun initialNoun = new GermanNoun();
         initialNoun.Article = "DAS";
-        initialNoun.EnglishTranslation = "Girl";
-        initialNoun.GermanText = "Madchen";
+        initialNoun.EnglishTranslation = "boy";
+        initialNoun.GermanText = "ganz";
         initialNoun.AlphabetOrderId = 3;
         initialNoun.RandomOrderId = 1;
-        germanNouns[0] = firstNoun;
-        germanNouns[2] = secondNoun;
-        germanNouns[3] = thirdNoun;
-        germanNouns[4] = initialNoun;
+        wordsDictionary[0] = firstNoun;
+        wordsDictionary[2] = secondNoun;
+        wordsDictionary[3] = thirdNoun;
+        wordsDictionary[4] = initialNoun;
 
 
     }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display_game);
-        changeCurrentWordValue("Hello");
-    }
-    public void setCurrentWordValue(View view){
-        String message = wordsDictionary[0];
-       TextView textview_currentWord = (TextView) findViewById(R.id.textView);
-        textview_currentWord.setText(message);
+        //fillLocalDictionary();
+       // updateNounTextView();
     }
     public void checkUserAnswer(View view){
         String articleChosen = ((Button) view).getText().toString();
@@ -70,15 +68,17 @@ public class DisplayGameActivity extends AppCompatActivity {
             //clear word correct answers conunting back to 0
             //proceed to the next word
             //color pressed button to the red color
-
-
         }
-       // changeCurrentWordValue(message);
+       updateNounTextView();
         //todo switch fr btn name to handkle diff. article values
         //todo connect to mongo db dictionary
     }
-    public void changeCurrentWordValue(String newWord){
+    public void updateNounTextView(){
+        Random rand = new Random();
+        int index = rand.nextInt(wordsDictionary.length);
+        String message = wordsDictionary[index].GermanText;
+        currentCorrectArticle = wordsDictionary[index].Article;
         TextView textview_currentWord = (TextView) findViewById(R.id.textView);
-        textview_currentWord.setText(newWord);
+        textview_currentWord.setText(wordsDictionary[index].GermanText);
     }
 }
