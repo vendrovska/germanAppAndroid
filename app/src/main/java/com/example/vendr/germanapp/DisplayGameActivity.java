@@ -41,23 +41,23 @@ public class DisplayGameActivity extends AppCompatActivity {
         initialNoun.AlphabetOrderId = 3;
         initialNoun.RandomOrderId = 1;
         wordsDictionary[0] = firstNoun;
-        wordsDictionary[2] = secondNoun;
-        wordsDictionary[3] = thirdNoun;
-        wordsDictionary[4] = initialNoun;
+        wordsDictionary[1] = secondNoun;
+        wordsDictionary[2] = thirdNoun;
+        wordsDictionary[3] = initialNoun;
 
 
     }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
+        fillLocalDictionary();
+        // updateNounTextView();
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display_game);
-        //fillLocalDictionary();
-       // updateNounTextView();
+        updateNounTextView();
     }
     public void checkUserAnswer(View view){
         String articleChosen = ((Button) view).getText().toString();
-        if(articleChosen == currentCorrectArticle){
+       // if(articleChosen == currentCorrectArticle){
             //add answer to total # of corretct answers
             //say the word aloud
             //check if word has article chosen correctly 3 times in a row
@@ -68,7 +68,7 @@ public class DisplayGameActivity extends AppCompatActivity {
             //clear word correct answers conunting back to 0
             //proceed to the next word
             //color pressed button to the red color
-        }
+        //}
        updateNounTextView();
         //todo switch fr btn name to handkle diff. article values
         //todo connect to mongo db dictionary
