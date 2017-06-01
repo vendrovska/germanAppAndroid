@@ -1,0 +1,8002 @@
+[
+ {
+   "AlphabetOrder": 381,
+   "Article": "der",
+   "GermanWithArticle": "der Kellner, -, die Kellnerin - nen",
+   "GermanNoArticle": "Kellner, -, die Kellnerin - nen",
+   "English": "waiter, waitress",
+   "RandomNumber": 163
+ },
+ {
+   "AlphabetOrder": 523,
+   "Article": "der",
+   "GermanWithArticle": "der Stadtplan, -¨e",
+   "GermanNoArticle": "Stadtplan, -¨e",
+   "English": "city plan, map",
+   "RandomNumber": 845
+ },
+ {
+   "AlphabetOrder": 767,
+   "Article": "die",
+   "GermanWithArticle": "die Kette, -n",
+   "GermanNoArticle": "Kette, -n",
+   "English": "chain",
+   "RandomNumber": 458
+ },
+ {
+   "AlphabetOrder": 348,
+   "Article": "der",
+   "GermanWithArticle": "der Hafen, -¨",
+   "GermanNoArticle": "Hafen, -¨",
+   "English": "harbor",
+   "RandomNumber": 162
+ },
+ {
+   "AlphabetOrder": 930,
+   "Article": "die",
+   "GermanWithArticle": "die Tonne, -n",
+   "GermanNoArticle": "Tonne, -n",
+   "English": "barrel",
+   "RandomNumber": 489
+ },
+ {
+   "AlphabetOrder": 627,
+   "Article": "die",
+   "GermanWithArticle": "die Ader , -n",
+   "GermanNoArticle": "Ader , -n",
+   "English": "artery",
+   "RandomNumber": 126
+ },
+ {
+   "AlphabetOrder": 364,
+   "Article": "der",
+   "GermanWithArticle": "der Honig, -",
+   "GermanNoArticle": "Honig, -",
+   "English": "honey",
+   "RandomNumber": 113
+ },
+ {
+   "AlphabetOrder": 531,
+   "Article": "der",
+   "GermanWithArticle": "der Stich, -e",
+   "GermanNoArticle": "Stich, -e",
+   "English": "stitch",
+   "RandomNumber": 567
+ },
+ {
+   "AlphabetOrder": 397,
+   "Article": "der",
+   "GermanWithArticle": "der Krankenpfleger, -e",
+   "GermanNoArticle": "Krankenpfleger, -e",
+   "English": "nurse, male or female",
+   "RandomNumber": 223
+ },
+ {
+   "AlphabetOrder": 351,
+   "Article": "der",
+   "GermanWithArticle": "der Halz-Nasen-Ohrenartz, -¨",
+   "GermanNoArticle": "Halz-Nasen-Ohrenartz, -¨",
+   "English": "ear, nose and throat doctor",
+   "RandomNumber": 788
+ },
+ {
+   "AlphabetOrder": 515,
+   "Article": "der",
+   "GermanWithArticle": "der Sklave, -n die Sklavin",
+   "GermanNoArticle": "Sklave, -n die Sklavin",
+   "English": "slave",
+   "RandomNumber": 605
+ },
+ {
+   "AlphabetOrder": 865,
+   "Article": "die",
+   "GermanWithArticle": "die Richtung, -en",
+   "GermanNoArticle": "Richtung, -en",
+   "English": "direction",
+   "RandomNumber": 203
+ },
+ {
+   "AlphabetOrder": 452,
+   "Article": "der",
+   "GermanWithArticle": "der Partner, -, die Partnerin, -nen",
+   "GermanNoArticle": "Partner, -, die Partnerin, -nen",
+   "English": "partner",
+   "RandomNumber": 948
+ },
+ {
+   "AlphabetOrder": 277,
+   "Article": "der",
+   "GermanWithArticle": "der Chinese, -n",
+   "GermanNoArticle": "Chinese, -n",
+   "English": "chinese (people)",
+   "RandomNumber": 342
+ },
+ {
+   "AlphabetOrder": 635,
+   "Article": "die",
+   "GermanWithArticle": "die Anklage, -n",
+   "GermanNoArticle": "Anklage, -n",
+   "English": "charge, - legal",
+   "RandomNumber": 990
+ },
+ {
+   "AlphabetOrder": 858,
+   "Article": "die",
+   "GermanWithArticle": "die Reihenfolge, -n",
+   "GermanNoArticle": "Reihenfolge, -n",
+   "English": "order, sequence",
+   "RandomNumber": 501
+ },
+ {
+   "AlphabetOrder": 896,
+   "Article": "die",
+   "GermanWithArticle": "die Siebensachen, (pl)",
+   "GermanNoArticle": "Siebensachen, (pl)",
+   "English": "belongings",
+   "RandomNumber": 348
+ },
+ {
+   "AlphabetOrder": 202,
+   "Article": "das",
+   "GermanWithArticle": "das Vergehen, -",
+   "GermanNoArticle": "Vergehen, -",
+   "English": "offense",
+   "RandomNumber": 622
+ },
+ {
+   "AlphabetOrder": 335,
+   "Article": "der",
+   "GermanWithArticle": "der Gebrauch, -¨e",
+   "GermanNoArticle": "Gebrauch, -¨e",
+   "English": "use",
+   "RandomNumber": 856
+ },
+ {
+   "AlphabetOrder": 178,
+   "Article": "das",
+   "GermanWithArticle": "das Sonderangebot, -e",
+   "GermanNoArticle": "Sonderangebot, -e",
+   "English": "special offer",
+   "RandomNumber": 56
+ },
+ {
+   "AlphabetOrder": 753,
+   "Article": "die",
+   "GermanWithArticle": "die Höhe, -n",
+   "GermanNoArticle": "Höhe, -n",
+   "English": "height",
+   "RandomNumber": 19
+ },
+ {
+   "AlphabetOrder": 378,
+   "Article": "der",
+   "GermanWithArticle": "der Kassenzettel, -",
+   "GermanNoArticle": "Kassenzettel, -",
+   "English": "receipt",
+   "RandomNumber": 520
+ },
+ {
+   "AlphabetOrder": 794,
+   "Article": "die",
+   "GermanWithArticle": "die Leitung, -en",
+   "GermanNoArticle": "Leitung, -en",
+   "English": "leading, routing",
+   "RandomNumber": 679
+ },
+ {
+   "AlphabetOrder": 959,
+   "Article": "die",
+   "GermanWithArticle": "die Verzeihung, -en",
+   "GermanNoArticle": "Verzeihung, -en",
+   "English": "forgiveness",
+   "RandomNumber": 401
+ },
+ {
+   "AlphabetOrder": 871,
+   "Article": "die",
+   "GermanWithArticle": "die Ruhe, x",
+   "GermanNoArticle": "Ruhe, x",
+   "English": "quiet, calm, peace",
+   "RandomNumber": 639
+ },
+ {
+   "AlphabetOrder": 171,
+   "Article": "das",
+   "GermanWithArticle": "das Schweinefleisch, -X",
+   "GermanNoArticle": "Schweinefleisch, -X",
+   "English": "pork meat",
+   "RandomNumber": 12
+ },
+ {
+   "AlphabetOrder": 694,
+   "Article": "die",
+   "GermanWithArticle": "die Erkältung, -en",
+   "GermanNoArticle": "Erkältung, -en",
+   "English": "cold, cough",
+   "RandomNumber": 930
+ },
+ {
+   "AlphabetOrder": 547,
+   "Article": "der",
+   "GermanWithArticle": "der Sünder , -, die Sünder in, -nen",
+   "GermanNoArticle": "Sünder , -, die Sünder in, -nen",
+   "English": "sinner",
+   "RandomNumber": 822
+ },
+ {
+   "AlphabetOrder": 363,
+   "Article": "der",
+   "GermanWithArticle": "der Hof, -¨e",
+   "GermanNoArticle": "Hof, -¨e",
+   "English": "yard, courtyard",
+   "RandomNumber": 229
+ },
+ {
+   "AlphabetOrder": 866,
+   "Article": "die",
+   "GermanWithArticle": "die Robbe, -n",
+   "GermanNoArticle": "Robbe, -n",
+   "English": "a seal",
+   "RandomNumber": 960
+ },
+ {
+   "AlphabetOrder": 165,
+   "Article": "das",
+   "GermanWithArticle": "das Schifferklavier, -e",
+   "GermanNoArticle": "Schifferklavier, -e",
+   "English": "accordion",
+   "RandomNumber": 799
+ },
+ {
+   "AlphabetOrder": 537,
+   "Article": "der",
+   "GermanWithArticle": "der Stolz, -",
+   "GermanNoArticle": "Stolz, -",
+   "English": "pride",
+   "RandomNumber": 201
+ },
+ {
+   "AlphabetOrder": 199,
+   "Article": "das",
+   "GermanWithArticle": "das Unkraut, -¨er",
+   "GermanNoArticle": "Unkraut, -¨er",
+   "English": "weed",
+   "RandomNumber": 373
+ },
+ {
+   "AlphabetOrder": 518,
+   "Article": "der",
+   "GermanWithArticle": "der Spitzer, -",
+   "GermanNoArticle": "Spitzer, -",
+   "English": "pencil sharpener",
+   "RandomNumber": 257
+ },
+ {
+   "AlphabetOrder": 388,
+   "Article": "der",
+   "GermanWithArticle": "der Kohl, -e",
+   "GermanNoArticle": "Kohl, -e",
+   "English": "cabbage",
+   "RandomNumber": 779
+ },
+ {
+   "AlphabetOrder": 24,
+   "Article": "das",
+   "GermanWithArticle": "das Brett, -er",
+   "GermanNoArticle": "Brett, -er",
+   "English": "cutting board",
+   "RandomNumber": 32
+ },
+ {
+   "AlphabetOrder": 319,
+   "Article": "der",
+   "GermanWithArticle": "der Flughafen, -¨",
+   "GermanNoArticle": "Flughafen, -¨",
+   "English": "airport",
+   "RandomNumber": 626
+ },
+ {
+   "AlphabetOrder": 183,
+   "Article": "das",
+   "GermanWithArticle": "das Stück, -e",
+   "GermanNoArticle": "Stück, -e",
+   "English": "piece",
+   "RandomNumber": 783
+ },
+ {
+   "AlphabetOrder": 262,
+   "Article": "der",
+   "GermanWithArticle": "der Besitz, x",
+   "GermanNoArticle": "Besitz, x",
+   "English": "resources, assets",
+   "RandomNumber": 562
+ },
+ {
+   "AlphabetOrder": 625,
+   "Article": "die",
+   "GermanWithArticle": "die Abteilung, -en",
+   "GermanNoArticle": "Abteilung, -en",
+   "English": "department",
+   "RandomNumber": 33
+ },
+ {
+   "AlphabetOrder": 509,
+   "Article": "der",
+   "GermanWithArticle": "der Schwan, -¨e",
+   "GermanNoArticle": "Schwan, -¨e",
+   "English": "swan",
+   "RandomNumber": 658
+ },
+ {
+   "AlphabetOrder": 958,
+   "Article": "die",
+   "GermanWithArticle": "die Verwaltung, -en",
+   "GermanNoArticle": "Verwaltung, -en",
+   "English": "administration (not in schools)",
+   "RandomNumber": 925
+ },
+ {
+   "AlphabetOrder": 244,
+   "Article": "der",
+   "GermanWithArticle": "der Arm, -e",
+   "GermanNoArticle": "Arm, -e",
+   "English": "arm",
+   "RandomNumber": 200
+ },
+ {
+   "AlphabetOrder": 233,
+   "Article": "der",
+   "GermanWithArticle": "der Anästhesist, -, Anäthesistin, -nen",
+   "GermanNoArticle": "Anästhesist, -, Anäthesistin, -nen",
+   "English": "anathesiologist",
+   "RandomNumber": 818
+ },
+ {
+   "AlphabetOrder": 167,
+   "Article": "das",
+   "GermanWithArticle": "das Schmuckgeschäft, -e",
+   "GermanNoArticle": "Schmuckgeschäft, -e",
+   "English": "jewelry store",
+   "RandomNumber": 588
+ },
+ {
+   "AlphabetOrder": 370,
+   "Article": "der",
+   "GermanWithArticle": "der Internist, -",
+   "GermanNoArticle": "Internist, -",
+   "English": "internalist",
+   "RandomNumber": 497
+ },
+ {
+   "AlphabetOrder": 506,
+   "Article": "der",
+   "GermanWithArticle": "der Schrank, -¨e",
+   "GermanNoArticle": "Schrank, -¨e",
+   "English": "cupboard, wardrobe",
+   "RandomNumber": 111
+ },
+ {
+   "AlphabetOrder": 395,
+   "Article": "der",
+   "GermanWithArticle": "der Korkenzieher, -",
+   "GermanNoArticle": "Korkenzieher, -",
+   "English": "corkscrew",
+   "RandomNumber": 41
+ },
+ {
+   "AlphabetOrder": 663,
+   "Article": "die",
+   "GermanWithArticle": "die Bohne, -n",
+   "GermanNoArticle": "Bohne, -n",
+   "English": "beans",
+   "RandomNumber": 650
+ },
+ {
+   "AlphabetOrder": 135,
+   "Article": "das",
+   "GermanWithArticle": "das Nasenloch, -¨er",
+   "GermanNoArticle": "Nasenloch, -¨er",
+   "English": "nostrils",
+   "RandomNumber": 854
+ },
+ {
+   "AlphabetOrder": 247,
+   "Article": "der",
+   "GermanWithArticle": "der Ausflug, -¨e",
+   "GermanNoArticle": "Ausflug, -¨e",
+   "English": "outing, field trip",
+   "RandomNumber": 85
+ },
+ {
+   "AlphabetOrder": 612,
+   "Article": "der",
+   "GermanWithArticle": "der Wunsch, -¨e",
+   "GermanNoArticle": "Wunsch, -¨e",
+   "English": "wish",
+   "RandomNumber": 643
+ },
+ {
+   "AlphabetOrder": 62,
+   "Article": "das",
+   "GermanWithArticle": "das Gefühl, -e",
+   "GermanNoArticle": "Gefühl, -e",
+   "English": "a feeling, feelings",
+   "RandomNumber": 89
+ },
+ {
+   "AlphabetOrder": 680,
+   "Article": "die",
+   "GermanWithArticle": "die Dreiheit, -X",
+   "GermanNoArticle": "Dreiheit, -X",
+   "English": "trinity",
+   "RandomNumber": 621
+ },
+ {
+   "AlphabetOrder": 736,
+   "Article": "die",
+   "GermanWithArticle": "die Gottheit, -en",
+   "GermanNoArticle": "Gottheit, -en",
+   "English": "deity, Godhead",
+   "RandomNumber": 794
+ },
+ {
+   "AlphabetOrder": 190,
+   "Article": "das",
+   "GermanWithArticle": "das Tor, -e",
+   "GermanNoArticle": "Tor, -e",
+   "English": "door, sport - goal",
+   "RandomNumber": 769
+ },
+ {
+   "AlphabetOrder": 639,
+   "Article": "die",
+   "GermanWithArticle": "die Aprikose, -n",
+   "GermanNoArticle": "Aprikose, -n",
+   "English": "apricot",
+   "RandomNumber": 711
+ },
+ {
+   "AlphabetOrder": 690,
+   "Article": "die",
+   "GermanWithArticle": "die Empfindlichkeit, x",
+   "GermanNoArticle": "Empfindlichkeit, x",
+   "English": "sensitivity",
+   "RandomNumber": 180
+ },
+ {
+   "AlphabetOrder": 342,
+   "Article": "der",
+   "GermanWithArticle": "der Gott, -¨er",
+   "GermanNoArticle": "Gott, -¨er",
+   "English": "God, gods",
+   "RandomNumber": 228
+ },
+ {
+   "AlphabetOrder": 99,
+   "Article": "das",
+   "GermanWithArticle": "das Joch, -e",
+   "GermanNoArticle": "Joch, -e",
+   "English": "yoke",
+   "RandomNumber": 27
+ },
+ {
+   "AlphabetOrder": 60,
+   "Article": "das",
+   "GermanWithArticle": "das Geflügel, -X",
+   "GermanNoArticle": "Geflügel, -X",
+   "English": "poultry",
+   "RandomNumber": 119
+ },
+ {
+   "AlphabetOrder": 986,
+   "Article": "die",
+   "GermanWithArticle": "die Wohnung, -en",
+   "GermanNoArticle": "Wohnung, -en",
+   "English": "apartment, house",
+   "RandomNumber": 50
+ },
+ {
+   "AlphabetOrder": 764,
+   "Article": "die",
+   "GermanWithArticle": "die Kartoffel, -n",
+   "GermanNoArticle": "Kartoffel, -n",
+   "English": "potato",
+   "RandomNumber": 132
+ },
+ {
+   "AlphabetOrder": 934,
+   "Article": "die",
+   "GermanWithArticle": "die Tüte, -n",
+   "GermanNoArticle": "Tüte, -n",
+   "English": "bag, cone",
+   "RandomNumber": 4
+ },
+ {
+   "AlphabetOrder": 288,
+   "Article": "der",
+   "GermanWithArticle": "der Dorn, -en",
+   "GermanNoArticle": "Dorn, -en",
+   "English": "thorn",
+   "RandomNumber": 438
+ },
+ {
+   "AlphabetOrder": 614,
+   "Article": "der",
+   "GermanWithArticle": "der Zahnstocher, -n",
+   "GermanNoArticle": "Zahnstocher, -n",
+   "English": "toothpick",
+   "RandomNumber": 738
+ },
+ {
+   "AlphabetOrder": 835,
+   "Article": "die",
+   "GermanWithArticle": "die Pfanne, -n",
+   "GermanNoArticle": "Pfanne, -n",
+   "English": "pan",
+   "RandomNumber": 44
+ },
+ {
+   "AlphabetOrder": 475,
+   "Article": "der",
+   "GermanWithArticle": "der Ring, -e",
+   "GermanNoArticle": "Ring, -e",
+   "English": "ring",
+   "RandomNumber": 506
+ },
+ {
+   "AlphabetOrder": 221,
+   "Article": "das",
+   "GermanWithArticle": "das Zimmer, -",
+   "GermanNoArticle": "Zimmer, -",
+   "English": "room",
+   "RandomNumber": 128
+ },
+ {
+   "AlphabetOrder": 961,
+   "Article": "die",
+   "GermanWithArticle": "die Vorschrift, -en",
+   "GermanNoArticle": "Vorschrift, -en",
+   "English": "commandment, directive",
+   "RandomNumber": 599
+ },
+ {
+   "AlphabetOrder": 168,
+   "Article": "das",
+   "GermanWithArticle": "das Schnitzel, -",
+   "GermanNoArticle": "Schnitzel, -",
+   "English": "pork cutlett",
+   "RandomNumber": 440
+ },
+ {
+   "AlphabetOrder": 206,
+   "Article": "das",
+   "GermanWithArticle": "das Vertrauen, -",
+   "GermanNoArticle": "Vertrauen, -",
+   "English": "trust",
+   "RandomNumber": 817
+ },
+ {
+   "AlphabetOrder": 562,
+   "Article": "der",
+   "GermanWithArticle": "der Tod, -e",
+   "GermanNoArticle": "Tod, -e",
+   "English": "death",
+   "RandomNumber": 435
+ },
+ {
+   "AlphabetOrder": 650,
+   "Article": "die",
+   "GermanWithArticle": "die Badewanne, -n",
+   "GermanNoArticle": "Badewanne, -n",
+   "English": "bathtub",
+   "RandomNumber": 48
+ },
+ {
+   "AlphabetOrder": 245,
+   "Article": "der",
+   "GermanWithArticle": "der Ast, -¨e",
+   "GermanNoArticle": "Ast, -¨e",
+   "English": "branch of a tree",
+   "RandomNumber": 123
+ },
+ {
+   "AlphabetOrder": 191,
+   "Article": "das",
+   "GermanWithArticle": "das Treffe, -n",
+   "GermanNoArticle": "Treffe, -n",
+   "English": "meeting",
+   "RandomNumber": 811
+ },
+ {
+   "AlphabetOrder": 552,
+   "Article": "der",
+   "GermanWithArticle": "der Takt, -e",
+   "GermanNoArticle": "Takt, -e",
+   "English": "(music) - bar, time",
+   "RandomNumber": 914
+ },
+ {
+   "AlphabetOrder": 586,
+   "Article": "der",
+   "GermanWithArticle": "der Videorekorder , -s",
+   "GermanNoArticle": "Videorekorder , -s",
+   "English": "videorecorder",
+   "RandomNumber": 371
+ },
+ {
+   "AlphabetOrder": 569,
+   "Article": "der",
+   "GermanWithArticle": "der Tropfen, -X",
+   "GermanNoArticle": "Tropfen, -X",
+   "English": "drops",
+   "RandomNumber": 999
+ },
+ {
+   "AlphabetOrder": 981,
+   "Article": "die",
+   "GermanWithArticle": "die Wimper, -n",
+   "GermanNoArticle": "Wimper, -n",
+   "English": "eyelash",
+   "RandomNumber": 272
+ },
+ {
+   "AlphabetOrder": 682,
+   "Article": "die",
+   "GermanWithArticle": "die Drogerie, -en",
+   "GermanNoArticle": "Drogerie, -en",
+   "English": "chemist, apotheke, drugstore",
+   "RandomNumber": 238
+ },
+ {
+   "AlphabetOrder": 311,
+   "Article": "der",
+   "GermanWithArticle": "der Fingerabdruck, -¨n",
+   "GermanNoArticle": "Fingerabdruck, -¨n",
+   "English": "fingerprint",
+   "RandomNumber": 533
+ },
+ {
+   "AlphabetOrder": 965,
+   "Article": "die",
+   "GermanWithArticle": "die Vorwahl, -en",
+   "GermanNoArticle": "Vorwahl, -en",
+   "English": "preliminary election",
+   "RandomNumber": 826
+ },
+ {
+   "AlphabetOrder": 743,
+   "Article": "die",
+   "GermanWithArticle": "die Halbpension, die Vollpension",
+   "GermanNoArticle": "Halbpension, die Vollpension",
+   "English": "room and board, full or half",
+   "RandomNumber": 616
+ },
+ {
+   "AlphabetOrder": 613,
+   "Article": "der",
+   "GermanWithArticle": "der Zahn, -¨e",
+   "GermanNoArticle": "Zahn, -¨e",
+   "English": "tooth, teeth",
+   "RandomNumber": 566
+ },
+ {
+   "AlphabetOrder": 283,
+   "Article": "der",
+   "GermanWithArticle": "der Detektiv, -e, die Detektei",
+   "GermanNoArticle": "Detektiv, -e, die Detektei",
+   "English": "detective",
+   "RandomNumber": 993
+ },
+ {
+   "AlphabetOrder": 266,
+   "Article": "der",
+   "GermanWithArticle": "der Blumenkohl, -",
+   "GermanNoArticle": "Blumenkohl, -",
+   "English": "cauliflower",
+   "RandomNumber": 178
+ },
+ {
+   "AlphabetOrder": 795,
+   "Article": "die",
+   "GermanWithArticle": "die Limonade, -n",
+   "GermanNoArticle": "Limonade, -n",
+   "English": "limonade",
+   "RandomNumber": 511
+ },
+ {
+   "AlphabetOrder": 358,
+   "Article": "der",
+   "GermanWithArticle": "der Held, -en, die Heldin, -nen",
+   "GermanNoArticle": "Held, -en, die Heldin, -nen",
+   "English": "hero, heroin",
+   "RandomNumber": 421
+ },
+ {
+   "AlphabetOrder": 672,
+   "Article": "die",
+   "GermanWithArticle": "die Buchhandlung, -en",
+   "GermanNoArticle": "Buchhandlung, -en",
+   "English": "bookstore",
+   "RandomNumber": 135
+ },
+ {
+   "AlphabetOrder": 540,
+   "Article": "der",
+   "GermanWithArticle": "der Strand, -¨e",
+   "GermanNoArticle": "Strand, -¨e",
+   "English": "beach",
+   "RandomNumber": 737
+ },
+ {
+   "AlphabetOrder": 679,
+   "Article": "die",
+   "GermanWithArticle": "die Dose, -n",
+   "GermanNoArticle": "Dose, -n",
+   "English": "tin of something",
+   "RandomNumber": 696
+ },
+ {
+   "AlphabetOrder": 802,
+   "Article": "die",
+   "GermanWithArticle": "die Marketingabteilung, -en",
+   "GermanNoArticle": "Marketingabteilung, -en",
+   "English": "the marketing department",
+   "RandomNumber": 809
+ },
+ {
+   "AlphabetOrder": 294,
+   "Article": "der",
+   "GermanWithArticle": "der Düsenantrieb, -X",
+   "GermanNoArticle": "Düsenantrieb, -X",
+   "English": "jet propulsion",
+   "RandomNumber": 878
+ },
+ {
+   "AlphabetOrder": 208,
+   "Article": "das",
+   "GermanWithArticle": "das Vieh,",
+   "GermanNoArticle": "Vieh,",
+   "English": "cattle",
+   "RandomNumber": 719
+ },
+ {
+   "AlphabetOrder": 159,
+   "Article": "das",
+   "GermanWithArticle": "das Rezept, -e",
+   "GermanNoArticle": "Rezept, -e",
+   "English": "prescription",
+   "RandomNumber": 264
+ },
+ {
+   "AlphabetOrder": 117,
+   "Article": "das",
+   "GermanWithArticle": "das Kugelstoßen, -",
+   "GermanNoArticle": "Kugelstoßen, -",
+   "English": "shot put (sport)",
+   "RandomNumber": 453
+ },
+ {
+   "AlphabetOrder": 82,
+   "Article": "das",
+   "GermanWithArticle": "das Grundstück, -e",
+   "GermanNoArticle": "Grundstück, -e",
+   "English": "piece of land, real estate, lot",
+   "RandomNumber": 154
+ },
+ {
+   "AlphabetOrder": 292,
+   "Article": "der",
+   "GermanWithArticle": "der Dung, -x",
+   "GermanNoArticle": "Dung, -x",
+   "English": "dung, manure",
+   "RandomNumber": 107
+ },
+ {
+   "AlphabetOrder": 480,
+   "Article": "der",
+   "GermanWithArticle": "der Ruhm, x",
+   "GermanNoArticle": "Ruhm, x",
+   "English": "glory",
+   "RandomNumber": 407
+ },
+ {
+   "AlphabetOrder": 299,
+   "Article": "der",
+   "GermanWithArticle": "der Eiskunstlauf, -x",
+   "GermanNoArticle": "Eiskunstlauf, -x",
+   "English": "figure skating",
+   "RandomNumber": 296
+ },
+ {
+   "AlphabetOrder": 309,
+   "Article": "der",
+   "GermanWithArticle": "der Feldrand, -¨er",
+   "GermanNoArticle": "Feldrand, -¨er",
+   "English": "edge of a field",
+   "RandomNumber": 70
+ },
+ {
+   "AlphabetOrder": 623,
+   "Article": "der",
+   "GermanWithArticle": "der Zweig, -e",
+   "GermanNoArticle": "Zweig, -e",
+   "English": "twig",
+   "RandomNumber": 174
+ },
+ {
+   "AlphabetOrder": 970,
+   "Article": "die",
+   "GermanWithArticle": "die Wange, -n",
+   "GermanNoArticle": "Wange, -n",
+   "English": "cheeks",
+   "RandomNumber": 472
+ },
+ {
+   "AlphabetOrder": 872,
+   "Article": "die",
+   "GermanWithArticle": "die Rüstung, -en",
+   "GermanNoArticle": "Rüstung, -en",
+   "English": "arms, weapons",
+   "RandomNumber": 749
+ },
+ {
+   "AlphabetOrder": 332,
+   "Article": "der",
+   "GermanWithArticle": "der Gang, -¨e",
+   "GermanNoArticle": "Gang, -¨e",
+   "English": "walkway, corridor",
+   "RandomNumber": 641
+ },
+ {
+   "AlphabetOrder": 919,
+   "Article": "die",
+   "GermanWithArticle": "die Süße, -",
+   "GermanNoArticle": "Süße, -",
+   "English": "sweets",
+   "RandomNumber": 118
+ },
+ {
+   "AlphabetOrder": 436,
+   "Article": "der",
+   "GermanWithArticle": "der Name, -n",
+   "GermanNoArticle": "Name, -n",
+   "English": "name",
+   "RandomNumber": 844
+ },
+ {
+   "AlphabetOrder": 102,
+   "Article": "das",
+   "GermanWithArticle": "das Känguru, -s",
+   "GermanNoArticle": "Känguru, -s",
+   "English": "kangaroo",
+   "RandomNumber": 589
+ },
+ {
+   "AlphabetOrder": 174,
+   "Article": "das",
+   "GermanWithArticle": "das Sekretariat, -e",
+   "GermanNoArticle": "Sekretariat, -e",
+   "English": "office",
+   "RandomNumber": 306
+ },
+ {
+   "AlphabetOrder": 141,
+   "Article": "das",
+   "GermanWithArticle": "das Paar, -e",
+   "GermanNoArticle": "Paar, -e",
+   "English": "a pair of something",
+   "RandomNumber": 142
+ },
+ {
+   "AlphabetOrder": 331,
+   "Article": "der",
+   "GermanWithArticle": "der Gammel, -X",
+   "GermanNoArticle": "Gammel, -X",
+   "English": "rubbish",
+   "RandomNumber": 775
+ },
+ {
+   "AlphabetOrder": 263,
+   "Article": "der",
+   "GermanWithArticle": "der Beweis, -e",
+   "GermanNoArticle": "Beweis, -e",
+   "English": "proof",
+   "RandomNumber": 978
+ },
+ {
+   "AlphabetOrder": 709,
+   "Article": "die",
+   "GermanWithArticle": "die Fischsemmel, n",
+   "GermanNoArticle": "Fischsemmel, n",
+   "English": "fish bread, fish sandwich",
+   "RandomNumber": 812
+ },
+ {
+   "AlphabetOrder": 701,
+   "Article": "die",
+   "GermanWithArticle": "die Fahrkarte, -n",
+   "GermanNoArticle": "Fahrkarte, -n",
+   "English": "train ticket, bus ticket, etc.",
+   "RandomNumber": 789
+ },
+ {
+   "AlphabetOrder": 297,
+   "Article": "der",
+   "GermanWithArticle": "der Einkaufszettel, -",
+   "GermanNoArticle": "Einkaufszettel, -",
+   "English": "shopping list",
+   "RandomNumber": 727
+ },
+ {
+   "AlphabetOrder": 187,
+   "Article": "das",
+   "GermanWithArticle": "das Thema, -en",
+   "GermanNoArticle": "Thema, -en",
+   "English": "theme, topic",
+   "RandomNumber": 473
+ },
+ {
+   "AlphabetOrder": 70,
+   "Article": "das",
+   "GermanWithArticle": "das Geschenk, -e",
+   "GermanNoArticle": "Geschenk, -e",
+   "English": "gift",
+   "RandomNumber": 587
+ },
+ {
+   "AlphabetOrder": 741,
+   "Article": "die",
+   "GermanWithArticle": "die Gurke, -n",
+   "GermanNoArticle": "Gurke, -n",
+   "English": "cucumber",
+   "RandomNumber": 909
+ },
+ {
+   "AlphabetOrder": 973,
+   "Article": "die",
+   "GermanWithArticle": "die Wäscheleine, -n",
+   "GermanNoArticle": "Wäscheleine, -n",
+   "English": "clothesline",
+   "RandomNumber": 73
+ },
+ {
+   "AlphabetOrder": 771,
+   "Article": "die",
+   "GermanWithArticle": "die Kneipe, -n",
+   "GermanNoArticle": "Kneipe, -n",
+   "English": "pub",
+   "RandomNumber": 761
+ },
+ {
+   "AlphabetOrder": 237,
+   "Article": "der",
+   "GermanWithArticle": "der Anlass, -¨e",
+   "GermanNoArticle": "Anlass, -¨e",
+   "English": "motive, cause",
+   "RandomNumber": 797
+ },
+ {
+   "AlphabetOrder": 420,
+   "Article": "der",
+   "GermanWithArticle": "der Maiskolben, -X",
+   "GermanNoArticle": "Maiskolben, -X",
+   "English": "corncob",
+   "RandomNumber": 315
+ },
+ {
+   "AlphabetOrder": 44,
+   "Article": "das",
+   "GermanWithArticle": "das Fahrzeug, -e",
+   "GermanNoArticle": "Fahrzeug, -e",
+   "English": "vehicle",
+   "RandomNumber": 418
+ },
+ {
+   "AlphabetOrder": 908,
+   "Article": "die",
+   "GermanWithArticle": "die Stange, -n",
+   "GermanNoArticle": "Stange, -n",
+   "English": "pole, bar",
+   "RandomNumber": 977
+ },
+ {
+   "AlphabetOrder": 224,
+   "Article": "der",
+   "GermanWithArticle": "der Abflug, -¨e",
+   "GermanNoArticle": "Abflug, -¨e",
+   "English": "departure",
+   "RandomNumber": 404
+ },
+ {
+   "AlphabetOrder": 495,
+   "Article": "der",
+   "GermanWithArticle": "der Schlitten, -",
+   "GermanNoArticle": "Schlitten, -",
+   "English": "sled, sledge",
+   "RandomNumber": 840
+ },
+ {
+   "AlphabetOrder": 184,
+   "Article": "das",
+   "GermanWithArticle": "das Talent, -e",
+   "GermanNoArticle": "Talent, -e",
+   "English": "talent, capacity, bib. - measure of weight",
+   "RandomNumber": 276
+ },
+ {
+   "AlphabetOrder": 129,
+   "Article": "das",
+   "GermanWithArticle": "das Metermaß, -e",
+   "GermanNoArticle": "Metermaß, -e",
+   "English": "ruler, measuring tape",
+   "RandomNumber": 25
+ },
+ {
+   "AlphabetOrder": 352,
+   "Article": "der",
+   "GermanWithArticle": "der Hammer, -¨",
+   "GermanNoArticle": "Hammer, -¨",
+   "English": "hammer",
+   "RandomNumber": 46
+ },
+ {
+   "AlphabetOrder": 751,
+   "Article": "die",
+   "GermanWithArticle": "die Heizung, -en",
+   "GermanNoArticle": "Heizung, -en",
+   "English": "heating",
+   "RandomNumber": 846
+ },
+ {
+   "AlphabetOrder": 549,
+   "Article": "der",
+   "GermanWithArticle": "der Suppenteller, -",
+   "GermanNoArticle": "Suppenteller, -",
+   "English": "soup bowl",
+   "RandomNumber": 661
+ },
+ {
+   "AlphabetOrder": 307,
+   "Article": "der",
+   "GermanWithArticle": "der Fehler, -",
+   "GermanNoArticle": "Fehler, -",
+   "English": "mistake",
+   "RandomNumber": 484
+ },
+ {
+   "AlphabetOrder": 605,
+   "Article": "der",
+   "GermanWithArticle": "der Wettbewerb, -X",
+   "GermanNoArticle": "Wettbewerb, -X",
+   "English": "competition",
+   "RandomNumber": 898
+ },
+ {
+   "AlphabetOrder": 133,
+   "Article": "das",
+   "GermanWithArticle": "das Möbelhaus, -¨er",
+   "GermanNoArticle": "Möbelhaus, -¨er",
+   "English": "furniture store",
+   "RandomNumber": 443
+ },
+ {
+   "AlphabetOrder": 387,
+   "Article": "der",
+   "GermanWithArticle": "der Koffer, -",
+   "GermanNoArticle": "Koffer, -",
+   "English": "suitcase",
+   "RandomNumber": 248
+ },
+ {
+   "AlphabetOrder": 779,
+   "Article": "die",
+   "GermanWithArticle": "die Krankmeldung, -en",
+   "GermanNoArticle": "Krankmeldung, -en",
+   "English": "doctor's excuse",
+   "RandomNumber": 406
+ },
+ {
+   "AlphabetOrder": 205,
+   "Article": "das",
+   "GermanWithArticle": "das Verschwinden, -",
+   "GermanNoArticle": "Verschwinden, -",
+   "English": "disappearance",
+   "RandomNumber": 62
+ },
+ {
+   "AlphabetOrder": 123,
+   "Article": "das",
+   "GermanWithArticle": "das Lob, -e",
+   "GermanNoArticle": "Lob, -e",
+   "English": "praise",
+   "RandomNumber": 801
+ },
+ {
+   "AlphabetOrder": 12,
+   "Article": "das",
+   "GermanWithArticle": "das Beet, -e",
+   "GermanNoArticle": "Beet, -e",
+   "English": "bed, patch (of flowers, etc.)",
+   "RandomNumber": 508
+ },
+ {
+   "AlphabetOrder": 169,
+   "Article": "das",
+   "GermanWithArticle": "das Schreibwarengeschäft, -e",
+   "GermanNoArticle": "Schreibwarengeschäft, -e",
+   "English": "stationery store",
+   "RandomNumber": 585
+ },
+ {
+   "AlphabetOrder": 792,
+   "Article": "die",
+   "GermanWithArticle": "die Leichtathletik, -x",
+   "GermanNoArticle": "Leichtathletik, -x",
+   "English": "track and field",
+   "RandomNumber": 367
+ },
+ {
+   "AlphabetOrder": 803,
+   "Article": "die",
+   "GermanWithArticle": "die Marmelade, -n",
+   "GermanNoArticle": "Marmelade, -n",
+   "English": "jam",
+   "RandomNumber": 685
+ },
+ {
+   "AlphabetOrder": 983,
+   "Article": "die",
+   "GermanWithArticle": "die Windpocken, -",
+   "GermanNoArticle": "Windpocken, -",
+   "English": "chickenpox",
+   "RandomNumber": 88
+ },
+ {
+   "AlphabetOrder": 76,
+   "Article": "das",
+   "GermanWithArticle": "das Getreide, -n",
+   "GermanNoArticle": "Getreide, -n",
+   "English": "grain, cereals",
+   "RandomNumber": 904
+ },
+ {
+   "AlphabetOrder": 909,
+   "Article": "die",
+   "GermanWithArticle": "die Startbahn, -en, die Landebahn, -en",
+   "GermanNoArticle": "Startbahn, -en, die Landebahn, -en",
+   "English": "runway",
+   "RandomNumber": 289
+ },
+ {
+   "AlphabetOrder": 322,
+   "Article": "der",
+   "GermanWithArticle": "der Fön, -e",
+   "GermanNoArticle": "Fön, -e",
+   "English": "hairdryer",
+   "RandomNumber": 339
+ },
+ {
+   "AlphabetOrder": 755,
+   "Article": "die",
+   "GermanWithArticle": "die Hurerei, -en",
+   "GermanNoArticle": "Hurerei, -en",
+   "English": "prostitution",
+   "RandomNumber": 343
+ },
+ {
+   "AlphabetOrder": 962,
+   "Article": "die",
+   "GermanWithArticle": "die Vorsicht, -",
+   "GermanNoArticle": "Vorsicht, -",
+   "English": "caution, care",
+   "RandomNumber": 164
+ },
+ {
+   "AlphabetOrder": 704,
+   "Article": "die",
+   "GermanWithArticle": "die Fensterbank, -¨e",
+   "GermanNoArticle": "Fensterbank, -¨e",
+   "English": "window sill",
+   "RandomNumber": 917
+ },
+ {
+   "AlphabetOrder": 37,
+   "Article": "das",
+   "GermanWithArticle": "das Dreieck, -e",
+   "GermanNoArticle": "Dreieck, -e",
+   "English": "triangle",
+   "RandomNumber": 693
+ },
+ {
+   "AlphabetOrder": 223,
+   "Article": "der",
+   "GermanWithArticle": "der ABA",
+   "GermanNoArticle": "ABA",
+   "English": "answering machine",
+   "RandomNumber": 771
+ },
+ {
+   "AlphabetOrder": 155,
+   "Article": "das",
+   "GermanWithArticle": "das Regal, -e",
+   "GermanNoArticle": "Regal, -e",
+   "English": "bookshelves",
+   "RandomNumber": 871
+ },
+ {
+   "AlphabetOrder": 429,
+   "Article": "der",
+   "GermanWithArticle": "der Mund, ¨-er",
+   "GermanNoArticle": "Mund, ¨-er",
+   "English": "mouth",
+   "RandomNumber": 115
+ },
+ {
+   "AlphabetOrder": 401,
+   "Article": "der",
+   "GermanWithArticle": "der Kugelschreiber, -",
+   "GermanNoArticle": "Kugelschreiber, -",
+   "English": "ink pen",
+   "RandomNumber": 848
+ },
+ {
+   "AlphabetOrder": 113,
+   "Article": "das",
+   "GermanWithArticle": "das Koffein, -x",
+   "GermanNoArticle": "Koffein, -x",
+   "English": "caffeine",
+   "RandomNumber": 756
+ },
+ {
+   "AlphabetOrder": 740,
+   "Article": "die",
+   "GermanWithArticle": "die Gurgel, -n",
+   "GermanNoArticle": "Gurgel, -n",
+   "English": "throat",
+   "RandomNumber": 713
+ },
+ {
+   "AlphabetOrder": 925,
+   "Article": "die",
+   "GermanWithArticle": "die Tassen, -n",
+   "GermanNoArticle": "Tassen, -n",
+   "English": "coffee, tea cup",
+   "RandomNumber": 709
+ },
+ {
+   "AlphabetOrder": 745,
+   "Article": "die",
+   "GermanWithArticle": "die Harke, -n",
+   "GermanNoArticle": "Harke, -n",
+   "English": "rake",
+   "RandomNumber": 217
+ },
+ {
+   "AlphabetOrder": 367,
+   "Article": "der",
+   "GermanWithArticle": "der Husten, -X",
+   "GermanNoArticle": "Husten, -X",
+   "English": "cough",
+   "RandomNumber": 247
+ },
+ {
+   "AlphabetOrder": 325,
+   "Article": "der",
+   "GermanWithArticle": "der Frühaufsteher, -in",
+   "GermanNoArticle": "Frühaufsteher, -in",
+   "English": "early riser, hard working person",
+   "RandomNumber": 74
+ },
+ {
+   "AlphabetOrder": 533,
+   "Article": "der",
+   "GermanWithArticle": "der Stier, -e",
+   "GermanNoArticle": "Stier, -e",
+   "English": "A steer, a bull",
+   "RandomNumber": 503
+ },
+ {
+   "AlphabetOrder": 177,
+   "Article": "das",
+   "GermanWithArticle": "das Sofa, -s",
+   "GermanNoArticle": "Sofa, -s",
+   "English": "sofa, couch",
+   "RandomNumber": 559
+ },
+ {
+   "AlphabetOrder": 832,
+   "Article": "die",
+   "GermanWithArticle": "die Personalabteilung, -en",
+   "GermanNoArticle": "Personalabteilung, -en",
+   "English": "personnel department",
+   "RandomNumber": 353
+ },
+ {
+   "AlphabetOrder": 89,
+   "Article": "das",
+   "GermanWithArticle": "das Heimweh, -X",
+   "GermanNoArticle": "Heimweh, -X",
+   "English": "homesickness",
+   "RandomNumber": 17
+ },
+ {
+   "AlphabetOrder": 990,
+   "Article": "die",
+   "GermanWithArticle": "die Wurst, -¨e",
+   "GermanNoArticle": "Wurst, -¨e",
+   "English": "sausage",
+   "RandomNumber": 283
+ },
+ {
+   "AlphabetOrder": 455,
+   "Article": "der",
+   "GermanWithArticle": "der Pfirsich, -e",
+   "GermanNoArticle": "Pfirsich, -e",
+   "English": "peach",
+   "RandomNumber": 380
+ },
+ {
+   "AlphabetOrder": 656,
+   "Article": "die",
+   "GermanWithArticle": "die Begeisterung, -X",
+   "GermanNoArticle": "Begeisterung, -X",
+   "English": "enthusiasm",
+   "RandomNumber": 262
+ },
+ {
+   "AlphabetOrder": 538,
+   "Article": "der",
+   "GermanWithArticle": "der Stoß, -¨e",
+   "GermanNoArticle": "Stoß, -¨e",
+   "English": "push, shove, punch",
+   "RandomNumber": 184
+ },
+ {
+   "AlphabetOrder": 125,
+   "Article": "das",
+   "GermanWithArticle": "das Maul, -¨er",
+   "GermanNoArticle": "Maul, -¨er",
+   "English": "mouth, jaws (for animal)",
+   "RandomNumber": 617
+ },
+ {
+   "AlphabetOrder": 260,
+   "Article": "der",
+   "GermanWithArticle": "der Beginn, -",
+   "GermanNoArticle": "Beginn, -",
+   "English": "beginning, start",
+   "RandomNumber": 390
+ },
+ {
+   "AlphabetOrder": 126,
+   "Article": "das",
+   "GermanWithArticle": "das Medikament, -e",
+   "GermanNoArticle": "Medikament, -e",
+   "English": "medication",
+   "RandomNumber": 493
+ },
+ {
+   "AlphabetOrder": 634,
+   "Article": "die",
+   "GermanWithArticle": "die Anhöhe, -n",
+   "GermanNoArticle": "Anhöhe, -n",
+   "English": "bank, hill",
+   "RandomNumber": 233
+ },
+ {
+   "AlphabetOrder": 74,
+   "Article": "das",
+   "GermanWithArticle": "das Gesicht, -er",
+   "GermanNoArticle": "Gesicht, -er",
+   "English": "face",
+   "RandomNumber": 717
+ },
+ {
+   "AlphabetOrder": 476,
+   "Article": "der",
+   "GermanWithArticle": "der Ritter, -",
+   "GermanNoArticle": "Ritter, -",
+   "English": "knight",
+   "RandomNumber": 883
+ },
+ {
+   "AlphabetOrder": 706,
+   "Article": "die",
+   "GermanWithArticle": "die Fernbedienung, -en",
+   "GermanNoArticle": "Fernbedienung, -en",
+   "English": "TV remote",
+   "RandomNumber": 888
+ },
+ {
+   "AlphabetOrder": 855,
+   "Article": "die",
+   "GermanWithArticle": "die Rechtsabteilung, -en",
+   "GermanNoArticle": "Rechtsabteilung, -en",
+   "English": "legal department",
+   "RandomNumber": 78
+ },
+ {
+   "AlphabetOrder": 733,
+   "Article": "die",
+   "GermanWithArticle": "die Geschwister, (pl)",
+   "GermanNoArticle": "Geschwister, (pl)",
+   "English": "brothers and sisters",
+   "RandomNumber": 24
+ },
+ {
+   "AlphabetOrder": 558,
+   "Article": "der",
+   "GermanWithArticle": "der Teppich, -e",
+   "GermanNoArticle": "Teppich, -e",
+   "English": "carpeting, flooring",
+   "RandomNumber": 755
+ },
+ {
+   "AlphabetOrder": 264,
+   "Article": "der",
+   "GermanWithArticle": "der Bezwinger, -",
+   "GermanNoArticle": "Bezwinger, -",
+   "English": "conqueror",
+   "RandomNumber": 177
+ },
+ {
+   "AlphabetOrder": 443,
+   "Article": "der",
+   "GermanWithArticle": "der Oberschenkel, -",
+   "GermanNoArticle": "Oberschenkel, -",
+   "English": "thigh",
+   "RandomNumber": 731
+ },
+ {
+   "AlphabetOrder": 773,
+   "Article": "die",
+   "GermanWithArticle": "die Kokonuss, -e",
+   "GermanNoArticle": "Kokonuss, -e",
+   "English": "coconut",
+   "RandomNumber": 542
+ },
+ {
+   "AlphabetOrder": 892,
+   "Article": "die",
+   "GermanWithArticle": "die Schwelle, -n",
+   "GermanNoArticle": "Schwelle, -n",
+   "English": "threshhold - psych, phys, door threshhold",
+   "RandomNumber": 556
+ },
+ {
+   "AlphabetOrder": 61,
+   "Article": "das",
+   "GermanWithArticle": "das Gefolge, -",
+   "GermanNoArticle": "Gefolge, -",
+   "English": "entourage",
+   "RandomNumber": 211
+ },
+ {
+   "AlphabetOrder": 637,
+   "Article": "die",
+   "GermanWithArticle": "die Apfelsine, -n",
+   "GermanNoArticle": "Apfelsine, -n",
+   "English": "orange, orange tree",
+   "RandomNumber": 668
+ },
+ {
+   "AlphabetOrder": 479,
+   "Article": "der",
+   "GermanWithArticle": "der Rücken, -",
+   "GermanNoArticle": "Rücken, -",
+   "English": "the back, spine",
+   "RandomNumber": 445
+ },
+ {
+   "AlphabetOrder": 591,
+   "Article": "der",
+   "GermanWithArticle": "der Vorstandsvorsitzende, -",
+   "GermanNoArticle": "Vorstandsvorsitzende, -",
+   "English": "corporate president, head of the board",
+   "RandomNumber": 766
+ },
+ {
+   "AlphabetOrder": 734,
+   "Article": "die",
+   "GermanWithArticle": "die Geselligkeit, X",
+   "GermanNoArticle": "Geselligkeit, X",
+   "English": "sociability",
+   "RandomNumber": 325
+ },
+ {
+   "AlphabetOrder": 203,
+   "Article": "das",
+   "GermanWithArticle": "das Verhältnis, -X",
+   "GermanNoArticle": "Verhältnis, -X",
+   "English": "relationship, affair",
+   "RandomNumber": 265
+ },
+ {
+   "AlphabetOrder": 115,
+   "Article": "das",
+   "GermanWithArticle": "das Kotelett, -e",
+   "GermanNoArticle": "Kotelett, -e",
+   "English": "cutlet",
+   "RandomNumber": 873
+ },
+ {
+   "AlphabetOrder": 152,
+   "Article": "das",
+   "GermanWithArticle": "das Rankengewächs, -e",
+   "GermanNoArticle": "Rankengewächs, -e",
+   "English": "creeping plant",
+   "RandomNumber": 736
+ },
+ {
+   "AlphabetOrder": 434,
+   "Article": "der",
+   "GermanWithArticle": "der Nachbar, -, die Nachbarin, -nen",
+   "GermanNoArticle": "Nachbar, -, die Nachbarin, -nen",
+   "English": "neighbor",
+   "RandomNumber": 697
+ },
+ {
+   "AlphabetOrder": 302,
+   "Article": "der",
+   "GermanWithArticle": "der Esel, -",
+   "GermanNoArticle": "Esel, -",
+   "English": "donkey",
+   "RandomNumber": 461
+ },
+ {
+   "AlphabetOrder": 415,
+   "Article": "der",
+   "GermanWithArticle": "der Liebling, -s",
+   "GermanNoArticle": "Liebling, -s",
+   "English": "loved one",
+   "RandomNumber": 565
+ },
+ {
+   "AlphabetOrder": 182,
+   "Article": "das",
+   "GermanWithArticle": "das Ständchen, -",
+   "GermanNoArticle": "Ständchen, -",
+   "English": "seranade",
+   "RandomNumber": 646
+ },
+ {
+   "AlphabetOrder": 812,
+   "Article": "die",
+   "GermanWithArticle": "die Mitternacht, -",
+   "GermanNoArticle": "Mitternacht, -",
+   "English": "midnight",
+   "RandomNumber": 331
+ },
+ {
+   "AlphabetOrder": 489,
+   "Article": "der",
+   "GermanWithArticle": "der Schalter, -",
+   "GermanNoArticle": "Schalter, -",
+   "English": "counter, switch",
+   "RandomNumber": 210
+ },
+ {
+   "AlphabetOrder": 430,
+   "Article": "der",
+   "GermanWithArticle": "der Musiker, -, die Musikerin, -nen",
+   "GermanNoArticle": "Musiker, -, die Musikerin, -nen",
+   "English": "musician",
+   "RandomNumber": 911
+ },
+ {
+   "AlphabetOrder": 699,
+   "Article": "die",
+   "GermanWithArticle": "die Erwachsene, -elle, -r",
+   "GermanNoArticle": "Erwachsene, -elle, -r",
+   "English": "adult, grown up",
+   "RandomNumber": 517
+ },
+ {
+   "AlphabetOrder": 936,
+   "Article": "die",
+   "GermanWithArticle": "die Übersetzung, -en",
+   "GermanNoArticle": "Übersetzung, -en",
+   "English": "translation",
+   "RandomNumber": 358
+ },
+ {
+   "AlphabetOrder": 327,
+   "Article": "der",
+   "GermanWithArticle": "der Führerschein, -e",
+   "GermanNoArticle": "Führerschein, -e",
+   "English": "driver´s license",
+   "RandomNumber": 628
+ },
+ {
+   "AlphabetOrder": 390,
+   "Article": "der",
+   "GermanWithArticle": "der Kontrolleur, -",
+   "GermanNoArticle": "Kontrolleur, -",
+   "English": "inspector",
+   "RandomNumber": 879
+ },
+ {
+   "AlphabetOrder": 192,
+   "Article": "das",
+   "GermanWithArticle": "das Triebwerk, -e",
+   "GermanNoArticle": "Triebwerk, -e",
+   "English": "engine, power plant",
+   "RandomNumber": 723
+ },
+ {
+   "AlphabetOrder": 757,
+   "Article": "die",
+   "GermanWithArticle": "die Insel, -n",
+   "GermanNoArticle": "Insel, -n",
+   "English": "island",
+   "RandomNumber": 235
+ },
+ {
+   "AlphabetOrder": 31,
+   "Article": "das",
+   "GermanWithArticle": "das Datum, -en",
+   "GermanNoArticle": "Datum, -en",
+   "English": "date",
+   "RandomNumber": 662
+ },
+ {
+   "AlphabetOrder": 252,
+   "Article": "der",
+   "GermanWithArticle": "der Balkon, -e",
+   "GermanNoArticle": "Balkon, -e",
+   "English": "balcony",
+   "RandomNumber": 273
+ },
+ {
+   "AlphabetOrder": 869,
+   "Article": "die",
+   "GermanWithArticle": "die Rübe, -n",
+   "GermanNoArticle": "Rübe, -n",
+   "English": "turnip",
+   "RandomNumber": 471
+ },
+ {
+   "AlphabetOrder": 473,
+   "Article": "der",
+   "GermanWithArticle": "der Rhythmus, -",
+   "GermanNoArticle": "Rhythmus, -",
+   "English": "rhythm",
+   "RandomNumber": 239
+ },
+ {
+   "AlphabetOrder": 19,
+   "Article": "das",
+   "GermanWithArticle": "das Blatt, -¨er",
+   "GermanNoArticle": "Blatt, -¨er",
+   "English": "leaf, leaves",
+   "RandomNumber": 810
+ },
+ {
+   "AlphabetOrder": 946,
+   "Article": "die",
+   "GermanWithArticle": "die Verabredung, -en",
+   "GermanNoArticle": "Verabredung, -en",
+   "English": "arrangement, private appointment",
+   "RandomNumber": 314
+ },
+ {
+   "AlphabetOrder": 158,
+   "Article": "das",
+   "GermanWithArticle": "das Restaurant, -s",
+   "GermanNoArticle": "Restaurant, -s",
+   "English": "restaurant",
+   "RandomNumber": 896
+ },
+ {
+   "AlphabetOrder": 408,
+   "Article": "der",
+   "GermanWithArticle": "der Langschläfer, -in",
+   "GermanNoArticle": "Langschläfer, -in",
+   "English": "late sleeper, lazy person",
+   "RandomNumber": 659
+ },
+ {
+   "AlphabetOrder": 356,
+   "Article": "der",
+   "GermanWithArticle": "der Heilend, -e",
+   "GermanNoArticle": "Heilend, -e",
+   "English": "savior",
+   "RandomNumber": 642
+ },
+ {
+   "AlphabetOrder": 620,
+   "Article": "der",
+   "GermanWithArticle": "der Zoll, -¨e",
+   "GermanNoArticle": "Zoll, -¨e",
+   "English": "tax, fee, toll, customs duty",
+   "RandomNumber": 979
+ },
+ {
+   "AlphabetOrder": 640,
+   "Article": "die",
+   "GermanWithArticle": "die Armlehne, -n",
+   "GermanNoArticle": "Armlehne, -n",
+   "English": "armrest",
+   "RandomNumber": 117
+ },
+ {
+   "AlphabetOrder": 850,
+   "Article": "die",
+   "GermanWithArticle": "die Puppe, -n",
+   "GermanNoArticle": "Puppe, -n",
+   "English": "doll",
+   "RandomNumber": 837
+ },
+ {
+   "AlphabetOrder": 482,
+   "Article": "der",
+   "GermanWithArticle": "der Sack, -¨e",
+   "GermanNoArticle": "Sack, -¨e",
+   "English": "sack",
+   "RandomNumber": 8
+ },
+ {
+   "AlphabetOrder": 257,
+   "Article": "der",
+   "GermanWithArticle": "der Bauch, -¨e",
+   "GermanNoArticle": "Bauch, -¨e",
+   "English": "stomach",
+   "RandomNumber": 884
+ },
+ {
+   "AlphabetOrder": 756,
+   "Article": "die",
+   "GermanWithArticle": "die Informationswirtschaft, -en",
+   "GermanNoArticle": "Informationswirtschaft, -en",
+   "English": "information economy",
+   "RandomNumber": 114
+ },
+ {
+   "AlphabetOrder": 440,
+   "Article": "der",
+   "GermanWithArticle": "der Nu, -X",
+   "GermanNoArticle": "Nu, -X",
+   "English": "no time",
+   "RandomNumber": 429
+ },
+ {
+   "AlphabetOrder": 903,
+   "Article": "die",
+   "GermanWithArticle": "die Sportskanone, -n",
+   "GermanNoArticle": "Sportskanone, -n",
+   "English": "sports star",
+   "RandomNumber": 750
+ },
+ {
+   "AlphabetOrder": 777,
+   "Article": "die",
+   "GermanWithArticle": "die Kosten, -",
+   "GermanNoArticle": "Kosten, -",
+   "English": "costs",
+   "RandomNumber": 323
+ },
+ {
+   "AlphabetOrder": 988,
+   "Article": "die",
+   "GermanWithArticle": "die Wunde, -n",
+   "GermanNoArticle": "Wunde, -n",
+   "English": "wound",
+   "RandomNumber": 220
+ },
+ {
+   "AlphabetOrder": 361,
+   "Article": "der",
+   "GermanWithArticle": "der Hinduismus, x",
+   "GermanNoArticle": "Hinduismus, x",
+   "English": "hinduism",
+   "RandomNumber": 835
+ },
+ {
+   "AlphabetOrder": 508,
+   "Article": "der",
+   "GermanWithArticle": "der Schwager, die Schwägerin",
+   "GermanNoArticle": "Schwager, die Schwägerin",
+   "English": "brother in law, sister in law",
+   "RandomNumber": 71
+ },
+ {
+   "AlphabetOrder": 276,
+   "Article": "der",
+   "GermanWithArticle": "der Chef, -s",
+   "GermanNoArticle": "Chef, -s",
+   "English": "boss",
+   "RandomNumber": 832
+ },
+ {
+   "AlphabetOrder": 555,
+   "Article": "der",
+   "GermanWithArticle": "der Tee, -s",
+   "GermanNoArticle": "Tee, -s",
+   "English": "tea",
+   "RandomNumber": 194
+ },
+ {
+   "AlphabetOrder": 234,
+   "Article": "der",
+   "GermanWithArticle": "der Anblick, -e",
+   "GermanNoArticle": "Anblick, -e",
+   "English": "sight, a look",
+   "RandomNumber": 39
+ },
+ {
+   "AlphabetOrder": 543,
+   "Article": "der",
+   "GermanWithArticle": "der Strauss, -¨e",
+   "GermanNoArticle": "Strauss, -¨e",
+   "English": "ostrich",
+   "RandomNumber": 804
+ },
+ {
+   "AlphabetOrder": 575,
+   "Article": "der",
+   "GermanWithArticle": "der Unfall, -¨e",
+   "GermanNoArticle": "Unfall, -¨e",
+   "English": "accident, wreck",
+   "RandomNumber": 15
+ },
+ {
+   "AlphabetOrder": 147,
+   "Article": "das",
+   "GermanWithArticle": "das Picknick, -e",
+   "GermanNoArticle": "Picknick, -e",
+   "English": "picnic",
+   "RandomNumber": 695
+ },
+ {
+   "AlphabetOrder": 945,
+   "Article": "die",
+   "GermanWithArticle": "die Urgroßmutter, -n",
+   "GermanNoArticle": "Urgroßmutter, -n",
+   "English": "grandmother",
+   "RandomNumber": 722
+ },
+ {
+   "AlphabetOrder": 847,
+   "Article": "die",
+   "GermanWithArticle": "die Praline, -n",
+   "GermanNoArticle": "Praline, -n",
+   "English": "chocolate with cream or alcohol",
+   "RandomNumber": 308
+ },
+ {
+   "AlphabetOrder": 711,
+   "Article": "die",
+   "GermanWithArticle": "die Flucht, -en",
+   "GermanNoArticle": "Flucht, -en",
+   "English": "escape, getaway",
+   "RandomNumber": 454
+ },
+ {
+   "AlphabetOrder": 581,
+   "Article": "der",
+   "GermanWithArticle": "der Verlust, -e",
+   "GermanNoArticle": "Verlust, -e",
+   "English": "loss",
+   "RandomNumber": 293
+ },
+ {
+   "AlphabetOrder": 851,
+   "Article": "die",
+   "GermanWithArticle": "die Pute, -n",
+   "GermanNoArticle": "Pute, -n",
+   "English": "turkey",
+   "RandomNumber": 923
+ },
+ {
+   "AlphabetOrder": 9,
+   "Article": "das",
+   "GermanWithArticle": "das Aussehen, -X",
+   "GermanNoArticle": "Aussehen, -X",
+   "English": "appearance",
+   "RandomNumber": 744
+ },
+ {
+   "AlphabetOrder": 818,
+   "Article": "die",
+   "GermanWithArticle": "die Nacht, -¨e",
+   "GermanNoArticle": "Nacht, -¨e",
+   "English": "night",
+   "RandomNumber": 513
+ },
+ {
+   "AlphabetOrder": 982,
+   "Article": "die",
+   "GermanWithArticle": "die Windmühle, -n",
+   "GermanNoArticle": "Windmühle, -n",
+   "English": "windmill",
+   "RandomNumber": 833
+ },
+ {
+   "AlphabetOrder": 298,
+   "Article": "der",
+   "GermanWithArticle": "der Einwander er, -",
+   "GermanNoArticle": "Einwander er, -",
+   "English": "immigrant",
+   "RandomNumber": 690
+ },
+ {
+   "AlphabetOrder": 58,
+   "Article": "das",
+   "GermanWithArticle": "das Gebot, -e",
+   "GermanNoArticle": "Gebot, -e",
+   "English": "command, commandments",
+   "RandomNumber": 860
+ },
+ {
+   "AlphabetOrder": 838,
+   "Article": "die",
+   "GermanWithArticle": "die Pfote, -n",
+   "GermanNoArticle": "Pfote, -n",
+   "English": "paws",
+   "RandomNumber": 989
+ },
+ {
+   "AlphabetOrder": 343,
+   "Article": "der",
+   "GermanWithArticle": "der Grund, -¨e",
+   "GermanNoArticle": "Grund, -¨e",
+   "English": "the reason, the matter",
+   "RandomNumber": 509
+ },
+ {
+   "AlphabetOrder": 38,
+   "Article": "das",
+   "GermanWithArticle": "das Dunkel, x",
+   "GermanNoArticle": "Dunkel, x",
+   "English": "darkness",
+   "RandomNumber": 885
+ },
+ {
+   "AlphabetOrder": 271,
+   "Article": "der",
+   "GermanWithArticle": "der Briefkasten, -¨",
+   "GermanNoArticle": "Briefkasten, -¨",
+   "English": "mailbox",
+   "RandomNumber": 600
+ },
+ {
+   "AlphabetOrder": 819,
+   "Article": "die",
+   "GermanWithArticle": "die Nadel, -n",
+   "GermanNoArticle": "Nadel, -n",
+   "English": "needle",
+   "RandomNumber": 881
+ },
+ {
+   "AlphabetOrder": 669,
+   "Article": "die",
+   "GermanWithArticle": "die Brücke, -n",
+   "GermanNoArticle": "Brücke, -n",
+   "English": "bridge",
+   "RandomNumber": 692
+ },
+ {
+   "AlphabetOrder": 16,
+   "Article": "das",
+   "GermanWithArticle": "das Besteck, -e",
+   "GermanNoArticle": "Besteck, -e",
+   "English": "cutlery, flatware, silverware",
+   "RandomNumber": 540
+ },
+ {
+   "AlphabetOrder": 450,
+   "Article": "der",
+   "GermanWithArticle": "der Paprika, -X",
+   "GermanNoArticle": "Paprika, -X",
+   "English": "bell peppers",
+   "RandomNumber": 466
+ },
+ {
+   "AlphabetOrder": 619,
+   "Article": "der",
+   "GermanWithArticle": "der Zipfel, -",
+   "GermanNoArticle": "Zipfel, -",
+   "English": "corner, point",
+   "RandomNumber": 304
+ },
+ {
+   "AlphabetOrder": 762,
+   "Article": "die",
+   "GermanWithArticle": "die Kanone, -n",
+   "GermanNoArticle": "Kanone, -n",
+   "English": "cannon",
+   "RandomNumber": 872
+ },
+ {
+   "AlphabetOrder": 498,
+   "Article": "der",
+   "GermanWithArticle": "der Schlüssel, -",
+   "GermanNoArticle": "Schlüssel, -",
+   "English": "key",
+   "RandomNumber": 54
+ },
+ {
+   "AlphabetOrder": 441,
+   "Article": "der",
+   "GermanWithArticle": "der Nudelsalat, -e",
+   "GermanNoArticle": "Nudelsalat, -e",
+   "English": "pasta salad",
+   "RandomNumber": 22
+ },
+ {
+   "AlphabetOrder": 394,
+   "Article": "der",
+   "GermanWithArticle": "der Korken, -",
+   "GermanNoArticle": "Korken, -",
+   "English": "cork",
+   "RandomNumber": 514
+ },
+ {
+   "AlphabetOrder": 57,
+   "Article": "das",
+   "GermanWithArticle": "das Gebirge (pl)",
+   "GermanNoArticle": "Gebirge (pl)",
+   "English": "the mountains, mountain range",
+   "RandomNumber": 666
+ },
+ {
+   "AlphabetOrder": 85,
+   "Article": "das",
+   "GermanWithArticle": "das Hähnchen, -",
+   "GermanNoArticle": "Hähnchen, -",
+   "English": "chicken",
+   "RandomNumber": 875
+ },
+ {
+   "AlphabetOrder": 602,
+   "Article": "der",
+   "GermanWithArticle": "der Weizen, -",
+   "GermanNoArticle": "Weizen, -",
+   "English": "wheat",
+   "RandomNumber": 190
+ },
+ {
+   "AlphabetOrder": 403,
+   "Article": "der",
+   "GermanWithArticle": "der Kunde, -n, die Kundin, -nen",
+   "GermanNoArticle": "Kunde, -n, die Kundin, -nen",
+   "English": "customer",
+   "RandomNumber": 935
+ },
+ {
+   "AlphabetOrder": 995,
+   "Article": "die",
+   "GermanWithArticle": "die Zehe, -n",
+   "GermanNoArticle": "Zehe, -n",
+   "English": "toes",
+   "RandomNumber": 740
+ },
+ {
+   "AlphabetOrder": 541,
+   "Article": "der",
+   "GermanWithArticle": "der Straßenrand",
+   "GermanNoArticle": "Straßenrand",
+   "English": "roadside",
+   "RandomNumber": 684
+ },
+ {
+   "AlphabetOrder": 109,
+   "Article": "das",
+   "GermanWithArticle": "das Kissen, -",
+   "GermanNoArticle": "Kissen, -",
+   "English": "cushion, pillow",
+   "RandomNumber": 614
+ },
+ {
+   "AlphabetOrder": 601,
+   "Article": "der",
+   "GermanWithArticle": "der Weinkeller, -",
+   "GermanNoArticle": "Weinkeller, -",
+   "English": "wine cellar",
+   "RandomNumber": 583
+ },
+ {
+   "AlphabetOrder": 722,
+   "Article": "die",
+   "GermanWithArticle": "die Gabel, -n",
+   "GermanNoArticle": "Gabel, -n",
+   "English": "fork",
+   "RandomNumber": 363
+ },
+ {
+   "AlphabetOrder": 5,
+   "Article": "das",
+   "GermanWithArticle": "das Aquarium, -en",
+   "GermanNoArticle": "Aquarium, -en",
+   "English": "aquarium",
+   "RandomNumber": 992
+ },
+ {
+   "AlphabetOrder": 969,
+   "Article": "die",
+   "GermanWithArticle": "die Wand, -¨e",
+   "GermanNoArticle": "Wand, -¨e",
+   "English": "wall",
+   "RandomNumber": 985
+ },
+ {
+   "AlphabetOrder": 950,
+   "Article": "die",
+   "GermanWithArticle": "die Versammlung, -en",
+   "GermanNoArticle": "Versammlung, -en",
+   "English": "assembly",
+   "RandomNumber": 819
+ },
+ {
+   "AlphabetOrder": 687,
+   "Article": "die",
+   "GermanWithArticle": "die Eifersucht, x",
+   "GermanNoArticle": "Eifersucht, x",
+   "English": "jealousy",
+   "RandomNumber": 887
+ },
+ {
+   "AlphabetOrder": 63,
+   "Article": "das",
+   "GermanWithArticle": "das Gegenteil, -e",
+   "GermanNoArticle": "Gegenteil, -e",
+   "English": "opposite",
+   "RandomNumber": 285
+ },
+ {
+   "AlphabetOrder": 964,
+   "Article": "die",
+   "GermanWithArticle": "die Vorstellung, -en",
+   "GermanNoArticle": "Vorstellung, -en",
+   "English": "idea, picture",
+   "RandomNumber": 144
+ },
+ {
+   "AlphabetOrder": 485,
+   "Article": "der",
+   "GermanWithArticle": "der Sand, -e",
+   "GermanNoArticle": "Sand, -e",
+   "English": "sand",
+   "RandomNumber": 389
+ },
+ {
+   "AlphabetOrder": 588,
+   "Article": "der",
+   "GermanWithArticle": "der Vormittag, -en",
+   "GermanNoArticle": "Vormittag, -en",
+   "English": "the morning",
+   "RandomNumber": 595
+ },
+ {
+   "AlphabetOrder": 984,
+   "Article": "die",
+   "GermanWithArticle": "die Witwe, -n",
+   "GermanNoArticle": "Witwe, -n",
+   "English": "widow",
+   "RandomNumber": 615
+ },
+ {
+   "AlphabetOrder": 477,
+   "Article": "der",
+   "GermanWithArticle": "der Rock, -¨e",
+   "GermanNoArticle": "Rock, -¨e",
+   "English": "skirt",
+   "RandomNumber": 721
+ },
+ {
+   "AlphabetOrder": 46,
+   "Article": "das",
+   "GermanWithArticle": "das Feld, -er",
+   "GermanNoArticle": "Feld, -er",
+   "English": "field",
+   "RandomNumber": 291
+ },
+ {
+   "AlphabetOrder": 718,
+   "Article": "die",
+   "GermanWithArticle": "die Freude, -n",
+   "GermanNoArticle": "Freude, -n",
+   "English": "joy",
+   "RandomNumber": 455
+ },
+ {
+   "AlphabetOrder": 3,
+   "Article": "das",
+   "GermanWithArticle": "das Amt, -¨er",
+   "GermanNoArticle": "Amt, -¨er",
+   "English": "office, bureau",
+   "RandomNumber": 890
+ },
+ {
+   "AlphabetOrder": 763,
+   "Article": "die",
+   "GermanWithArticle": "die Karotte, -n",
+   "GermanNoArticle": "Karotte, -n",
+   "English": "carrot",
+   "RandomNumber": 138
+ },
+ {
+   "AlphabetOrder": 153,
+   "Article": "das",
+   "GermanWithArticle": "das Rätsel, -n",
+   "GermanNoArticle": "Rätsel, -n",
+   "English": "riddle, puzzle",
+   "RandomNumber": 916
+ },
+ {
+   "AlphabetOrder": 975,
+   "Article": "die",
+   "GermanWithArticle": "die Weinbergschnecke, -n",
+   "GermanNoArticle": "Weinbergschnecke, -n",
+   "English": "snail",
+   "RandomNumber": 598
+ },
+ {
+   "AlphabetOrder": 520,
+   "Article": "der",
+   "GermanWithArticle": "der Staat, -en",
+   "GermanNoArticle": "Staat, -en",
+   "English": "state, country",
+   "RandomNumber": 329
+ },
+ {
+   "AlphabetOrder": 213,
+   "Article": "das",
+   "GermanWithArticle": "das Wasser, -",
+   "GermanNoArticle": "Wasser, -",
+   "English": "water",
+   "RandomNumber": 175
+ },
+ {
+   "AlphabetOrder": 796,
+   "Article": "die",
+   "GermanWithArticle": "die Lippe, -n",
+   "GermanNoArticle": "Lippe, -n",
+   "English": "lips",
+   "RandomNumber": 964
+ },
+ {
+   "AlphabetOrder": 867,
+   "Article": "die",
+   "GermanWithArticle": "die Rösti (pl)",
+   "GermanNoArticle": "Rösti (pl)",
+   "English": "fried grate potatoes, i.e. hash",
+   "RandomNumber": 391
+ },
+ {
+   "AlphabetOrder": 249,
+   "Article": "der",
+   "GermanWithArticle": "der Ausweis, -e",
+   "GermanNoArticle": "Ausweis, -e",
+   "English": "ID",
+   "RandomNumber": 216
+ },
+ {
+   "AlphabetOrder": 806,
+   "Article": "die",
+   "GermanWithArticle": "die Medizin, -n",
+   "GermanNoArticle": "Medizin, -n",
+   "English": "medicine",
+   "RandomNumber": 206
+ },
+ {
+   "AlphabetOrder": 374,
+   "Article": "der",
+   "GermanWithArticle": "der Kalender , -",
+   "GermanNoArticle": "Kalender , -",
+   "English": "calender",
+   "RandomNumber": 712
+ },
+ {
+   "AlphabetOrder": 719,
+   "Article": "die",
+   "GermanWithArticle": "die Frucht, -¨e",
+   "GermanNoArticle": "Frucht, -¨e",
+   "English": "fruit",
+   "RandomNumber": 205
+ },
+ {
+   "AlphabetOrder": 417,
+   "Article": "der",
+   "GermanWithArticle": "der Löffel, -",
+   "GermanNoArticle": "Löffel, -",
+   "English": "spoon",
+   "RandomNumber": 260
+ },
+ {
+   "AlphabetOrder": 255,
+   "Article": "der",
+   "GermanWithArticle": "der Bart, -¨e",
+   "GermanNoArticle": "Bart, -¨e",
+   "English": "beard",
+   "RandomNumber": 374
+ },
+ {
+   "AlphabetOrder": 399,
+   "Article": "der",
+   "GermanWithArticle": "der Kreis, -e",
+   "GermanNoArticle": "Kreis, -e",
+   "English": "circle",
+   "RandomNumber": 518
+ },
+ {
+   "AlphabetOrder": 952,
+   "Article": "die",
+   "GermanWithArticle": "die Versicherung, -en",
+   "GermanNoArticle": "Versicherung, -en",
+   "English": "insurance",
+   "RandomNumber": 176
+ },
+ {
+   "AlphabetOrder": 882,
+   "Article": "die",
+   "GermanWithArticle": "die Schar, -en",
+   "GermanNoArticle": "Schar, -en",
+   "English": "band of people",
+   "RandomNumber": 945
+ },
+ {
+   "AlphabetOrder": 317,
+   "Article": "der",
+   "GermanWithArticle": "der Flug, -¨e",
+   "GermanNoArticle": "Flug, -¨e",
+   "English": "flight",
+   "RandomNumber": 808
+ },
+ {
+   "AlphabetOrder": 111,
+   "Article": "das",
+   "GermanWithArticle": "das Kleingeld, -er",
+   "GermanNoArticle": "Kleingeld, -er",
+   "English": "small change",
+   "RandomNumber": 444
+ },
+ {
+   "AlphabetOrder": 978,
+   "Article": "die",
+   "GermanWithArticle": "die Weite, -n",
+   "GermanNoArticle": "Weite, -n",
+   "English": "width",
+   "RandomNumber": 861
+ },
+ {
+   "AlphabetOrder": 393,
+   "Article": "der",
+   "GermanWithArticle": "der Korb, -¨e",
+   "GermanNoArticle": "Korb, -¨e",
+   "English": "basket",
+   "RandomNumber": 793
+ },
+ {
+   "AlphabetOrder": 944,
+   "Article": "die",
+   "GermanWithArticle": "die Untertasse, -n",
+   "GermanNoArticle": "Untertasse, -n",
+   "English": "saucer",
+   "RandomNumber": 258
+ },
+ {
+   "AlphabetOrder": 900,
+   "Article": "die",
+   "GermanWithArticle": "die Spalte, -n",
+   "GermanNoArticle": "Spalte, -n",
+   "English": "column",
+   "RandomNumber": 575
+ },
+ {
+   "AlphabetOrder": 55,
+   "Article": "das",
+   "GermanWithArticle": "das Gammelfleisch, -X",
+   "GermanNoArticle": "Gammelfleisch, -X",
+   "English": "rotten meat, roadkill",
+   "RandomNumber": 798
+ },
+ {
+   "AlphabetOrder": 360,
+   "Article": "der",
+   "GermanWithArticle": "der Himmel, -",
+   "GermanNoArticle": "Himmel, -",
+   "English": "heaven",
+   "RandomNumber": 857
+ },
+ {
+   "AlphabetOrder": 439,
+   "Article": "der",
+   "GermanWithArticle": "der Notausgang, -¨e",
+   "GermanNoArticle": "Notausgang, -¨e",
+   "English": "emergency exit",
+   "RandomNumber": 671
+ },
+ {
+   "AlphabetOrder": 678,
+   "Article": "die",
+   "GermanWithArticle": "die Disko(thek), -en",
+   "GermanNoArticle": "Disko(thek), -en",
+   "English": "dance club",
+   "RandomNumber": 908
+ },
+ {
+   "AlphabetOrder": 894,
+   "Article": "die",
+   "GermanWithArticle": "die Schwester, -n",
+   "GermanNoArticle": "Schwester, -n",
+   "English": "sister",
+   "RandomNumber": 426
+ },
+ {
+   "AlphabetOrder": 994,
+   "Article": "die",
+   "GermanWithArticle": "die Zauberei, -en",
+   "GermanNoArticle": "Zauberei, -en",
+   "English": "wizardry",
+   "RandomNumber": 490
+ },
+ {
+   "AlphabetOrder": 79,
+   "Article": "das",
+   "GermanWithArticle": "das Glas, -¨er",
+   "GermanNoArticle": "Glas, -¨er",
+   "English": "glass",
+   "RandomNumber": 706
+ },
+ {
+   "AlphabetOrder": 840,
+   "Article": "die",
+   "GermanWithArticle": "die Pistazie, -n",
+   "GermanNoArticle": "Pistazie, -n",
+   "English": "pistachio",
+   "RandomNumber": 660
+ },
+ {
+   "AlphabetOrder": 519,
+   "Article": "der",
+   "GermanWithArticle": "der Sprecher, -, die Sprecherin, -nen",
+   "GermanNoArticle": "Sprecher, -, die Sprecherin, -nen",
+   "English": "speaker",
+   "RandomNumber": 245
+ },
+ {
+   "AlphabetOrder": 920,
+   "Article": "die",
+   "GermanWithArticle": "die Süßigkeit, -en",
+   "GermanNoArticle": "Süßigkeit, -en",
+   "English": "sweets",
+   "RandomNumber": 702
+ },
+ {
+   "AlphabetOrder": 216,
+   "Article": "das",
+   "GermanWithArticle": "das Wesen, -",
+   "GermanNoArticle": "Wesen, -",
+   "English": "being, nature",
+   "RandomNumber": 127
+ },
+ {
+   "AlphabetOrder": 207,
+   "Article": "das",
+   "GermanWithArticle": "das Video, -s",
+   "GermanNoArticle": "Video, -s",
+   "English": "video",
+   "RandomNumber": 408
+ },
+ {
+   "AlphabetOrder": 649,
+   "Article": "die",
+   "GermanWithArticle": "die Badesachen, -",
+   "GermanNoArticle": "Badesachen, -",
+   "English": "bathing things",
+   "RandomNumber": 631
+ },
+ {
+   "AlphabetOrder": 705,
+   "Article": "die",
+   "GermanWithArticle": "die Ferien, (pl)",
+   "GermanNoArticle": "Ferien, (pl)",
+   "English": "holidays",
+   "RandomNumber": 49
+ },
+ {
+   "AlphabetOrder": 797,
+   "Article": "die",
+   "GermanWithArticle": "die List, x",
+   "GermanNoArticle": "List, x",
+   "English": "cunning, deceit",
+   "RandomNumber": 966
+ },
+ {
+   "AlphabetOrder": 119,
+   "Article": "das",
+   "GermanWithArticle": "das Land, -¨er",
+   "GermanNoArticle": "Land, -¨er",
+   "English": "land, country, nation",
+   "RandomNumber": 841
+ },
+ {
+   "AlphabetOrder": 671,
+   "Article": "die",
+   "GermanWithArticle": "die Buchhaltung, -x",
+   "GermanNoArticle": "Buchhaltung, -x",
+   "English": "finance office",
+   "RandomNumber": 853
+ },
+ {
+   "AlphabetOrder": 303,
+   "Article": "der",
+   "GermanWithArticle": "der Faden, -¨",
+   "GermanNoArticle": "Faden, -¨",
+   "English": "thread",
+   "RandomNumber": 393
+ },
+ {
+   "AlphabetOrder": 534,
+   "Article": "der",
+   "GermanWithArticle": "der Stift, -e",
+   "GermanNoArticle": "Stift, -e",
+   "English": "pen, pin, peg",
+   "RandomNumber": 604
+ },
+ {
+   "AlphabetOrder": 344,
+   "Article": "der",
+   "GermanWithArticle": "der Grundsatz, -¨e",
+   "GermanNoArticle": "Grundsatz, -¨e",
+   "English": "principle",
+   "RandomNumber": 182
+ },
+ {
+   "AlphabetOrder": 598,
+   "Article": "der",
+   "GermanWithArticle": "der Wecker, -",
+   "GermanNoArticle": "Wecker, -",
+   "English": "alarm clock",
+   "RandomNumber": 825
+ },
+ {
+   "AlphabetOrder": 300,
+   "Article": "der",
+   "GermanWithArticle": "der Ellbogen, -",
+   "GermanNoArticle": "Ellbogen, -",
+   "English": "elbow",
+   "RandomNumber": 101
+ },
+ {
+   "AlphabetOrder": 131,
+   "Article": "das",
+   "GermanWithArticle": "das Missverständnis, -se",
+   "GermanNoArticle": "Missverständnis, -se",
+   "English": "misunderstanding",
+   "RandomNumber": 763
+ },
+ {
+   "AlphabetOrder": 708,
+   "Article": "die",
+   "GermanWithArticle": "die Festplatte, -n",
+   "GermanNoArticle": "Festplatte, -n",
+   "English": "computer hard drive",
+   "RandomNumber": 876
+ },
+ {
+   "AlphabetOrder": 905,
+   "Article": "die",
+   "GermanWithArticle": "die Spritze, -n",
+   "GermanNoArticle": "Spritze, -n",
+   "English": "syringe, shot",
+   "RandomNumber": 652
+ },
+ {
+   "AlphabetOrder": 786,
+   "Article": "die",
+   "GermanWithArticle": "die Kühnheit, -x",
+   "GermanNoArticle": "Kühnheit, -x",
+   "English": "boldness",
+   "RandomNumber": 563
+ },
+ {
+   "AlphabetOrder": 209,
+   "Article": "das",
+   "GermanWithArticle": "das Viertel, -",
+   "GermanNoArticle": "Viertel, -",
+   "English": "quarter",
+   "RandomNumber": 640
+ },
+ {
+   "AlphabetOrder": 179,
+   "Article": "das",
+   "GermanWithArticle": "das Speerwerfen, -X",
+   "GermanNoArticle": "Speerwerfen, -X",
+   "English": "spear throwing",
+   "RandomNumber": 591
+ },
+ {
+   "AlphabetOrder": 607,
+   "Article": "der",
+   "GermanWithArticle": "der Wettlauf, -x",
+   "GermanNoArticle": "Wettlauf, -x",
+   "English": "race",
+   "RandomNumber": 268
+ },
+ {
+   "AlphabetOrder": 354,
+   "Article": "der",
+   "GermanWithArticle": "der Hass, -X",
+   "GermanNoArticle": "Hass, -X",
+   "English": "hate, hatred",
+   "RandomNumber": 926
+ },
+ {
+   "AlphabetOrder": 729,
+   "Article": "die",
+   "GermanWithArticle": "die Geige, -n",
+   "GermanNoArticle": "Geige, -n",
+   "English": "violin",
+   "RandomNumber": 470
+ },
+ {
+   "AlphabetOrder": 923,
+   "Article": "die",
+   "GermanWithArticle": "die Tante, -n",
+   "GermanNoArticle": "Tante, -n",
+   "English": "aunt",
+   "RandomNumber": 686
+ },
+ {
+   "AlphabetOrder": 337,
+   "Article": "der",
+   "GermanWithArticle": "der Gehsteig, -e",
+   "GermanNoArticle": "Gehsteig, -e",
+   "English": "sidewalk",
+   "RandomNumber": 586
+ },
+ {
+   "AlphabetOrder": 212,
+   "Article": "das",
+   "GermanWithArticle": "das Wachstum, x",
+   "GermanNoArticle": "Wachstum, x",
+   "English": "growth",
+   "RandomNumber": 707
+ },
+ {
+   "AlphabetOrder": 953,
+   "Article": "die",
+   "GermanWithArticle": "die Versklavung, -en",
+   "GermanNoArticle": "Versklavung, -en",
+   "English": "enslavement",
+   "RandomNumber": 109
+ },
+ {
+   "AlphabetOrder": 488,
+   "Article": "der",
+   "GermanWithArticle": "der Schal, -e",
+   "GermanNoArticle": "Schal, -e",
+   "English": "scarf, shawl",
+   "RandomNumber": 193
+ },
+ {
+   "AlphabetOrder": 346,
+   "Article": "der",
+   "GermanWithArticle": "der Haarschnitt, die Frisur",
+   "GermanNoArticle": "Haarschnitt, die Frisur",
+   "English": "haircut",
+   "RandomNumber": 578
+ },
+ {
+   "AlphabetOrder": 26,
+   "Article": "das",
+   "GermanWithArticle": "das Bügeleisen,",
+   "GermanNoArticle": "Bügeleisen,",
+   "English": "noun",
+   "RandomNumber": 867
+ },
+ {
+   "AlphabetOrder": 416,
+   "Article": "der",
+   "GermanWithArticle": "der Lockenwickler, -X",
+   "GermanNoArticle": "Lockenwickler, -X",
+   "English": "hair curlers",
+   "RandomNumber": 478
+ },
+ {
+   "AlphabetOrder": 305,
+   "Article": "der",
+   "GermanWithArticle": "der Fallschirm, -e",
+   "GermanNoArticle": "Fallschirm, -e",
+   "English": "parachute",
+   "RandomNumber": 487
+ },
+ {
+   "AlphabetOrder": 749,
+   "Article": "die",
+   "GermanWithArticle": "die Heiligamesse, -n",
+   "GermanNoArticle": "Heiligamesse, -n",
+   "English": "holy mass, church service",
+   "RandomNumber": 574
+ },
+ {
+   "AlphabetOrder": 685,
+   "Article": "die",
+   "GermanWithArticle": "die Ecke, -n",
+   "GermanNoArticle": "Ecke, -n",
+   "English": "corner",
+   "RandomNumber": 129
+ },
+ {
+   "AlphabetOrder": 471,
+   "Article": "der",
+   "GermanWithArticle": "der Retter, die Retterin",
+   "GermanNoArticle": "Retter, die Retterin",
+   "English": "rescuer, savior",
+   "RandomNumber": 20
+ },
+ {
+   "AlphabetOrder": 88,
+   "Article": "das",
+   "GermanWithArticle": "das Handgepäck, -e",
+   "GermanNoArticle": "Handgepäck, -e",
+   "English": "hand luggage",
+   "RandomNumber": 630
+ },
+ {
+   "AlphabetOrder": 39,
+   "Article": "das",
+   "GermanWithArticle": "das Einzelzimmer, -",
+   "GermanNoArticle": "Einzelzimmer, -",
+   "English": "one bedroom hotel",
+   "RandomNumber": 635
+ },
+ {
+   "AlphabetOrder": 220,
+   "Article": "das",
+   "GermanWithArticle": "das Zentrum, -en",
+   "GermanNoArticle": "Zentrum, -en",
+   "English": "center",
+   "RandomNumber": 954
+ },
+ {
+   "AlphabetOrder": 717,
+   "Article": "die",
+   "GermanWithArticle": "die Freizügigkeit, x",
+   "GermanNoArticle": "Freizügigkeit, x",
+   "English": "liberality, permissiveness",
+   "RandomNumber": 224
+ },
+ {
+   "AlphabetOrder": 261,
+   "Article": "der",
+   "GermanWithArticle": "der Beruf, -e",
+   "GermanNoArticle": "Beruf, -e",
+   "English": "occupation, career",
+   "RandomNumber": 664
+ },
+ {
+   "AlphabetOrder": 52,
+   "Article": "das",
+   "GermanWithArticle": "das Formular, -e",
+   "GermanNoArticle": "Formular, -e",
+   "English": "form",
+   "RandomNumber": 653
+ },
+ {
+   "AlphabetOrder": 735,
+   "Article": "die",
+   "GermanWithArticle": "die Glühlampe, -n",
+   "GermanNoArticle": "Glühlampe, -n",
+   "English": "light bulb",
+   "RandomNumber": 988
+ },
+ {
+   "AlphabetOrder": 974,
+   "Article": "die",
+   "GermanWithArticle": "die Wassermelone, -n",
+   "GermanNoArticle": "Wassermelone, -n",
+   "English": "watermelon",
+   "RandomNumber": 159
+ },
+ {
+   "AlphabetOrder": 829,
+   "Article": "die",
+   "GermanWithArticle": "die Packung, -en",
+   "GermanNoArticle": "Packung, -en",
+   "English": "package or packet",
+   "RandomNumber": 103
+ },
+ {
+   "AlphabetOrder": 122,
+   "Article": "das",
+   "GermanWithArticle": "das Lied, -er",
+   "GermanNoArticle": "Lied, -er",
+   "English": "song, songs",
+   "RandomNumber": 714
+ },
+ {
+   "AlphabetOrder": 28,
+   "Article": "das",
+   "GermanWithArticle": "das Bußgeld, -er",
+   "GermanNoArticle": "Bußgeld, -er",
+   "English": "fine, penalty",
+   "RandomNumber": 261
+ },
+ {
+   "AlphabetOrder": 554,
+   "Article": "der",
+   "GermanWithArticle": "der Teddybär, -en",
+   "GermanNoArticle": "Teddybär, -en",
+   "English": "teddy bear",
+   "RandomNumber": 106
+ },
+ {
+   "AlphabetOrder": 200,
+   "Article": "das",
+   "GermanWithArticle": "das Unrecht, x",
+   "GermanNoArticle": "Unrecht, x",
+   "English": "injustice",
+   "RandomNumber": 121
+ },
+ {
+   "AlphabetOrder": 775,
+   "Article": "die",
+   "GermanWithArticle": "die Konferenz, -en",
+   "GermanNoArticle": "Konferenz, -en",
+   "English": "conference",
+   "RandomNumber": 459
+ },
+ {
+   "AlphabetOrder": 928,
+   "Article": "die",
+   "GermanWithArticle": "die Theologie, -n",
+   "GermanNoArticle": "Theologie, -n",
+   "English": "theology",
+   "RandomNumber": 889
+ },
+ {
+   "AlphabetOrder": 556,
+   "Article": "der",
+   "GermanWithArticle": "der Teich, -e",
+   "GermanNoArticle": "Teich, -e",
+   "English": "pond",
+   "RandomNumber": 807
+ },
+ {
+   "AlphabetOrder": 110,
+   "Article": "das",
+   "GermanWithArticle": "das Klavier, -e",
+   "GermanNoArticle": "Klavier, -e",
+   "English": "piano",
+   "RandomNumber": 295
+ },
+ {
+   "AlphabetOrder": 235,
+   "Article": "der",
+   "GermanWithArticle": "der Anfang, -¨e",
+   "GermanNoArticle": "Anfang, -¨e",
+   "English": "the beginning",
+   "RandomNumber": 185
+ },
+ {
+   "AlphabetOrder": 599,
+   "Article": "der",
+   "GermanWithArticle": "der Weg, -e",
+   "GermanNoArticle": "Weg, -e",
+   "English": "path",
+   "RandomNumber": 529
+ },
+ {
+   "AlphabetOrder": 472,
+   "Article": "der",
+   "GermanWithArticle": "der Rettich, -e",
+   "GermanNoArticle": "Rettich, -e",
+   "English": "radish",
+   "RandomNumber": 576
+ },
+ {
+   "AlphabetOrder": 340,
+   "Article": "der",
+   "GermanWithArticle": "der Gestank, -X",
+   "GermanNoArticle": "Gestank, -X",
+   "English": "stench",
+   "RandomNumber": 644
+ },
+ {
+   "AlphabetOrder": 189,
+   "Article": "das",
+   "GermanWithArticle": "das Ticket, -s",
+   "GermanNoArticle": "Ticket, -s",
+   "English": "ticket",
+   "RandomNumber": 336
+ },
+ {
+   "AlphabetOrder": 470,
+   "Article": "der",
+   "GermanWithArticle": "der Rest, -e",
+   "GermanNoArticle": "Rest, -e",
+   "English": "the rest",
+   "RandomNumber": 301
+ },
+ {
+   "AlphabetOrder": 895,
+   "Article": "die",
+   "GermanWithArticle": "die Serviette, -n",
+   "GermanNoArticle": "Serviette, -n",
+   "English": "napkin",
+   "RandomNumber": 209
+ },
+ {
+   "AlphabetOrder": 985,
+   "Article": "die",
+   "GermanWithArticle": "die Woche, -n",
+   "GermanNoArticle": "Woche, -n",
+   "English": "week",
+   "RandomNumber": 280
+ },
+ {
+   "AlphabetOrder": 259,
+   "Article": "der",
+   "GermanWithArticle": "der Becher, -",
+   "GermanNoArticle": "Becher, -",
+   "English": "beaker, plastic cup",
+   "RandomNumber": 282
+ },
+ {
+   "AlphabetOrder": 793,
+   "Article": "die",
+   "GermanWithArticle": "die Leiter, -n",
+   "GermanNoArticle": "Leiter, -n",
+   "English": "ladder",
+   "RandomNumber": 222
+ },
+ {
+   "AlphabetOrder": 460,
+   "Article": "der",
+   "GermanWithArticle": "der Pullover, -s",
+   "GermanNoArticle": "Pullover, -s",
+   "English": "a sweater",
+   "RandomNumber": 544
+ },
+ {
+   "AlphabetOrder": 677,
+   "Article": "die",
+   "GermanWithArticle": "die Ding, -e",
+   "GermanNoArticle": "Ding, -e",
+   "English": "thing",
+   "RandomNumber": 340
+ },
+ {
+   "AlphabetOrder": 861,
+   "Article": "die",
+   "GermanWithArticle": "die Reiseunterlagen (pl)",
+   "GermanNoArticle": "Reiseunterlagen (pl)",
+   "English": "travel documents",
+   "RandomNumber": 225
+ },
+ {
+   "AlphabetOrder": 693,
+   "Article": "die",
+   "GermanWithArticle": "die Erhebung, -en",
+   "GermanNoArticle": "Erhebung, -en",
+   "English": "rise, ascension to power",
+   "RandomNumber": 145
+ },
+ {
+   "AlphabetOrder": 653,
+   "Article": "die",
+   "GermanWithArticle": "die Bank, -en",
+   "GermanNoArticle": "Bank, -en",
+   "English": "bank",
+   "RandomNumber": 507
+ },
+ {
+   "AlphabetOrder": 138,
+   "Article": "das",
+   "GermanWithArticle": "das Obst, -",
+   "GermanNoArticle": "Obst, -",
+   "English": "fruit",
+   "RandomNumber": 335
+ },
+ {
+   "AlphabetOrder": 193,
+   "Article": "das",
+   "GermanWithArticle": "das Trinkgeld, -er",
+   "GermanNoArticle": "Trinkgeld, -er",
+   "English": "a tip",
+   "RandomNumber": 420
+ },
+ {
+   "AlphabetOrder": 574,
+   "Article": "der",
+   "GermanWithArticle": "der Umzug, -¨e",
+   "GermanNoArticle": "Umzug, -¨e",
+   "English": "parade, relocation, move",
+   "RandomNumber": 385
+ },
+ {
+   "AlphabetOrder": 638,
+   "Article": "die",
+   "GermanWithArticle": "die Apotheke, -n",
+   "GermanNoArticle": "Apotheke, -n",
+   "English": "chemist, drug store",
+   "RandomNumber": 167
+ },
+ {
+   "AlphabetOrder": 130,
+   "Article": "das",
+   "GermanWithArticle": "das Mikrofon, -e",
+   "GermanNoArticle": "Mikrofon, -e",
+   "English": "microphone",
+   "RandomNumber": 195
+ },
+ {
+   "AlphabetOrder": 296,
+   "Article": "der",
+   "GermanWithArticle": "der Edelstein, -e",
+   "GermanNoArticle": "Edelstein, -e",
+   "English": "precious stone",
+   "RandomNumber": 596
+ },
+ {
+   "AlphabetOrder": 41,
+   "Article": "das",
+   "GermanWithArticle": "das Elektrogeschäft, -er",
+   "GermanNoArticle": "Elektrogeschäft, -er",
+   "English": "electronics store",
+   "RandomNumber": 669
+ },
+ {
+   "AlphabetOrder": 887,
+   "Article": "die",
+   "GermanWithArticle": "die Scholle, -n",
+   "GermanNoArticle": "Scholle, -n",
+   "English": "(ice) floe",
+   "RandomNumber": 532
+ },
+ {
+   "AlphabetOrder": 976,
+   "Article": "die",
+   "GermanWithArticle": "die Weise, -n",
+   "GermanNoArticle": "Weise, -n",
+   "English": "way, manner, fashion",
+   "RandomNumber": 525
+ },
+ {
+   "AlphabetOrder": 993,
+   "Article": "die",
+   "GermanWithArticle": "die Zahnbürste, -n",
+   "GermanNoArticle": "Zahnbürste, -n",
+   "English": "toothbrush",
+   "RandomNumber": 767
+ },
+ {
+   "AlphabetOrder": 907,
+   "Article": "die",
+   "GermanWithArticle": "die Stäbchen, -",
+   "GermanNoArticle": "Stäbchen, -",
+   "English": "chopsticks",
+   "RandomNumber": 902
+ },
+ {
+   "AlphabetOrder": 101,
+   "Article": "das",
+   "GermanWithArticle": "das Kalbsflesich, -X",
+   "GermanNoArticle": "Kalbsflesich, -X",
+   "English": "calf meat",
+   "RandomNumber": 920
+ },
+ {
+   "AlphabetOrder": 503,
+   "Article": "der",
+   "GermanWithArticle": "der Schnabel, -¨",
+   "GermanNoArticle": "Schnabel, -¨",
+   "English": "beak",
+   "RandomNumber": 760
+ },
+ {
+   "AlphabetOrder": 941,
+   "Article": "die",
+   "GermanWithArticle": "die Unsrigen (pl)",
+   "GermanNoArticle": "Unsrigen (pl)",
+   "English": "our people",
+   "RandomNumber": 564
+ },
+ {
+   "AlphabetOrder": 45,
+   "Article": "das",
+   "GermanWithArticle": "das Fasten, -X",
+   "GermanNoArticle": "Fasten, -X",
+   "English": "a fast",
+   "RandomNumber": 68
+ },
+ {
+   "AlphabetOrder": 645,
+   "Article": "die",
+   "GermanWithArticle": "die Ausnahme, -n",
+   "GermanNoArticle": "Ausnahme, -n",
+   "English": "exception",
+   "RandomNumber": 665
+ },
+ {
+   "AlphabetOrder": 849,
+   "Article": "die",
+   "GermanWithArticle": "die Produktionsabteilung, -en",
+   "GermanNoArticle": "Produktionsabteilung, -en",
+   "English": "production department",
+   "RandomNumber": 829
+ },
+ {
+   "AlphabetOrder": 91,
+   "Article": "das",
+   "GermanWithArticle": "das Hochhaus, -¨er",
+   "GermanNoArticle": "Hochhaus, -¨er",
+   "English": "apartment building",
+   "RandomNumber": 332
+ },
+ {
+   "AlphabetOrder": 469,
+   "Article": "der",
+   "GermanWithArticle": "der Respekt, -X",
+   "GermanNoArticle": "Respekt, -X",
+   "English": "respect",
+   "RandomNumber": 394
+ },
+ {
+   "AlphabetOrder": 738,
+   "Article": "die",
+   "GermanWithArticle": "die Größe, -n",
+   "GermanNoArticle": "Größe, -n",
+   "English": "size, format",
+   "RandomNumber": 949
+ },
+ {
+   "AlphabetOrder": 836,
+   "Article": "die",
+   "GermanWithArticle": "die Pfeffermühle, -n",
+   "GermanNoArticle": "Pfeffermühle, -n",
+   "English": "pepper grinder",
+   "RandomNumber": 820
+ },
+ {
+   "AlphabetOrder": 427,
+   "Article": "der",
+   "GermanWithArticle": "der Morgenmantel, -",
+   "GermanNoArticle": "Morgenmantel, -",
+   "English": "housecoat",
+   "RandomNumber": 146
+ },
+ {
+   "AlphabetOrder": 258,
+   "Article": "der",
+   "GermanWithArticle": "der Baum, -¨e",
+   "GermanNoArticle": "Baum, -¨e",
+   "English": "tree",
+   "RandomNumber": 900
+ },
+ {
+   "AlphabetOrder": 821,
+   "Article": "die",
+   "GermanWithArticle": "die Nase, -n",
+   "GermanNoArticle": "Nase, -n",
+   "English": "nose",
+   "RandomNumber": 387
+ },
+ {
+   "AlphabetOrder": 435,
+   "Article": "der",
+   "GermanWithArticle": "der Nachteil, -e",
+   "GermanNoArticle": "Nachteil, -e",
+   "English": "disadvantage",
+   "RandomNumber": 947
+ },
+ {
+   "AlphabetOrder": 404,
+   "Article": "der",
+   "GermanWithArticle": "der Kundenservice",
+   "GermanNoArticle": "Kundenservice",
+   "English": "customer service department",
+   "RandomNumber": 842
+ },
+ {
+   "AlphabetOrder": 491,
+   "Article": "der",
+   "GermanWithArticle": "der Schein, -e",
+   "GermanNoArticle": "Schein, -e",
+   "English": "paper money, bill",
+   "RandomNumber": 538
+ },
+ {
+   "AlphabetOrder": 195,
+   "Article": "das",
+   "GermanWithArticle": "das Turnen, -X",
+   "GermanNoArticle": "Turnen, -X",
+   "English": "gymnastics",
+   "RandomNumber": 757
+ },
+ {
+   "AlphabetOrder": 496,
+   "Article": "der",
+   "GermanWithArticle": "der Schlitz, -e",
+   "GermanNoArticle": "Schlitz, -e",
+   "English": "slot, slit",
+   "RandomNumber": 951
+ },
+ {
+   "AlphabetOrder": 784,
+   "Article": "die",
+   "GermanWithArticle": "die Kugel, -n",
+   "GermanNoArticle": "Kugel, -n",
+   "English": "ball",
+   "RandomNumber": 515
+ },
+ {
+   "AlphabetOrder": 723,
+   "Article": "die",
+   "GermanWithArticle": "die Gans, -¨e",
+   "GermanNoArticle": "Gans, -¨e",
+   "English": "goose",
+   "RandomNumber": 933
+ },
+ {
+   "AlphabetOrder": 507,
+   "Article": "der",
+   "GermanWithArticle": "der Schrei, -e",
+   "GermanNoArticle": "Schrei, -e",
+   "English": "scream",
+   "RandomNumber": 52
+ },
+ {
+   "AlphabetOrder": 386,
+   "Article": "der",
+   "GermanWithArticle": "der Knöchel, -",
+   "GermanNoArticle": "Knöchel, -",
+   "English": "ankle",
+   "RandomNumber": 102
+ },
+ {
+   "AlphabetOrder": 462,
+   "Article": "der",
+   "GermanWithArticle": "der Rabe, -n",
+   "GermanNoArticle": "Rabe, -n",
+   "English": "raven",
+   "RandomNumber": 366
+ },
+ {
+   "AlphabetOrder": 275,
+   "Article": "der",
+   "GermanWithArticle": "der Bush, -¨e",
+   "GermanNoArticle": "Bush, -¨e",
+   "English": "bush (strauch)",
+   "RandomNumber": 735
+ },
+ {
+   "AlphabetOrder": 30,
+   "Article": "das",
+   "GermanWithArticle": "das Croissant, -s",
+   "GermanNoArticle": "Croissant, -s",
+   "English": "croissant",
+   "RandomNumber": 526
+ },
+ {
+   "AlphabetOrder": 820,
+   "Article": "die",
+   "GermanWithArticle": "die Nähe, -",
+   "GermanNoArticle": "Nähe, -",
+   "English": "proximity",
+   "RandomNumber": 53
+ },
+ {
+   "AlphabetOrder": 674,
+   "Article": "die",
+   "GermanWithArticle": "die Butter, -",
+   "GermanNoArticle": "Butter, -",
+   "English": "butter",
+   "RandomNumber": 482
+ },
+ {
+   "AlphabetOrder": 145,
+   "Article": "das",
+   "GermanWithArticle": "das Pflaster, -",
+   "GermanNoArticle": "Pflaster, -",
+   "English": "plaster, poultice",
+   "RandomNumber": 447
+ },
+ {
+   "AlphabetOrder": 874,
+   "Article": "die",
+   "GermanWithArticle": "die Säge, -n",
+   "GermanNoArticle": "Säge, -n",
+   "English": "a saw",
+   "RandomNumber": 674
+ },
+ {
+   "AlphabetOrder": 426,
+   "Article": "der",
+   "GermanWithArticle": "der Mord, -er",
+   "GermanNoArticle": "Mord, -er",
+   "English": "murder",
+   "RandomNumber": 913
+ },
+ {
+   "AlphabetOrder": 198,
+   "Article": "das",
+   "GermanWithArticle": "das Ungeheuer, -",
+   "GermanNoArticle": "Ungeheuer, -",
+   "English": "monster, monstrosities",
+   "RandomNumber": 784
+ },
+ {
+   "AlphabetOrder": 92,
+   "Article": "das",
+   "GermanWithArticle": "das Holz, -¨er",
+   "GermanNoArticle": "Holz, -¨er",
+   "English": "wood",
+   "RandomNumber": 377
+ },
+ {
+   "AlphabetOrder": 132,
+   "Article": "das",
+   "GermanWithArticle": "das Mitleid, x",
+   "GermanNoArticle": "Mitleid, x",
+   "English": "compassion",
+   "RandomNumber": 437
+ },
+ {
+   "AlphabetOrder": 23,
+   "Article": "das",
+   "GermanWithArticle": "das Brät, -X",
+   "GermanNoArticle": "Brät, -X",
+   "English": "meat",
+   "RandomNumber": 852
+ },
+ {
+   "AlphabetOrder": 349,
+   "Article": "der",
+   "GermanWithArticle": "der Hafer, -",
+   "GermanNoArticle": "Hafer, -",
+   "English": "oat",
+   "RandomNumber": 863
+ },
+ {
+   "AlphabetOrder": 967,
+   "Article": "die",
+   "GermanWithArticle": "die Wahl, -en",
+   "GermanNoArticle": "Wahl, -en",
+   "English": "choice",
+   "RandomNumber": 104
+ },
+ {
+   "AlphabetOrder": 535,
+   "Article": "der",
+   "GermanWithArticle": "der Stock, -¨e",
+   "GermanNoArticle": "Stock, -¨e",
+   "English": "cane",
+   "RandomNumber": 932
+ },
+ {
+   "AlphabetOrder": 510,
+   "Article": "der",
+   "GermanWithArticle": "der Schwerpunkt, -e",
+   "GermanNoArticle": "Schwerpunkt, -e",
+   "English": "center of gravity",
+   "RandomNumber": 480
+ },
+ {
+   "AlphabetOrder": 880,
+   "Article": "die",
+   "GermanWithArticle": "die Schachtel, -n",
+   "GermanNoArticle": "Schachtel, -n",
+   "English": "small box",
+   "RandomNumber": 648
+ },
+ {
+   "AlphabetOrder": 425,
+   "Article": "der",
+   "GermanWithArticle": "der Mond, -e",
+   "GermanNoArticle": "Mond, -e",
+   "English": "the moon",
+   "RandomNumber": 51
+ },
+ {
+   "AlphabetOrder": 660,
+   "Article": "die",
+   "GermanWithArticle": "die Besprechung, -en",
+   "GermanNoArticle": "Besprechung, -en",
+   "English": "discussion",
+   "RandomNumber": 791
+ },
+ {
+   "AlphabetOrder": 273,
+   "Article": "der",
+   "GermanWithArticle": "der Buckel, -",
+   "GermanNoArticle": "Buckel, -",
+   "English": "hunchback",
+   "RandomNumber": 2
+ },
+ {
+   "AlphabetOrder": 362,
+   "Article": "der",
+   "GermanWithArticle": "der Hochzeitstage, -n",
+   "GermanNoArticle": "Hochzeitstage, -n",
+   "English": "wedding day",
+   "RandomNumber": 994
+ },
+ {
+   "AlphabetOrder": 739,
+   "Article": "die",
+   "GermanWithArticle": "die Grube, -n",
+   "GermanNoArticle": "Grube, -n",
+   "English": "pit, ditch",
+   "RandomNumber": 290
+ },
+ {
+   "AlphabetOrder": 524,
+   "Article": "der",
+   "GermanWithArticle": "der Stadtteil, -e",
+   "GermanNoArticle": "Stadtteil, -e",
+   "English": "city district",
+   "RandomNumber": 874
+ },
+ {
+   "AlphabetOrder": 557,
+   "Article": "der",
+   "GermanWithArticle": "der Teller, -",
+   "GermanNoArticle": "Teller, -",
+   "English": "plate",
+   "RandomNumber": 859
+ },
+ {
+   "AlphabetOrder": 21,
+   "Article": "das",
+   "GermanWithArticle": "das Blütenblatt, -¨er",
+   "GermanNoArticle": "Blütenblatt, -¨er",
+   "English": "flower petal",
+   "RandomNumber": 866
+ },
+ {
+   "AlphabetOrder": 474,
+   "Article": "der",
+   "GermanWithArticle": "der Riese, -n",
+   "GermanNoArticle": "Riese, -n",
+   "English": "giant",
+   "RandomNumber": 590
+ },
+ {
+   "AlphabetOrder": 4,
+   "Article": "das",
+   "GermanWithArticle": "das Angebot, -e",
+   "GermanNoArticle": "Angebot, -e",
+   "English": "bid, offer",
+   "RandomNumber": 496
+ },
+ {
+   "AlphabetOrder": 339,
+   "Article": "der",
+   "GermanWithArticle": "der Geschäftsführer, -,Geschäftsführerin, -nen",
+   "GermanNoArticle": "Geschäftsführer, -,Geschäftsführerin, -nen",
+   "English": "store manager",
+   "RandomNumber": 18
+ },
+ {
+   "AlphabetOrder": 83,
+   "Article": "das",
+   "GermanWithArticle": "das Haar, -e",
+   "GermanNoArticle": "Haar, -e",
+   "English": "hair",
+   "RandomNumber": 465
+ },
+ {
+   "AlphabetOrder": 759,
+   "Article": "die",
+   "GermanWithArticle": "die Jalousie, -n",
+   "GermanNoArticle": "Jalousie, -n",
+   "English": "window blinds",
+   "RandomNumber": 610
+ },
+ {
+   "AlphabetOrder": 526,
+   "Article": "der",
+   "GermanWithArticle": "der Stand, -¨e",
+   "GermanNoArticle": "Stand, -¨e",
+   "English": "stand, counter",
+   "RandomNumber": 476
+ },
+ {
+   "AlphabetOrder": 657,
+   "Article": "die",
+   "GermanWithArticle": "die Bekannte, der Bekannter",
+   "GermanNoArticle": "Bekannte, der Bekannter",
+   "English": "acquaintance",
+   "RandomNumber": 481
+ },
+ {
+   "AlphabetOrder": 40,
+   "Article": "das",
+   "GermanWithArticle": "das Eis, -X",
+   "GermanNoArticle": "Eis, -X",
+   "English": "ice, ice cream",
+   "RandomNumber": 903
+ },
+ {
+   "AlphabetOrder": 582,
+   "Article": "der",
+   "GermanWithArticle": "der Verräter, -, die Verräterin, -nen",
+   "GermanNoArticle": "Verräter, -, die Verräterin, -nen",
+   "English": "traitor",
+   "RandomNumber": 733
+ },
+ {
+   "AlphabetOrder": 897,
+   "Article": "die",
+   "GermanWithArticle": "die Socke, -n",
+   "GermanNoArticle": "Socke, -n",
+   "English": "socks",
+   "RandomNumber": 372
+ },
+ {
+   "AlphabetOrder": 980,
+   "Article": "die",
+   "GermanWithArticle": "die Wiedervereinigung",
+   "GermanNoArticle": "Wiedervereinigung",
+   "English": "unification day",
+   "RandomNumber": 266
+ },
+ {
+   "AlphabetOrder": 42,
+   "Article": "das",
+   "GermanWithArticle": "das Erdbeben, -X",
+   "GermanNoArticle": "Erdbeben, -X",
+   "English": "earthquake",
+   "RandomNumber": 827
+ },
+ {
+   "AlphabetOrder": 373,
+   "Article": "der",
+   "GermanWithArticle": "der Käfig, -",
+   "GermanNoArticle": "Käfig, -",
+   "English": "birdcage",
+   "RandomNumber": 198
+ },
+ {
+   "AlphabetOrder": 747,
+   "Article": "die",
+   "GermanWithArticle": "die Hausschuhe, -n",
+   "GermanNoArticle": "Hausschuhe, -n",
+   "English": "house shoes, slippers",
+   "RandomNumber": 673
+ },
+ {
+   "AlphabetOrder": 788,
+   "Article": "die",
+   "GermanWithArticle": "die Lampe, -n",
+   "GermanNoArticle": "Lampe, -n",
+   "English": "lamp, light",
+   "RandomNumber": 537
+ },
+ {
+   "AlphabetOrder": 312,
+   "Article": "der",
+   "GermanWithArticle": "der Fingerhut, -¨e",
+   "GermanNoArticle": "Fingerhut, -¨e",
+   "English": "thimble",
+   "RandomNumber": 169
+ },
+ {
+   "AlphabetOrder": 412,
+   "Article": "der",
+   "GermanWithArticle": "der Leerlauf, x",
+   "GermanNoArticle": "Leerlauf, x",
+   "English": "idle",
+   "RandomNumber": 204
+ },
+ {
+   "AlphabetOrder": 75,
+   "Article": "das",
+   "GermanWithArticle": "das Getöse, x",
+   "GermanNoArticle": "Getöse, x",
+   "English": "roar",
+   "RandomNumber": 581
+ },
+ {
+   "AlphabetOrder": 830,
+   "Article": "die",
+   "GermanWithArticle": "die Pantoffel, -n",
+   "GermanNoArticle": "Pantoffel, -n",
+   "English": "house slippers",
+   "RandomNumber": 446
+ },
+ {
+   "AlphabetOrder": 512,
+   "Article": "der",
+   "GermanWithArticle": "der Senf, -e",
+   "GermanNoArticle": "Senf, -e",
+   "English": "mustard",
+   "RandomNumber": 535
+ },
+ {
+   "AlphabetOrder": 517,
+   "Article": "der",
+   "GermanWithArticle": "der Spinat, -",
+   "GermanNoArticle": "Spinat, -",
+   "English": "spinach",
+   "RandomNumber": 320
+ },
+ {
+   "AlphabetOrder": 572,
+   "Article": "der",
+   "GermanWithArticle": "der Turm, -¨e",
+   "GermanNoArticle": "Turm, -¨e",
+   "English": "tower",
+   "RandomNumber": 975
+ },
+ {
+   "AlphabetOrder": 66,
+   "Article": "das",
+   "GermanWithArticle": "das Gemüse, -",
+   "GermanNoArticle": "Gemüse, -",
+   "English": "vegetables",
+   "RandomNumber": 410
+ },
+ {
+   "AlphabetOrder": 630,
+   "Article": "die",
+   "GermanWithArticle": "die Ampel, -n",
+   "GermanNoArticle": "Ampel, -n",
+   "English": "stop light",
+   "RandomNumber": 551
+ },
+ {
+   "AlphabetOrder": 571,
+   "Article": "der",
+   "GermanWithArticle": "der Tumor, -en",
+   "GermanNoArticle": "Tumor, -en",
+   "English": "tumor, growth",
+   "RandomNumber": 620
+ },
+ {
+   "AlphabetOrder": 695,
+   "Article": "die",
+   "GermanWithArticle": "die Ermutigung, -en",
+   "GermanNoArticle": "Ermutigung, -en",
+   "English": "encouragement",
+   "RandomNumber": 672
+ },
+ {
+   "AlphabetOrder": 239,
+   "Article": "der",
+   "GermanWithArticle": "der Anschluss, -e",
+   "GermanNoArticle": "Anschluss, -e",
+   "English": "connection, (water) supply",
+   "RandomNumber": 324
+ },
+ {
+   "AlphabetOrder": 103,
+   "Article": "das",
+   "GermanWithArticle": "das Kaninchen, -",
+   "GermanNoArticle": "Kaninchen, -",
+   "English": "rabbit, small domesticated",
+   "RandomNumber": 998
+ },
+ {
+   "AlphabetOrder": 385,
+   "Article": "der",
+   "GermanWithArticle": "der Knoblauch, -",
+   "GermanNoArticle": "Knoblauch, -",
+   "English": "garlic",
+   "RandomNumber": 502
+ },
+ {
+   "AlphabetOrder": 782,
+   "Article": "die",
+   "GermanWithArticle": "die Kreuzung, -en",
+   "GermanNoArticle": "Kreuzung, -en",
+   "English": "intersection",
+   "RandomNumber": 851
+ },
+ {
+   "AlphabetOrder": 405,
+   "Article": "der",
+   "GermanWithArticle": "der Kürbis, -es",
+   "GermanNoArticle": "Kürbis, -es",
+   "English": "pumpkins",
+   "RandomNumber": 450
+ },
+ {
+   "AlphabetOrder": 902,
+   "Article": "die",
+   "GermanWithArticle": "die Spinne, -n",
+   "GermanNoArticle": "Spinne, -n",
+   "English": "spider",
+   "RandomNumber": 796
+ },
+ {
+   "AlphabetOrder": 823,
+   "Article": "die",
+   "GermanWithArticle": "die Nektarine, -n",
+   "GermanNoArticle": "Nektarine, -n",
+   "English": "nectarine",
+   "RandomNumber": 882
+ },
+ {
+   "AlphabetOrder": 280,
+   "Article": "der",
+   "GermanWithArticle": "der Computer, -",
+   "GermanNoArticle": "Computer, -",
+   "English": "computer",
+   "RandomNumber": 781
+ },
+ {
+   "AlphabetOrder": 603,
+   "Article": "der",
+   "GermanWithArticle": "der Weltraum, -¨e",
+   "GermanNoArticle": "Weltraum, -¨e",
+   "English": "the universe",
+   "RandomNumber": 28
+ },
+ {
+   "AlphabetOrder": 875,
+   "Article": "die",
+   "GermanWithArticle": "die Sahne, -",
+   "GermanNoArticle": "Sahne, -",
+   "English": "cream",
+   "RandomNumber": 689
+ },
+ {
+   "AlphabetOrder": 791,
+   "Article": "die",
+   "GermanWithArticle": "die Lebensphilosophie, -n",
+   "GermanNoArticle": "Lebensphilosophie, -n",
+   "English": "life philosophy",
+   "RandomNumber": 263
+ },
+ {
+   "AlphabetOrder": 493,
+   "Article": "der",
+   "GermanWithArticle": "der Schinken, -",
+   "GermanNoArticle": "Schinken, -",
+   "English": "ham",
+   "RandomNumber": 212
+ },
+ {
+   "AlphabetOrder": 438,
+   "Article": "der",
+   "GermanWithArticle": "der Nord, Süd, Ost, West",
+   "GermanNoArticle": "Nord, Süd, Ost, West",
+   "English": "North, South, East and West",
+   "RandomNumber": 98
+ },
+ {
+   "AlphabetOrder": 290,
+   "Article": "der",
+   "GermanWithArticle": "der Drachen, -",
+   "GermanNoArticle": "Drachen, -",
+   "English": "a kite, a glider",
+   "RandomNumber": 491
+ },
+ {
+   "AlphabetOrder": 328,
+   "Article": "der",
+   "GermanWithArticle": "der Fürst, -, die Fürstin, -nen",
+   "GermanNoArticle": "Fürst, -, die Fürstin, -nen",
+   "English": "prince, princess",
+   "RandomNumber": 728
+ },
+ {
+   "AlphabetOrder": 748,
+   "Article": "die",
+   "GermanWithArticle": "die Haut, -¨e",
+   "GermanNoArticle": "Haut, -¨e",
+   "English": "skin",
+   "RandomNumber": 959
+ },
+ {
+   "AlphabetOrder": 68,
+   "Article": "das",
+   "GermanWithArticle": "das Gericht, -e",
+   "GermanNoArticle": "Gericht, -e",
+   "English": "meal, court of justice",
+   "RandomNumber": 5
+ },
+ {
+   "AlphabetOrder": 160,
+   "Article": "das",
+   "GermanWithArticle": "das Rhabarber, -",
+   "GermanNoArticle": "Rhabarber, -",
+   "English": "rhubarb",
+   "RandomNumber": 718
+ },
+ {
+   "AlphabetOrder": 65,
+   "Article": "das",
+   "GermanWithArticle": "das Gelächter, -X",
+   "GermanNoArticle": "Gelächter, -X",
+   "English": "laughter",
+   "RandomNumber": 910
+ },
+ {
+   "AlphabetOrder": 801,
+   "Article": "die",
+   "GermanWithArticle": "die Mannschaft, -en",
+   "GermanNoArticle": "Mannschaft, -en",
+   "English": "sports team",
+   "RandomNumber": 432
+ },
+ {
+   "AlphabetOrder": 971,
+   "Article": "die",
+   "GermanWithArticle": "die Warnung, -en",
+   "GermanNoArticle": "Warnung, -en",
+   "English": "warning",
+   "RandomNumber": 382
+ },
+ {
+   "AlphabetOrder": 144,
+   "Article": "das",
+   "GermanWithArticle": "das Pech, -e",
+   "GermanNoArticle": "Pech, -e",
+   "English": "pitch",
+   "RandomNumber": 90
+ },
+ {
+   "AlphabetOrder": 992,
+   "Article": "die",
+   "GermanWithArticle": "die Zacke, -n der Zacken, -",
+   "GermanNoArticle": "Zacke, -n der Zacken, -",
+   "English": "point, jagged peak",
+   "RandomNumber": 252
+ },
+ {
+   "AlphabetOrder": 636,
+   "Article": "die",
+   "GermanWithArticle": "die Ankunft, -¨e",
+   "GermanNoArticle": "Ankunft, -¨e",
+   "English": "arrival",
+   "RandomNumber": 255
+ },
+ {
+   "AlphabetOrder": 112,
+   "Article": "das",
+   "GermanWithArticle": "das Knie, -e",
+   "GermanNoArticle": "Knie, -e",
+   "English": "knee",
+   "RandomNumber": 215
+ },
+ {
+   "AlphabetOrder": 136,
+   "Article": "das",
+   "GermanWithArticle": "das Nest, -er",
+   "GermanNoArticle": "Nest, -er",
+   "English": "nest",
+   "RandomNumber": 663
+ },
+ {
+   "AlphabetOrder": 516,
+   "Article": "der",
+   "GermanWithArticle": "der Sohn, -¨e",
+   "GermanNoArticle": "Sohn, -¨e",
+   "English": "son, sons",
+   "RandomNumber": 965
+ },
+ {
+   "AlphabetOrder": 632,
+   "Article": "die",
+   "GermanWithArticle": "die Anfangsgründe, -X",
+   "GermanNoArticle": "Anfangsgründe, -X",
+   "English": "elements (wie in chemie)",
+   "RandomNumber": 770
+ },
+ {
+   "AlphabetOrder": 611,
+   "Article": "der",
+   "GermanWithArticle": "der Witz, -e",
+   "GermanNoArticle": "Witz, -e",
+   "English": "joke, wit.",
+   "RandomNumber": 149
+ },
+ {
+   "AlphabetOrder": 334,
+   "Article": "der",
+   "GermanWithArticle": "der Gast, -¨e",
+   "GermanNoArticle": "Gast, -¨e",
+   "English": "guest",
+   "RandomNumber": 57
+ },
+ {
+   "AlphabetOrder": 811,
+   "Article": "die",
+   "GermanWithArticle": "die Milch, -",
+   "GermanNoArticle": "Milch, -",
+   "English": "milk",
+   "RandomNumber": 415
+ },
+ {
+   "AlphabetOrder": 444,
+   "Article": "der",
+   "GermanWithArticle": "der Ochse, -n",
+   "GermanNoArticle": "Ochse, -n",
+   "English": "ox",
+   "RandomNumber": 488
+ },
+ {
+   "AlphabetOrder": 715,
+   "Article": "die",
+   "GermanWithArticle": "die Fotokopie, -en",
+   "GermanNoArticle": "Fotokopie, -en",
+   "English": "photocopy",
+   "RandomNumber": 645
+ },
+ {
+   "AlphabetOrder": 407,
+   "Article": "der",
+   "GermanWithArticle": "der Laden, -¨",
+   "GermanNoArticle": "Laden, -¨",
+   "English": "shop",
+   "RandomNumber": 505
+ },
+ {
+   "AlphabetOrder": 253,
+   "Article": "der",
+   "GermanWithArticle": "der Ball, -¨e",
+   "GermanNoArticle": "Ball, -¨e",
+   "English": "ball",
+   "RandomNumber": 486
+ },
+ {
+   "AlphabetOrder": 293,
+   "Article": "der",
+   "GermanWithArticle": "der Dünger, -",
+   "GermanNoArticle": "Dünger, -",
+   "English": "fertilizer",
+   "RandomNumber": 552
+ },
+ {
+   "AlphabetOrder": 760,
+   "Article": "die",
+   "GermanWithArticle": "die Kachel, -n",
+   "GermanNoArticle": "Kachel, -n",
+   "English": "tile",
+   "RandomNumber": 986
+ },
+ {
+   "AlphabetOrder": 590,
+   "Article": "der",
+   "GermanWithArticle": "der Vorstand, -¨e",
+   "GermanNoArticle": "Vorstand, -¨e",
+   "English": "the board (of directors)",
+   "RandomNumber": 483
+ },
+ {
+   "AlphabetOrder": 703,
+   "Article": "die",
+   "GermanWithArticle": "die Feile, -n",
+   "GermanNoArticle": "Feile, -n",
+   "English": "file",
+   "RandomNumber": 307
+ },
+ {
+   "AlphabetOrder": 807,
+   "Article": "die",
+   "GermanWithArticle": "die Meeresfrüchte (pl)",
+   "GermanNoArticle": "Meeresfrüchte (pl)",
+   "English": "seafood",
+   "RandomNumber": 191
+ },
+ {
+   "AlphabetOrder": 98,
+   "Article": "das",
+   "GermanWithArticle": "das Jahr, -e",
+   "GermanNoArticle": "Jahr, -e",
+   "English": "year",
+   "RandomNumber": 396
+ },
+ {
+   "AlphabetOrder": 368,
+   "Article": "der",
+   "GermanWithArticle": "der Hustensaft, -¨e",
+   "GermanNoArticle": "Hustensaft, -¨e",
+   "English": "cough syrup",
+   "RandomNumber": 397
+ },
+ {
+   "AlphabetOrder": 279,
+   "Article": "der",
+   "GermanWithArticle": "der Christ, -en",
+   "GermanNoArticle": "Christ, -en",
+   "English": "Christian",
+   "RandomNumber": 603
+ },
+ {
+   "AlphabetOrder": 814,
+   "Article": "die",
+   "GermanWithArticle": "die Möwe, -n",
+   "GermanNoArticle": "Möwe, -n",
+   "English": "seagull",
+   "RandomNumber": 72
+ },
+ {
+   "AlphabetOrder": 525,
+   "Article": "der",
+   "GermanWithArticle": "der Stamm, -¨e",
+   "GermanNoArticle": "Stamm, -¨e",
+   "English": "tree trunk, tribe, clan",
+   "RandomNumber": 130
+ },
+ {
+   "AlphabetOrder": 906,
+   "Article": "die",
+   "GermanWithArticle": "die Spur, -en",
+   "GermanNoArticle": "Spur, -en",
+   "English": "track, trace, sign",
+   "RandomNumber": 313
+ },
+ {
+   "AlphabetOrder": 881,
+   "Article": "die",
+   "GermanWithArticle": "die Schale, -n",
+   "GermanNoArticle": "Schale, -n",
+   "English": "small bowl",
+   "RandomNumber": 124
+ },
+ {
+   "AlphabetOrder": 481,
+   "Article": "der",
+   "GermanWithArticle": "der Rumpf, -¨e",
+   "GermanNoArticle": "Rumpf, -¨e",
+   "English": "body core, trunk",
+   "RandomNumber": 893
+ },
+ {
+   "AlphabetOrder": 432,
+   "Article": "der",
+   "GermanWithArticle": "der Mut, -X",
+   "GermanNoArticle": "Mut, -X",
+   "English": "courage, pluck",
+   "RandomNumber": 417
+ },
+ {
+   "AlphabetOrder": 108,
+   "Article": "das",
+   "GermanWithArticle": "das Kinn, -e",
+   "GermanNoArticle": "Kinn, -e",
+   "English": "chin",
+   "RandomNumber": 139
+ },
+ {
+   "AlphabetOrder": 817,
+   "Article": "die",
+   "GermanWithArticle": "die Nachspeise, -n",
+   "GermanNoArticle": "Nachspeise, -n",
+   "English": "dessert",
+   "RandomNumber": 952
+ },
+ {
+   "AlphabetOrder": 256,
+   "Article": "der",
+   "GermanWithArticle": "der Bastler, -, die Bastlerin, -nen",
+   "GermanNoArticle": "Bastler, -, die Bastlerin, -nen",
+   "English": "craftsman, do it yourselfer",
+   "RandomNumber": 424
+ },
+ {
+   "AlphabetOrder": 922,
+   "Article": "die",
+   "GermanWithArticle": "die Tafel, -n",
+   "GermanNoArticle": "Tafel, -n",
+   "English": "bar of something",
+   "RandomNumber": 251
+ },
+ {
+   "AlphabetOrder": 383,
+   "Article": "der",
+   "GermanWithArticle": "der Kleiderbügel, -",
+   "GermanNoArticle": "Kleiderbügel, -",
+   "English": "coat hanger",
+   "RandomNumber": 161
+ },
+ {
+   "AlphabetOrder": 53,
+   "Article": "das",
+   "GermanWithArticle": "das Fresko, -en",
+   "GermanNoArticle": "Fresko, -en",
+   "English": "fresco",
+   "RandomNumber": 436
+ },
+ {
+   "AlphabetOrder": 716,
+   "Article": "die",
+   "GermanWithArticle": "die Frage, -n",
+   "GermanNoArticle": "Frage, -n",
+   "English": "question",
+   "RandomNumber": 316
+ },
+ {
+   "AlphabetOrder": 754,
+   "Article": "die",
+   "GermanWithArticle": "die Honigmelone, -n",
+   "GermanNoArticle": "Honigmelone, -n",
+   "English": "honeydew melon",
+   "RandomNumber": 42
+ },
+ {
+   "AlphabetOrder": 987,
+   "Article": "die",
+   "GermanWithArticle": "die Wolle, -n",
+   "GermanNoArticle": "Wolle, -n",
+   "English": "wool",
+   "RandomNumber": 143
+ },
+ {
+   "AlphabetOrder": 64,
+   "Article": "das",
+   "GermanWithArticle": "das Geheimnis, -es",
+   "GermanNoArticle": "Geheimnis, -es",
+   "English": "mystery",
+   "RandomNumber": 67
+ },
+ {
+   "AlphabetOrder": 714,
+   "Article": "die",
+   "GermanWithArticle": "die Form, -en",
+   "GermanNoArticle": "Form, -en",
+   "English": "form",
+   "RandomNumber": 792
+ },
+ {
+   "AlphabetOrder": 392,
+   "Article": "der",
+   "GermanWithArticle": "der Kopfsalat, -e",
+   "GermanNoArticle": "Kopfsalat, -e",
+   "English": "head lettuce",
+   "RandomNumber": 597
+ },
+ {
+   "AlphabetOrder": 789,
+   "Article": "die",
+   "GermanWithArticle": "die Lanze, -n",
+   "GermanNoArticle": "Lanze, -n",
+   "English": "lance",
+   "RandomNumber": 753
+ },
+ {
+   "AlphabetOrder": 301,
+   "Article": "der",
+   "GermanWithArticle": "der Eltern (pl)",
+   "GermanNoArticle": "Eltern (pl)",
+   "English": "parents",
+   "RandomNumber": 670
+ },
+ {
+   "AlphabetOrder": 585,
+   "Article": "der",
+   "GermanWithArticle": "der Vertrieb, -e",
+   "GermanNoArticle": "Vertrieb, -e",
+   "English": "sales",
+   "RandomNumber": 656
+ },
+ {
+   "AlphabetOrder": 884,
+   "Article": "die",
+   "GermanWithArticle": "die Schminke, -n",
+   "GermanNoArticle": "Schminke, -n",
+   "English": "makeup",
+   "RandomNumber": 298
+ },
+ {
+   "AlphabetOrder": 357,
+   "Article": "der",
+   "GermanWithArticle": "der Heilige, -",
+   "GermanNoArticle": "Heilige, -",
+   "English": "saint",
+   "RandomNumber": 839
+ },
+ {
+   "AlphabetOrder": 910,
+   "Article": "die",
+   "GermanWithArticle": "die Station, -en",
+   "GermanNoArticle": "Station, -en",
+   "English": "station, stop",
+   "RandomNumber": 519
+ },
+ {
+   "AlphabetOrder": 752,
+   "Article": "die",
+   "GermanWithArticle": "die Hochzeit, -en",
+   "GermanNoArticle": "Hochzeit, -en",
+   "English": "wedding",
+   "RandomNumber": 557
+ },
+ {
+   "AlphabetOrder": 365,
+   "Article": "der",
+   "GermanWithArticle": "der Horizont, -e",
+   "GermanNoArticle": "Horizont, -e",
+   "English": "horizon",
+   "RandomNumber": 492
+ },
+ {
+   "AlphabetOrder": 306,
+   "Article": "der",
+   "GermanWithArticle": "der Familienstand, x",
+   "GermanNoArticle": "Familienstand, x",
+   "English": "family status",
+   "RandomNumber": 601
+ },
+ {
+   "AlphabetOrder": 17,
+   "Article": "das",
+   "GermanWithArticle": "das Bier, -e",
+   "GermanNoArticle": "Bier, -e",
+   "English": "beer",
+   "RandomNumber": 464
+ },
+ {
+   "AlphabetOrder": 504,
+   "Article": "der",
+   "GermanWithArticle": "der Schnupften, -",
+   "GermanNoArticle": "Schnupften, -",
+   "English": "a cold",
+   "RandomNumber": 96
+ },
+ {
+   "AlphabetOrder": 608,
+   "Article": "der",
+   "GermanWithArticle": "der Whirlpool, -s",
+   "GermanNoArticle": "Whirlpool, -s",
+   "English": "whirlpool, jacuzzi",
+   "RandomNumber": 905
+ },
+ {
+   "AlphabetOrder": 839,
+   "Article": "die",
+   "GermanWithArticle": "die Pfüzte, -n",
+   "GermanNoArticle": "Pfüzte, -n",
+   "English": "puddle",
+   "RandomNumber": 147
+ },
+ {
+   "AlphabetOrder": 215,
+   "Article": "das",
+   "GermanWithArticle": "das Werkzeug, -e",
+   "GermanNoArticle": "Werkzeug, -e",
+   "English": "work tools",
+   "RandomNumber": 691
+ },
+ {
+   "AlphabetOrder": 458,
+   "Article": "der",
+   "GermanWithArticle": "der Plünderer, -",
+   "GermanNoArticle": "Plünderer, -",
+   "English": "raider, plunderer",
+   "RandomNumber": 570
+ },
+ {
+   "AlphabetOrder": 69,
+   "Article": "das",
+   "GermanWithArticle": "das Gesäß, -e",
+   "GermanNoArticle": "Gesäß, -e",
+   "English": "bottom, seat, posterior",
+   "RandomNumber": 345
+ },
+ {
+   "AlphabetOrder": 105,
+   "Article": "das",
+   "GermanWithArticle": "das Kapitel, -",
+   "GermanNoArticle": "Kapitel, -",
+   "English": "chapter",
+   "RandomNumber": 319
+ },
+ {
+   "AlphabetOrder": 219,
+   "Article": "das",
+   "GermanWithArticle": "das Wurzelverzeichnis, -e",
+   "GermanNoArticle": "Wurzelverzeichnis, -e",
+   "English": "root directory",
+   "RandomNumber": 30
+ },
+ {
+   "AlphabetOrder": 916,
+   "Article": "die",
+   "GermanWithArticle": "die Streichholzschachtel, -n",
+   "GermanNoArticle": "Streichholzschachtel, -n",
+   "English": "matchbox",
+   "RandomNumber": 388
+ },
+ {
+   "AlphabetOrder": 825,
+   "Article": "die",
+   "GermanWithArticle": "die Niederlassung, -en",
+   "GermanNoArticle": "Niederlassung, -en",
+   "English": "settlement",
+   "RandomNumber": 179
+ },
+ {
+   "AlphabetOrder": 137,
+   "Article": "das",
+   "GermanWithArticle": "das Netz, -e",
+   "GermanNoArticle": "Netz, -e",
+   "English": "net, the internet",
+   "RandomNumber": 531
+ },
+ {
+   "AlphabetOrder": 211,
+   "Article": "das",
+   "GermanWithArticle": "das Vortschritt, -e",
+   "GermanNoArticle": "Vortschritt, -e",
+   "English": "progress",
+   "RandomNumber": 403
+ },
+ {
+   "AlphabetOrder": 248,
+   "Article": "der",
+   "GermanWithArticle": "der Auswander er, -",
+   "GermanNoArticle": "Auswander er, -",
+   "English": "emigrant",
+   "RandomNumber": 474
+ },
+ {
+   "AlphabetOrder": 350,
+   "Article": "der",
+   "GermanWithArticle": "der Hals, -¨e",
+   "GermanNoArticle": "Hals, -¨e",
+   "English": "neck",
+   "RandomNumber": 891
+ },
+ {
+   "AlphabetOrder": 609,
+   "Article": "der",
+   "GermanWithArticle": "der Winkel, -",
+   "GermanNoArticle": "Winkel, -",
+   "English": "angle",
+   "RandomNumber": 699
+ },
+ {
+   "AlphabetOrder": 154,
+   "Article": "das",
+   "GermanWithArticle": "das Rechteck, -e",
+   "GermanNoArticle": "Rechteck, -e",
+   "English": "rectangle",
+   "RandomNumber": 869
+ },
+ {
+   "AlphabetOrder": 333,
+   "Article": "der",
+   "GermanWithArticle": "der Garten, -s",
+   "GermanNoArticle": "Garten, -s",
+   "English": "garden",
+   "RandomNumber": 133
+ },
+ {
+   "AlphabetOrder": 204,
+   "Article": "das",
+   "GermanWithArticle": "das Verkehrsmittel, -",
+   "GermanNoArticle": "Verkehrsmittel, -",
+   "English": "transportation",
+   "RandomNumber": 284
+ },
+ {
+   "AlphabetOrder": 966,
+   "Article": "die",
+   "GermanWithArticle": "die Waffe, -n",
+   "GermanNoArticle": "Waffe, -n",
+   "English": "weapon",
+   "RandomNumber": 816
+ },
+ {
+   "AlphabetOrder": 658,
+   "Article": "die",
+   "GermanWithArticle": "die Besatzung, -en",
+   "GermanNoArticle": "Besatzung, -en",
+   "English": "crew (ins Gesamt)",
+   "RandomNumber": 785
+ },
+ {
+   "AlphabetOrder": 484,
+   "Article": "der",
+   "GermanWithArticle": "der Salat, -e",
+   "GermanNoArticle": "Salat, -e",
+   "English": "lettuce",
+   "RandomNumber": 310
+ },
+ {
+   "AlphabetOrder": 856,
+   "Article": "die",
+   "GermanWithArticle": "die Regel, -n",
+   "GermanNoArticle": "Regel, -n",
+   "English": "rules",
+   "RandomNumber": 995
+ },
+ {
+   "AlphabetOrder": 8,
+   "Article": "das",
+   "GermanWithArticle": "das Ausland, x",
+   "GermanNoArticle": "Ausland, x",
+   "English": "overseas",
+   "RandomNumber": 267
+ },
+ {
+   "AlphabetOrder": 879,
+   "Article": "die",
+   "GermanWithArticle": "die Säuregurke, -n",
+   "GermanNoArticle": "Säuregurke, -n",
+   "English": "pickles",
+   "RandomNumber": 828
+ },
+ {
+   "AlphabetOrder": 559,
+   "Article": "der",
+   "GermanWithArticle": "der Termin, -e",
+   "GermanNoArticle": "Termin, -e",
+   "English": "official appointment",
+   "RandomNumber": 327
+ },
+ {
+   "AlphabetOrder": 522,
+   "Article": "der",
+   "GermanWithArticle": "der Stabhochsprung, -e",
+   "GermanNoArticle": "Stabhochsprung, -e",
+   "English": "pole vaulting",
+   "RandomNumber": 76
+ },
+ {
+   "AlphabetOrder": 710,
+   "Article": "die",
+   "GermanWithArticle": "die Flotte, -n",
+   "GermanNoArticle": "Flotte, -n",
+   "English": "fleet, armada",
+   "RandomNumber": 546
+ },
+ {
+   "AlphabetOrder": 487,
+   "Article": "der",
+   "GermanWithArticle": "der Schäferhund, -e",
+   "GermanNoArticle": "Schäferhund, -e",
+   "English": "german shepherd",
+   "RandomNumber": 14
+ },
+ {
+   "AlphabetOrder": 170,
+   "Article": "das",
+   "GermanWithArticle": "das Schwein, -e",
+   "GermanNoArticle": "Schwein, -e",
+   "English": "pig, hog",
+   "RandomNumber": 173
+ },
+ {
+   "AlphabetOrder": 888,
+   "Article": "die",
+   "GermanWithArticle": "die Schorle, -n",
+   "GermanNoArticle": "Schorle, -n",
+   "English": "spritzer",
+   "RandomNumber": 734
+ },
+ {
+   "AlphabetOrder": 285,
+   "Article": "der",
+   "GermanWithArticle": "der Dirigent, -en, die Dirigentin, -nen",
+   "GermanNoArticle": "Dirigent, -en, die Dirigentin, -nen",
+   "English": "conductor",
+   "RandomNumber": 427
+ },
+ {
+   "AlphabetOrder": 927,
+   "Article": "die",
+   "GermanWithArticle": "die Tenne, -n",
+   "GermanNoArticle": "Tenne, -n",
+   "English": "threshing floor",
+   "RandomNumber": 625
+ },
+ {
+   "AlphabetOrder": 924,
+   "Article": "die",
+   "GermanWithArticle": "die Tasche, -n",
+   "GermanNoArticle": "Tasche, -n",
+   "English": "pocket, bag",
+   "RandomNumber": 202
+ },
+ {
+   "AlphabetOrder": 164,
+   "Article": "das",
+   "GermanWithArticle": "das Scheitern, x",
+   "GermanNoArticle": "Scheitern, x",
+   "English": "collapse",
+   "RandomNumber": 558
+ },
+ {
+   "AlphabetOrder": 142,
+   "Article": "das",
+   "GermanWithArticle": "das Paket, -e",
+   "GermanNoArticle": "Paket, -e",
+   "English": "parcel (in the mail)",
+   "RandomNumber": 806
+ },
+ {
+   "AlphabetOrder": 661,
+   "Article": "die",
+   "GermanWithArticle": "die Bezirksstadt, -¨e",
+   "GermanNoArticle": "Bezirksstadt, -¨e",
+   "English": "district capital",
+   "RandomNumber": 360
+ },
+ {
+   "AlphabetOrder": 11,
+   "Article": "das",
+   "GermanWithArticle": "das Bargeld, -er",
+   "GermanNoArticle": "Bargeld, -er",
+   "English": "cash money",
+   "RandomNumber": 81
+ },
+ {
+   "AlphabetOrder": 96,
+   "Article": "das",
+   "GermanWithArticle": "das Interesse, -n",
+   "GermanNoArticle": "Interesse, -n",
+   "English": "interest",
+   "RandomNumber": 968
+ },
+ {
+   "AlphabetOrder": 459,
+   "Article": "der",
+   "GermanWithArticle": "der Psychiater, -",
+   "GermanNoArticle": "Psychiater, -",
+   "English": "psychiatrist",
+   "RandomNumber": 309
+ },
+ {
+   "AlphabetOrder": 668,
+   "Article": "die",
+   "GermanWithArticle": "die Brezel, -n",
+   "GermanNoArticle": "Brezel, -n",
+   "English": "pretzel",
+   "RandomNumber": 158
+ },
+ {
+   "AlphabetOrder": 47,
+   "Article": "das",
+   "GermanWithArticle": "das Fenster, -s",
+   "GermanNoArticle": "Fenster, -s",
+   "English": "window",
+   "RandomNumber": 880
+ },
+ {
+   "AlphabetOrder": 238,
+   "Article": "der",
+   "GermanWithArticle": "der Anruf, -e",
+   "GermanNoArticle": "Anruf, -e",
+   "English": "phone call",
+   "RandomNumber": 326
+ },
+ {
+   "AlphabetOrder": 787,
+   "Article": "die",
+   "GermanWithArticle": "die Kusine, -n, der Cousin, -",
+   "GermanNoArticle": "Kusine, -n, der Cousin, -",
+   "English": "cousin",
+   "RandomNumber": 400
+ },
+ {
+   "AlphabetOrder": 124,
+   "Article": "das",
+   "GermanWithArticle": "das Mäppchen, -",
+   "GermanNoArticle": "Mäppchen, -",
+   "English": "small pencil case",
+   "RandomNumber": 720
+ },
+ {
+   "AlphabetOrder": 615,
+   "Article": "der",
+   "GermanWithArticle": "der Zauber, -X",
+   "GermanNoArticle": "Zauber, -X",
+   "English": "magic",
+   "RandomNumber": 894
+ },
+ {
+   "AlphabetOrder": 913,
+   "Article": "die",
+   "GermanWithArticle": "die Strafe, -n",
+   "GermanNoArticle": "Strafe, -n",
+   "English": "penalty, punishment",
+   "RandomNumber": 188
+ },
+ {
+   "AlphabetOrder": 379,
+   "Article": "der",
+   "GermanWithArticle": "der Kater, -",
+   "GermanNoArticle": "Kater, -",
+   "English": "tomcat",
+   "RandomNumber": 633
+ },
+ {
+   "AlphabetOrder": 885,
+   "Article": "die",
+   "GermanWithArticle": "die Schnecke, -n",
+   "GermanNoArticle": "Schnecke, -n",
+   "English": "snail",
+   "RandomNumber": 460
+ },
+ {
+   "AlphabetOrder": 254,
+   "Article": "der",
+   "GermanWithArticle": "der Barren, -",
+   "GermanNoArticle": "Barren, -",
+   "English": "the parallel bars",
+   "RandomNumber": 23
+ },
+ {
+   "AlphabetOrder": 59,
+   "Article": "das",
+   "GermanWithArticle": "das Gefieder , -",
+   "GermanNoArticle": "Gefieder , -",
+   "English": "feathers, plumage",
+   "RandomNumber": 704
+ },
+ {
+   "AlphabetOrder": 84,
+   "Article": "das",
+   "GermanWithArticle": "das Hackfleisch, -X",
+   "GermanNoArticle": "Hackfleisch, -X",
+   "English": "piece of meat for slicing",
+   "RandomNumber": 148
+ },
+ {
+   "AlphabetOrder": 948,
+   "Article": "die",
+   "GermanWithArticle": "die Vergangenheit, -x",
+   "GermanNoArticle": "Vergangenheit, -x",
+   "English": "past tense, past time",
+   "RandomNumber": 813
+ },
+ {
+   "AlphabetOrder": 196,
+   "Article": "das",
+   "GermanWithArticle": "das Turnier, -e",
+   "GermanNoArticle": "Turnier, -e",
+   "English": "tournament, show",
+   "RandomNumber": 974
+ },
+ {
+   "AlphabetOrder": 188,
+   "Article": "das",
+   "GermanWithArticle": "das Thermometer, -",
+   "GermanNoArticle": "Thermometer, -",
+   "English": "thermometer",
+   "RandomNumber": 469
+ },
+ {
+   "AlphabetOrder": 868,
+   "Article": "die",
+   "GermanWithArticle": "die Routine, x",
+   "GermanNoArticle": "Routine, x",
+   "English": "routine",
+   "RandomNumber": 286
+ },
+ {
+   "AlphabetOrder": 73,
+   "Article": "das",
+   "GermanWithArticle": "das Gesetz, -e",
+   "GermanNoArticle": "Gesetz, -e",
+   "English": "law, statute",
+   "RandomNumber": 584
+ },
+ {
+   "AlphabetOrder": 815,
+   "Article": "die",
+   "GermanWithArticle": "die Mühe, (pl)",
+   "GermanNoArticle": "Mühe, (pl)",
+   "English": "trouble, pains",
+   "RandomNumber": 386
+ },
+ {
+   "AlphabetOrder": 72,
+   "Article": "das",
+   "GermanWithArticle": "das Geschrei, x",
+   "GermanNoArticle": "Geschrei, x",
+   "English": "clamour",
+   "RandomNumber": 637
+ },
+ {
+   "AlphabetOrder": 937,
+   "Article": "die",
+   "GermanWithArticle": "die Übertretung, -en",
+   "GermanNoArticle": "Übertretung, -en",
+   "English": "trespass, violation",
+   "RandomNumber": 862
+ },
+ {
+   "AlphabetOrder": 644,
+   "Article": "die",
+   "GermanWithArticle": "die Augenbraue, -n",
+   "GermanNoArticle": "Augenbraue, -n",
+   "English": "eyebrows",
+   "RandomNumber": 227
+ },
+ {
+   "AlphabetOrder": 781,
+   "Article": "die",
+   "GermanWithArticle": "die Kreide, -n",
+   "GermanNoArticle": "Kreide, -n",
+   "English": "chalk",
+   "RandomNumber": 311
+ },
+ {
+   "AlphabetOrder": 579,
+   "Article": "der",
+   "GermanWithArticle": "der Verein, -e",
+   "GermanNoArticle": "Verein, -e",
+   "English": "official club, organization",
+   "RandomNumber": 234
+ },
+ {
+   "AlphabetOrder": 308,
+   "Article": "der",
+   "GermanWithArticle": "der Feind, -e",
+   "GermanNoArticle": "Feind, -e",
+   "English": "enemy",
+   "RandomNumber": 997
+ },
+ {
+   "AlphabetOrder": 371,
+   "Article": "der",
+   "GermanWithArticle": "der Internspeicher, -X",
+   "GermanNoArticle": "Internspeicher, -X",
+   "English": "computer memory",
+   "RandomNumber": 680
+ },
+ {
+   "AlphabetOrder": 841,
+   "Article": "die",
+   "GermanWithArticle": "die Pizza, -s",
+   "GermanNoArticle": "Pizza, -s",
+   "English": "pizza",
+   "RandomNumber": 369
+ },
+ {
+   "AlphabetOrder": 544,
+   "Article": "der",
+   "GermanWithArticle": "der Streifschar, -en",
+   "GermanNoArticle": "Streifschar, -en",
+   "English": "raiding party",
+   "RandomNumber": 136
+ },
+ {
+   "AlphabetOrder": 999,
+   "Article": "die",
+   "GermanWithArticle": "die Zuversicht, x",
+   "GermanNoArticle": "Zuversicht, x",
+   "English": "assurance, confidence",
+   "RandomNumber": 814
+ },
+ {
+   "AlphabetOrder": 576,
+   "Article": "der",
+   "GermanWithArticle": "der Unterkörper, -",
+   "GermanNoArticle": "Unterkörper, -",
+   "English": "lower body",
+   "RandomNumber": 259
+ },
+ {
+   "AlphabetOrder": 873,
+   "Article": "die",
+   "GermanWithArticle": "die Sache, -n",
+   "GermanNoArticle": "Sache, -n",
+   "English": "thing, things",
+   "RandomNumber": 244
+ },
+ {
+   "AlphabetOrder": 36,
+   "Article": "das",
+   "GermanWithArticle": "das Dorf, -¨er",
+   "GermanNoArticle": "Dorf, -¨er",
+   "English": "village",
+   "RandomNumber": 333
+ },
+ {
+   "AlphabetOrder": 750,
+   "Article": "die",
+   "GermanWithArticle": "die Heimat, -en",
+   "GermanNoArticle": "Heimat, -en",
+   "English": "home",
+   "RandomNumber": 943
+ },
+ {
+   "AlphabetOrder": 127,
+   "Article": "das",
+   "GermanWithArticle": "das Meer, -e",
+   "GermanNoArticle": "Meer, -e",
+   "English": "sea",
+   "RandomNumber": 516
+ },
+ {
+   "AlphabetOrder": 451,
+   "Article": "der",
+   "GermanWithArticle": "der Park, -s",
+   "GermanNoArticle": "Park, -s",
+   "English": "park",
+   "RandomNumber": 150
+ },
+ {
+   "AlphabetOrder": 90,
+   "Article": "das",
+   "GermanWithArticle": "das Hemd, -en",
+   "GermanNoArticle": "Hemd, -en",
+   "English": "shirt",
+   "RandomNumber": 569
+ },
+ {
+   "AlphabetOrder": 315,
+   "Article": "der",
+   "GermanWithArticle": "der Flaschenöffner, -",
+   "GermanNoArticle": "Flaschenöffner, -",
+   "English": "bottle opener",
+   "RandomNumber": 341
+ },
+ {
+   "AlphabetOrder": 18,
+   "Article": "das",
+   "GermanWithArticle": "das Bild, -er",
+   "GermanNoArticle": "Bild, -er",
+   "English": "photo",
+   "RandomNumber": 192
+ },
+ {
+   "AlphabetOrder": 281,
+   "Article": "der",
+   "GermanWithArticle": "der Dachboden, -",
+   "GermanNoArticle": "Dachboden, -",
+   "English": "attic",
+   "RandomNumber": 243
+ },
+ {
+   "AlphabetOrder": 400,
+   "Article": "der",
+   "GermanWithArticle": "der Kuchen, -",
+   "GermanNoArticle": "Kuchen, -",
+   "English": "cake",
+   "RandomNumber": 274
+ },
+ {
+   "AlphabetOrder": 366,
+   "Article": "der",
+   "GermanWithArticle": "der Huf, -e",
+   "GermanNoArticle": "Huf, -e",
+   "English": "hoof",
+   "RandomNumber": 762
+ },
+ {
+   "AlphabetOrder": 128,
+   "Article": "das",
+   "GermanWithArticle": "das Messer, -",
+   "GermanNoArticle": "Messer, -",
+   "English": "knife",
+   "RandomNumber": 494
+ },
+ {
+   "AlphabetOrder": 87,
+   "Article": "das",
+   "GermanWithArticle": "das Handgelenk, -e",
+   "GermanNoArticle": "Handgelenk, -e",
+   "English": "wrist",
+   "RandomNumber": 530
+ },
+ {
+   "AlphabetOrder": 798,
+   "Article": "die",
+   "GermanWithArticle": "die Lücke, -n",
+   "GermanNoArticle": "Lücke, -n",
+   "English": "gap, hole",
+   "RandomNumber": 795
+ },
+ {
+   "AlphabetOrder": 917,
+   "Article": "die",
+   "GermanWithArticle": "die Sünde, -",
+   "GermanNoArticle": "Sünde, -",
+   "English": "sin",
+   "RandomNumber": 318
+ },
+ {
+   "AlphabetOrder": 901,
+   "Article": "die",
+   "GermanWithArticle": "die Spielzeugkiste, -n",
+   "GermanNoArticle": "Spielzeugkiste, -n",
+   "English": "toybox",
+   "RandomNumber": 287
+ },
+ {
+   "AlphabetOrder": 914,
+   "Article": "die",
+   "GermanWithArticle": "die Strahlung, -en",
+   "GermanNoArticle": "Strahlung, -en",
+   "English": "radiation",
+   "RandomNumber": 356
+ },
+ {
+   "AlphabetOrder": 915,
+   "Article": "die",
+   "GermanWithArticle": "die Straßenbahn, -en",
+   "GermanNoArticle": "Straßenbahn, -en",
+   "English": "tram, streetcar",
+   "RandomNumber": 352
+ },
+ {
+   "AlphabetOrder": 561,
+   "Article": "der",
+   "GermanWithArticle": "der Tisch, -e",
+   "GermanNoArticle": "Tisch, -e",
+   "English": "table",
+   "RandomNumber": 849
+ },
+ {
+   "AlphabetOrder": 596,
+   "Article": "der",
+   "GermanWithArticle": "der Wäscheständer , -",
+   "GermanNoArticle": "Wäscheständer , -",
+   "English": "clothes drying rack",
+   "RandomNumber": 58
+ },
+ {
+   "AlphabetOrder": 633,
+   "Article": "die",
+   "GermanWithArticle": "die Angst, -¨e",
+   "GermanNoArticle": "Angst, -¨e",
+   "English": "axiety",
+   "RandomNumber": 428
+ },
+ {
+   "AlphabetOrder": 655,
+   "Article": "die",
+   "GermanWithArticle": "die Beere, -n",
+   "GermanNoArticle": "Beere, -n",
+   "English": "berry",
+   "RandomNumber": 956
+ },
+ {
+   "AlphabetOrder": 721,
+   "Article": "die",
+   "GermanWithArticle": "die Fußgängerzone, -n",
+   "GermanNoArticle": "Fußgängerzone, -n",
+   "English": "pedestrianized zone",
+   "RandomNumber": 651
+ },
+ {
+   "AlphabetOrder": 852,
+   "Article": "die",
+   "GermanWithArticle": "die Pyramide, -n",
+   "GermanNoArticle": "Pyramide, -n",
+   "English": "pyramid",
+   "RandomNumber": 522
+ },
+ {
+   "AlphabetOrder": 511,
+   "Article": "der",
+   "GermanWithArticle": "der Seite, -n",
+   "GermanNoArticle": "Seite, -n",
+   "English": "side, page",
+   "RandomNumber": 40
+ },
+ {
+   "AlphabetOrder": 287,
+   "Article": "der",
+   "GermanWithArticle": "der Dom, -e",
+   "GermanNoArticle": "Dom, -e",
+   "English": "cathedral",
+   "RandomNumber": 110
+ },
+ {
+   "AlphabetOrder": 324,
+   "Article": "der",
+   "GermanWithArticle": "der Frevel, -",
+   "GermanNoArticle": "Frevel, -",
+   "English": "iniquity, outrage",
+   "RandomNumber": 370
+ },
+ {
+   "AlphabetOrder": 341,
+   "Article": "der",
+   "GermanWithArticle": "der Getränkemarkt, -¨e",
+   "GermanNoArticle": "Getränkemarkt, -¨e",
+   "English": "party store, beer - wine store",
+   "RandomNumber": 724
+ },
+ {
+   "AlphabetOrder": 71,
+   "Article": "das",
+   "GermanWithArticle": "das Geschirr, -",
+   "GermanNoArticle": "Geschirr, -",
+   "English": "dishes",
+   "RandomNumber": 838
+ },
+ {
+   "AlphabetOrder": 49,
+   "Article": "das",
+   "GermanWithArticle": "das Festgewand, -¨er",
+   "GermanNoArticle": "Festgewand, -¨er",
+   "English": "festive garment",
+   "RandomNumber": 963
+ },
+ {
+   "AlphabetOrder": 842,
+   "Article": "die",
+   "GermanWithArticle": "die Platte, -n",
+   "GermanNoArticle": "Platte, -n",
+   "English": "platter, serving dish",
+   "RandomNumber": 92
+ },
+ {
+   "AlphabetOrder": 336,
+   "Article": "der",
+   "GermanWithArticle": "der Geburtstag, -e",
+   "GermanNoArticle": "Geburtstag, -e",
+   "English": "birthday",
+   "RandomNumber": 347
+ },
+ {
+   "AlphabetOrder": 769,
+   "Article": "die",
+   "GermanWithArticle": "die Kiste, -n",
+   "GermanNoArticle": "Kiste, -n",
+   "English": "wine case",
+   "RandomNumber": 13
+ },
+ {
+   "AlphabetOrder": 162,
+   "Article": "das",
+   "GermanWithArticle": "das Rohr, -e",
+   "GermanNoArticle": "Rohr, -e",
+   "English": "pipe - water pipe, etc.",
+   "RandomNumber": 105
+ },
+ {
+   "AlphabetOrder": 566,
+   "Article": "der",
+   "GermanWithArticle": "der Traumurlaub, -e",
+   "GermanNoArticle": "Traumurlaub, -e",
+   "English": "dream vacation",
+   "RandomNumber": 568
+ },
+ {
+   "AlphabetOrder": 553,
+   "Article": "der",
+   "GermanWithArticle": "der Taschenrechner, -",
+   "GermanNoArticle": "Taschenrechner, -",
+   "English": "calculator",
+   "RandomNumber": 579
+ },
+ {
+   "AlphabetOrder": 217,
+   "Article": "das",
+   "GermanWithArticle": "das Wissen, -X",
+   "GermanNoArticle": "Wissen, -X",
+   "English": "knowledge",
+   "RandomNumber": 399
+ },
+ {
+   "AlphabetOrder": 957,
+   "Article": "die",
+   "GermanWithArticle": "die Verstörung, -en",
+   "GermanNoArticle": "Verstörung, -en",
+   "English": "destruction",
+   "RandomNumber": 463
+ },
+ {
+   "AlphabetOrder": 584,
+   "Article": "der",
+   "GermanWithArticle": "der Verstärker, -",
+   "GermanNoArticle": "Verstärker, -",
+   "English": "amplifier",
+   "RandomNumber": 350
+ },
+ {
+   "AlphabetOrder": 95,
+   "Article": "das",
+   "GermanWithArticle": "das Idol, -e",
+   "GermanNoArticle": "Idol, -e",
+   "English": "idol",
+   "RandomNumber": 270
+ },
+ {
+   "AlphabetOrder": 683,
+   "Article": "die",
+   "GermanWithArticle": "die Dunkelheit, -en",
+   "GermanNoArticle": "Dunkelheit, -en",
+   "English": "darkness",
+   "RandomNumber": 448
+ },
+ {
+   "AlphabetOrder": 499,
+   "Article": "der",
+   "GermanWithArticle": "der Schmeichler, -",
+   "GermanNoArticle": "Schmeichler, -",
+   "English": "flatterer",
+   "RandomNumber": 277
+ },
+ {
+   "AlphabetOrder": 610,
+   "Article": "der",
+   "GermanWithArticle": "der Wirbel, -",
+   "GermanNoArticle": "Wirbel, -",
+   "English": "whirl, whirlpool (im Fluß etc.)",
+   "RandomNumber": 940
+ },
+ {
+   "AlphabetOrder": 2,
+   "Article": "das",
+   "GermanWithArticle": "das Alter, -",
+   "GermanNoArticle": "Alter, -",
+   "English": "age",
+   "RandomNumber": 346
+ },
+ {
+   "AlphabetOrder": 891,
+   "Article": "die",
+   "GermanWithArticle": "die Schulter, -n",
+   "GermanNoArticle": "Schulter, -n",
+   "English": "shoulder",
+   "RandomNumber": 242
+ },
+ {
+   "AlphabetOrder": 688,
+   "Article": "die",
+   "GermanWithArticle": "die Einkünfte (pl)",
+   "GermanNoArticle": "Einkünfte (pl)",
+   "English": "earnings",
+   "RandomNumber": 87
+ },
+ {
+   "AlphabetOrder": 194,
+   "Article": "das",
+   "GermanWithArticle": "das Tuch, -¨er",
+   "GermanNoArticle": "Tuch, -¨er",
+   "English": "cloth, kerchief",
+   "RandomNumber": 312
+ },
+ {
+   "AlphabetOrder": 146,
+   "Article": "das",
+   "GermanWithArticle": "das Pfund, -e",
+   "GermanNoArticle": "Pfund, -e",
+   "English": "500 grams, .5 Kilo",
+   "RandomNumber": 772
+ },
+ {
+   "AlphabetOrder": 686,
+   "Article": "die",
+   "GermanWithArticle": "die Ehre, x",
+   "GermanNoArticle": "Ehre, x",
+   "English": "honor",
+   "RandomNumber": 108
+ },
+ {
+   "AlphabetOrder": 776,
+   "Article": "die",
+   "GermanWithArticle": "die Konfession, -en",
+   "GermanNoArticle": "Konfession, -en",
+   "English": "denomination",
+   "RandomNumber": 86
+ },
+ {
+   "AlphabetOrder": 804,
+   "Article": "die",
+   "GermanWithArticle": "die Maschine, -n",
+   "GermanNoArticle": "Maschine, -n",
+   "English": "airplane, machine",
+   "RandomNumber": 636
+ },
+ {
+   "AlphabetOrder": 592,
+   "Article": "der",
+   "GermanWithArticle": "der Vorteil, -e",
+   "GermanNoArticle": "Vorteil, -e",
+   "English": "advantage",
+   "RandomNumber": 805
+ },
+ {
+   "AlphabetOrder": 446,
+   "Article": "der",
+   "GermanWithArticle": "der Ort, -¨er",
+   "GermanNoArticle": "Ort, -¨er",
+   "English": "place",
+   "RandomNumber": 716
+ },
+ {
+   "AlphabetOrder": 860,
+   "Article": "die",
+   "GermanWithArticle": "die Reise, -n",
+   "GermanNoArticle": "Reise, -n",
+   "English": "trip, journey",
+   "RandomNumber": 21
+ },
+ {
+   "AlphabetOrder": 35,
+   "Article": "das",
+   "GermanWithArticle": "das Doppelzimmer, -",
+   "GermanNoArticle": "Doppelzimmer, -",
+   "English": "double room",
+   "RandomNumber": 624
+ },
+ {
+   "AlphabetOrder": 725,
+   "Article": "die",
+   "GermanWithArticle": "die Garderobe, -n",
+   "GermanNoArticle": "Garderobe, -n",
+   "English": "wardrobe",
+   "RandomNumber": 764
+ },
+ {
+   "AlphabetOrder": 564,
+   "Article": "der",
+   "GermanWithArticle": "der Torhüter, -, die Torhüterin, -nen",
+   "GermanNoArticle": "Torhüter, -, die Torhüterin, -nen",
+   "English": "goalie",
+   "RandomNumber": 43
+ },
+ {
+   "AlphabetOrder": 104,
+   "Article": "das",
+   "GermanWithArticle": "das Kännchen, -",
+   "GermanNoArticle": "Kännchen, -",
+   "English": "pot, kettle",
+   "RandomNumber": 512
+ },
+ {
+   "AlphabetOrder": 377,
+   "Article": "der",
+   "GermanWithArticle": "der Kasperl, -n",
+   "GermanNoArticle": "Kasperl, -n",
+   "English": "puppet",
+   "RandomNumber": 606
+ },
+ {
+   "AlphabetOrder": 229,
+   "Article": "der",
+   "GermanWithArticle": "der Affe, -n",
+   "GermanNoArticle": "Affe, -n",
+   "English": "monkey",
+   "RandomNumber": 855
+ },
+ {
+   "AlphabetOrder": 445,
+   "Article": "der",
+   "GermanWithArticle": "der Ofen, -¨",
+   "GermanNoArticle": "Ofen, -¨",
+   "English": "oven",
+   "RandomNumber": 170
+ },
+ {
+   "AlphabetOrder": 805,
+   "Article": "die",
+   "GermanWithArticle": "die Mauer, -n",
+   "GermanNoArticle": "Mauer, -n",
+   "English": "wall",
+   "RandomNumber": 344
+ },
+ {
+   "AlphabetOrder": 783,
+   "Article": "die",
+   "GermanWithArticle": "die Kriminalität, x",
+   "GermanNoArticle": "Kriminalität, x",
+   "English": "crime rate",
+   "RandomNumber": 897
+ },
+ {
+   "AlphabetOrder": 700,
+   "Article": "die",
+   "GermanWithArticle": "die Fachkraft, -¨e",
+   "GermanNoArticle": "Fachkraft, -¨e",
+   "English": "skilled workers, professional workers",
+   "RandomNumber": 82
+ },
+ {
+   "AlphabetOrder": 77,
+   "Article": "das",
+   "GermanWithArticle": "das Getümmel, x",
+   "GermanNoArticle": "Getümmel, x",
+   "English": "ruckus",
+   "RandomNumber": 758
+ },
+ {
+   "AlphabetOrder": 453,
+   "Article": "der",
+   "GermanWithArticle": "der Pass, -¨e",
+   "GermanNoArticle": "Pass, -¨e",
+   "English": "passport",
+   "RandomNumber": 249
+ },
+ {
+   "AlphabetOrder": 618,
+   "Article": "der",
+   "GermanWithArticle": "der Zerstörer, -",
+   "GermanNoArticle": "Zerstörer, -",
+   "English": "the destroyer",
+   "RandomNumber": 485
+ },
+ {
+   "AlphabetOrder": 163,
+   "Article": "das",
+   "GermanWithArticle": "das Salz, -",
+   "GermanNoArticle": "Salz, -",
+   "English": "salt",
+   "RandomNumber": 865
+ },
+ {
+   "AlphabetOrder": 998,
+   "Article": "die",
+   "GermanWithArticle": "die Zunge, -n",
+   "GermanNoArticle": "Zunge, -n",
+   "English": "tounge",
+   "RandomNumber": 980
+ },
+ {
+   "AlphabetOrder": 828,
+   "Article": "die",
+   "GermanWithArticle": "die Ortschaft, -en",
+   "GermanNoArticle": "Ortschaft, -en",
+   "English": "locality",
+   "RandomNumber": 823
+ },
+ {
+   "AlphabetOrder": 563,
+   "Article": "der",
+   "GermanWithArticle": "der Topf, -¨e",
+   "GermanNoArticle": "Topf, -¨e",
+   "English": "pot",
+   "RandomNumber": 422
+ },
+ {
+   "AlphabetOrder": 428,
+   "Article": "der",
+   "GermanWithArticle": "der Mulleimer, -",
+   "GermanNoArticle": "Mulleimer, -",
+   "English": "trash bin",
+   "RandomNumber": 412
+ },
+ {
+   "AlphabetOrder": 241,
+   "Article": "der",
+   "GermanWithArticle": "der Anwohner, die Anwohnerin",
+   "GermanNoArticle": "Anwohner, die Anwohnerin",
+   "English": "resident",
+   "RandomNumber": 996
+ },
+ {
+   "AlphabetOrder": 411,
+   "Article": "der",
+   "GermanWithArticle": "der Lauch, -e",
+   "GermanNoArticle": "Lauch, -e",
+   "English": "leek",
+   "RandomNumber": 26
+ },
+ {
+   "AlphabetOrder": 431,
+   "Article": "der",
+   "GermanWithArticle": "der Muskel, -n",
+   "GermanNoArticle": "Muskel, -n",
+   "English": "muscle",
+   "RandomNumber": 63
+ },
+ {
+   "AlphabetOrder": 676,
+   "Article": "die",
+   "GermanWithArticle": "die Digitalkamera, -s",
+   "GermanNoArticle": "Digitalkamera, -s",
+   "English": "digital camera",
+   "RandomNumber": 850
+ },
+ {
+   "AlphabetOrder": 845,
+   "Article": "die",
+   "GermanWithArticle": "die Post, -en",
+   "GermanNoArticle": "Post, -en",
+   "English": "post office",
+   "RandomNumber": 246
+ },
+ {
+   "AlphabetOrder": 991,
+   "Article": "die",
+   "GermanWithArticle": "die Wurzel, -n",
+   "GermanNoArticle": "Wurzel, -n",
+   "English": "root, square root",
+   "RandomNumber": 231
+ },
+ {
+   "AlphabetOrder": 853,
+   "Article": "die",
+   "GermanWithArticle": "die Quittung, -en",
+   "GermanNoArticle": "Quittung, -en",
+   "English": "bill from car repair, etc",
+   "RandomNumber": 187
+ },
+ {
+   "AlphabetOrder": 833,
+   "Article": "die",
+   "GermanWithArticle": "die Pest, -en",
+   "GermanNoArticle": "Pest, -en",
+   "English": "pestilence",
+   "RandomNumber": 279
+ },
+ {
+   "AlphabetOrder": 181,
+   "Article": "das",
+   "GermanWithArticle": "das Spielzeug, -e",
+   "GermanNoArticle": "Spielzeug, -e",
+   "English": "playtoy",
+   "RandomNumber": 430
+ },
+ {
+   "AlphabetOrder": 664,
+   "Article": "die",
+   "GermanWithArticle": "die Bohrmaschine, -n",
+   "GermanNoArticle": "Bohrmaschine, -n",
+   "English": "drill",
+   "RandomNumber": 939
+ },
+ {
+   "AlphabetOrder": 483,
+   "Article": "der",
+   "GermanWithArticle": "der Saft, -¨e",
+   "GermanNoArticle": "Saft, -¨e",
+   "English": "juice",
+   "RandomNumber": 572
+ },
+ {
+   "AlphabetOrder": 877,
+   "Article": "die",
+   "GermanWithArticle": "die Salbung, -en",
+   "GermanNoArticle": "Salbung, -en",
+   "English": "anointing",
+   "RandomNumber": 69
+ },
+ {
+   "AlphabetOrder": 943,
+   "Article": "die",
+   "GermanWithArticle": "die Unterlage, -n",
+   "GermanNoArticle": "Unterlage, -n",
+   "English": "documents",
+   "RandomNumber": 439
+ },
+ {
+   "AlphabetOrder": 616,
+   "Article": "der",
+   "GermanWithArticle": "der Zaun, -¨e",
+   "GermanNoArticle": "Zaun, -¨e",
+   "English": "fence",
+   "RandomNumber": 677
+ },
+ {
+   "AlphabetOrder": 372,
+   "Article": "der",
+   "GermanWithArticle": "der Kachelboden, -",
+   "GermanNoArticle": "Kachelboden, -",
+   "English": "tile floor",
+   "RandomNumber": 982
+ },
+ {
+   "AlphabetOrder": 326,
+   "Article": "der",
+   "GermanWithArticle": "der Fuchs, -¨e",
+   "GermanNoArticle": "Fuchs, -¨e",
+   "English": "fox",
+   "RandomNumber": 392
+ },
+ {
+   "AlphabetOrder": 465,
+   "Article": "der",
+   "GermanWithArticle": "der Rat, -X",
+   "GermanNoArticle": "Rat, -X",
+   "English": "advice",
+   "RandomNumber": 414
+ },
+ {
+   "AlphabetOrder": 442,
+   "Article": "der",
+   "GermanWithArticle": "der Oberkörper, -",
+   "GermanNoArticle": "Oberkörper, -",
+   "English": "upper body",
+   "RandomNumber": 375
+ },
+ {
+   "AlphabetOrder": 648,
+   "Article": "die",
+   "GermanWithArticle": "die Backware, -n",
+   "GermanNoArticle": "Backware, -n",
+   "English": "baked goods",
+   "RandomNumber": 555
+ },
+ {
+   "AlphabetOrder": 646,
+   "Article": "die",
+   "GermanWithArticle": "die Autobahn, -en",
+   "GermanNoArticle": "Autobahn, -en",
+   "English": "autobahn, freeway",
+   "RandomNumber": 607
+ },
+ {
+   "AlphabetOrder": 282,
+   "Article": "der",
+   "GermanWithArticle": "der Dampf, -¨e",
+   "GermanNoArticle": "Dampf, -¨e",
+   "English": "steam, vapor",
+   "RandomNumber": 500
+ },
+ {
+   "AlphabetOrder": 778,
+   "Article": "die",
+   "GermanWithArticle": "die Krabbe, -n",
+   "GermanNoArticle": "Krabbe, -n",
+   "English": "shrimp",
+   "RandomNumber": 97
+ },
+ {
+   "AlphabetOrder": 10,
+   "Article": "das",
+   "GermanWithArticle": "das Autohaus, -¨er",
+   "GermanNoArticle": "Autohaus, -¨er",
+   "English": "car dealership",
+   "RandomNumber": 681
+ },
+ {
+   "AlphabetOrder": 355,
+   "Article": "der",
+   "GermanWithArticle": "der Haushalt, -e",
+   "GermanNoArticle": "Haushalt, -e",
+   "English": "household",
+   "RandomNumber": 981
+ },
+ {
+   "AlphabetOrder": 951,
+   "Article": "die",
+   "GermanWithArticle": "die Versichertenkarte, -n",
+   "GermanNoArticle": "Versichertenkarte, -n",
+   "English": "insurance card",
+   "RandomNumber": 168
+ },
+ {
+   "AlphabetOrder": 67,
+   "Article": "das",
+   "GermanWithArticle": "das Gepäck, -, die Gepäckstücke, -n",
+   "GermanNoArticle": "Gepäck, -, die Gepäckstücke, -n",
+   "English": "hand luggage",
+   "RandomNumber": 317
+ },
+ {
+   "AlphabetOrder": 284,
+   "Article": "der",
+   "GermanWithArticle": "der Dieb, -e",
+   "GermanNoArticle": "Dieb, -e",
+   "English": "thief",
+   "RandomNumber": 710
+ },
+ {
+   "AlphabetOrder": 81,
+   "Article": "das",
+   "GermanWithArticle": "das Gold, -",
+   "GermanNoArticle": "Gold, -",
+   "English": "gold",
+   "RandomNumber": 560
+ },
+ {
+   "AlphabetOrder": 527,
+   "Article": "der",
+   "GermanWithArticle": "der Stapel, -",
+   "GermanNoArticle": "Stapel, -",
+   "English": "pile, stack",
+   "RandomNumber": 183
+ },
+ {
+   "AlphabetOrder": 765,
+   "Article": "die",
+   "GermanWithArticle": "die Kelter, -n",
+   "GermanNoArticle": "Kelter, -n",
+   "English": "winepress",
+   "RandomNumber": 629
+ },
+ {
+   "AlphabetOrder": 631,
+   "Article": "die",
+   "GermanWithArticle": "die Anbetung, x",
+   "GermanNoArticle": "Anbetung, x",
+   "English": "worship, adoration",
+   "RandomNumber": 700
+ },
+ {
+   "AlphabetOrder": 597,
+   "Article": "der",
+   "GermanWithArticle": "der Wasserhahn, -¨e",
+   "GermanNoArticle": "Wasserhahn, -¨e",
+   "English": "faucet",
+   "RandomNumber": 510
+ },
+ {
+   "AlphabetOrder": 391,
+   "Article": "der",
+   "GermanWithArticle": "der Kopf, -¨e",
+   "GermanNoArticle": "Kopf, -¨e",
+   "English": "head",
+   "RandomNumber": 527
+ },
+ {
+   "AlphabetOrder": 505,
+   "Article": "der",
+   "GermanWithArticle": "der Schönheitschirurg, -en",
+   "GermanNoArticle": "Schönheitschirurg, -en",
+   "English": "plastic surgeon",
+   "RandomNumber": 29
+ },
+ {
+   "AlphabetOrder": 265,
+   "Article": "der",
+   "GermanWithArticle": "der Blitz, -e",
+   "GermanNoArticle": "Blitz, -e",
+   "English": "lightning, flash",
+   "RandomNumber": 504
+ },
+ {
+   "AlphabetOrder": 410,
+   "Article": "der",
+   "GermanWithArticle": "der Lärm, -X",
+   "GermanNoArticle": "Lärm, -X",
+   "English": "noise",
+   "RandomNumber": 271
+ },
+ {
+   "AlphabetOrder": 837,
+   "Article": "die",
+   "GermanWithArticle": "die Pflaume, -n",
+   "GermanNoArticle": "Pflaume, -n",
+   "English": "plum",
+   "RandomNumber": 632
+ },
+ {
+   "AlphabetOrder": 667,
+   "Article": "die",
+   "GermanWithArticle": "die Bremse, -n",
+   "GermanNoArticle": "Bremse, -n",
+   "English": "brake",
+   "RandomNumber": 79
+ },
+ {
+   "AlphabetOrder": 32,
+   "Article": "das",
+   "GermanWithArticle": "das Denken, -",
+   "GermanNoArticle": "Denken, -",
+   "English": "thought, thoughts",
+   "RandomNumber": 305
+ },
+ {
+   "AlphabetOrder": 402,
+   "Article": "der",
+   "GermanWithArticle": "der Kühlschrank, -¨e",
+   "GermanNoArticle": "Kühlschrank, -¨e",
+   "English": "refrigerator",
+   "RandomNumber": 411
+ },
+ {
+   "AlphabetOrder": 414,
+   "Article": "der",
+   "GermanWithArticle": "der Leiter, -",
+   "GermanNoArticle": "Leiter, -",
+   "English": "leader",
+   "RandomNumber": 166
+ },
+ {
+   "AlphabetOrder": 567,
+   "Article": "der",
+   "GermanWithArticle": "der Trauzeuge, -n",
+   "GermanNoArticle": "Trauzeuge, -n",
+   "English": "witness at a marriage ceremony",
+   "RandomNumber": 836
+ },
+ {
+   "AlphabetOrder": 942,
+   "Article": "die",
+   "GermanWithArticle": "die Unterkunft, -e",
+   "GermanNoArticle": "Unterkunft, -e",
+   "English": "accommodation",
+   "RandomNumber": 729
+ },
+ {
+   "AlphabetOrder": 314,
+   "Article": "der",
+   "GermanWithArticle": "der Fisch, -",
+   "GermanNoArticle": "Fisch, -",
+   "English": "fish",
+   "RandomNumber": 958
+ },
+ {
+   "AlphabetOrder": 48,
+   "Article": "das",
+   "GermanWithArticle": "das Fernweh, -",
+   "GermanNoArticle": "Fernweh, -",
+   "English": "wander lust",
+   "RandomNumber": 197
+ },
+ {
+   "AlphabetOrder": 912,
+   "Article": "die",
+   "GermanWithArticle": "die Stirn, -en",
+   "GermanNoArticle": "Stirn, -en",
+   "English": "forehead",
+   "RandomNumber": 431
+ },
+ {
+   "AlphabetOrder": 931,
+   "Article": "die",
+   "GermanWithArticle": "die Torte, -n",
+   "GermanNoArticle": "Torte, -n",
+   "English": "fruit pie",
+   "RandomNumber": 338
+ },
+ {
+   "AlphabetOrder": 697,
+   "Article": "die",
+   "GermanWithArticle": "die Errettung, -en",
+   "GermanNoArticle": "Errettung, -en",
+   "English": "salvation",
+   "RandomNumber": 457
+ },
+ {
+   "AlphabetOrder": 692,
+   "Article": "die",
+   "GermanWithArticle": "die Erde, -n",
+   "GermanNoArticle": "Erde, -n",
+   "English": "earth",
+   "RandomNumber": 676
+ },
+ {
+   "AlphabetOrder": 267,
+   "Article": "der",
+   "GermanWithArticle": "der Blumenladen, -¨",
+   "GermanNoArticle": "Blumenladen, -¨",
+   "English": "flower shop",
+   "RandomNumber": 55
+ },
+ {
+   "AlphabetOrder": 468,
+   "Article": "der",
+   "GermanWithArticle": "der Regenschirm, -e",
+   "GermanNoArticle": "Regenschirm, -e",
+   "English": "umbrella",
+   "RandomNumber": 165
+ },
+ {
+   "AlphabetOrder": 594,
+   "Article": "der",
+   "GermanWithArticle": "der Wald, -¨er",
+   "GermanNoArticle": "Wald, -¨er",
+   "English": "forest",
+   "RandomNumber": 354
+ },
+ {
+   "AlphabetOrder": 176,
+   "Article": "das",
+   "GermanWithArticle": "das Silber, x",
+   "GermanNoArticle": "Silber, x",
+   "English": "silver",
+   "RandomNumber": 122
+ },
+ {
+   "AlphabetOrder": 742,
+   "Article": "die",
+   "GermanWithArticle": "die Gymnastik, -x",
+   "GermanNoArticle": "Gymnastik, -x",
+   "English": "exercises",
+   "RandomNumber": 364
+ },
+ {
+   "AlphabetOrder": 568,
+   "Article": "der",
+   "GermanWithArticle": "der Tresor, -e",
+   "GermanNoArticle": "Tresor, -e",
+   "English": "a safe, lockbox, etc.",
+   "RandomNumber": 970
+ },
+ {
+   "AlphabetOrder": 251,
+   "Article": "der",
+   "GermanWithArticle": "der Bahnhof, -¨e",
+   "GermanNoArticle": "Bahnhof, -¨e",
+   "English": "train station",
+   "RandomNumber": 61
+ },
+ {
+   "AlphabetOrder": 421,
+   "Article": "der",
+   "GermanWithArticle": "der Maurer, -",
+   "GermanNoArticle": "Maurer, -",
+   "English": "bricklayer",
+   "RandomNumber": 634
+ },
+ {
+   "AlphabetOrder": 94,
+   "Article": "das",
+   "GermanWithArticle": "das Ideal, -e",
+   "GermanNoArticle": "Ideal, -e",
+   "English": "ideal, ideals",
+   "RandomNumber": 181
+ },
+ {
+   "AlphabetOrder": 689,
+   "Article": "die",
+   "GermanWithArticle": "die Einsamkeit, X",
+   "GermanNoArticle": "Einsamkeit, X",
+   "English": "loneliness",
+   "RandomNumber": 250
+ },
+ {
+   "AlphabetOrder": 242,
+   "Article": "der",
+   "GermanWithArticle": "der Apfel, -¨",
+   "GermanNoArticle": "Apfel, -¨",
+   "English": "apple",
+   "RandomNumber": 219
+ },
+ {
+   "AlphabetOrder": 617,
+   "Article": "der",
+   "GermanWithArticle": "der Zeigefinger, -",
+   "GermanNoArticle": "Zeigefinger, -",
+   "English": "pointing finger, index finger",
+   "RandomNumber": 368
+ },
+ {
+   "AlphabetOrder": 862,
+   "Article": "die",
+   "GermanWithArticle": "die Reklamation, -en",
+   "GermanNoArticle": "Reklamation, -en",
+   "English": "complaint, query",
+   "RandomNumber": 548
+ },
+ {
+   "AlphabetOrder": 274,
+   "Article": "der",
+   "GermanWithArticle": "der Buddhismus, x",
+   "GermanNoArticle": "Buddhismus, x",
+   "English": "buddhism",
+   "RandomNumber": 452
+ },
+ {
+   "AlphabetOrder": 844,
+   "Article": "die",
+   "GermanWithArticle": "die Portion, -en",
+   "GermanNoArticle": "Portion, -en",
+   "English": "portion",
+   "RandomNumber": 241
+ },
+ {
+   "AlphabetOrder": 560,
+   "Article": "der",
+   "GermanWithArticle": "der Tintenfisch, -e",
+   "GermanNoArticle": "Tintenfisch, -e",
+   "English": "inkfish - i.e. Squid, octopus, etc.",
+   "RandomNumber": 80
+ },
+ {
+   "AlphabetOrder": 870,
+   "Article": "die",
+   "GermanWithArticle": "die Rückflugticket, -s",
+   "GermanNoArticle": "Rückflugticket, -s",
+   "English": "a round trip ticket",
+   "RandomNumber": 498
+ },
+ {
+   "AlphabetOrder": 376,
+   "Article": "der",
+   "GermanWithArticle": "der Käse, -n",
+   "GermanNoArticle": "Käse, -n",
+   "English": "cheese",
+   "RandomNumber": 618
+ },
+ {
+   "AlphabetOrder": 921,
+   "Article": "die",
+   "GermanWithArticle": "die Tablette, -n",
+   "GermanNoArticle": "Tablette, -n",
+   "English": "pills, tablets",
+   "RandomNumber": 321
+ },
+ {
+   "AlphabetOrder": 859,
+   "Article": "die",
+   "GermanWithArticle": "die Reinigung, -en",
+   "GermanNoArticle": "Reinigung, -en",
+   "English": "dry cleaners",
+   "RandomNumber": 59
+ },
+ {
+   "AlphabetOrder": 643,
+   "Article": "die",
+   "GermanWithArticle": "die Auflage, -n",
+   "GermanNoArticle": "Auflage, -n",
+   "English": "edition, imprint",
+   "RandomNumber": 378
+ },
+ {
+   "AlphabetOrder": 573,
+   "Article": "der",
+   "GermanWithArticle": "der Übersetzer,-, die Übersetzerin, -nen",
+   "GermanNoArticle": "Übersetzer,-, die Übersetzerin, -nen",
+   "English": "translator",
+   "RandomNumber": 186
+ },
+ {
+   "AlphabetOrder": 369,
+   "Article": "der",
+   "GermanWithArticle": "der Hüter, die Hüterin",
+   "GermanNoArticle": "Hüter, die Hüterin",
+   "English": "custodian",
+   "RandomNumber": 698
+ },
+ {
+   "AlphabetOrder": 197,
+   "Article": "das",
+   "GermanWithArticle": "das Ufer, -",
+   "GermanNoArticle": "Ufer, -",
+   "English": "bank of river, shoreline",
+   "RandomNumber": 449
+ },
+ {
+   "AlphabetOrder": 800,
+   "Article": "die",
+   "GermanWithArticle": "die Mahlzeit, -en",
+   "GermanNoArticle": "Mahlzeit, -en",
+   "English": "mealtime",
+   "RandomNumber": 573
+ },
+ {
+   "AlphabetOrder": 396,
+   "Article": "der",
+   "GermanWithArticle": "der Körper, -",
+   "GermanNoArticle": "Körper, -",
+   "English": "body",
+   "RandomNumber": 824
+ },
+ {
+   "AlphabetOrder": 727,
+   "Article": "die",
+   "GermanWithArticle": "die Gebrauchsanweisung, -en",
+   "GermanNoArticle": "Gebrauchsanweisung, -en",
+   "English": "instruction manual",
+   "RandomNumber": 609
+ },
+ {
+   "AlphabetOrder": 732,
+   "Article": "die",
+   "GermanWithArticle": "die Geschichte, -n",
+   "GermanNoArticle": "Geschichte, -n",
+   "English": "history, story",
+   "RandomNumber": 725
+ },
+ {
+   "AlphabetOrder": 580,
+   "Article": "der",
+   "GermanWithArticle": "der Verkäufer,-, die Verkäuferin, -nen",
+   "GermanNoArticle": "Verkäufer,-, die Verkäuferin, -nen",
+   "English": "shopkeeper",
+   "RandomNumber": 928
+ },
+ {
+   "AlphabetOrder": 93,
+   "Article": "das",
+   "GermanWithArticle": "das Hörnchen, -",
+   "GermanNoArticle": "Hörnchen, -",
+   "English": "croissant",
+   "RandomNumber": 768
+ },
+ {
+   "AlphabetOrder": 502,
+   "Article": "der",
+   "GermanWithArticle": "der Schmuck, -e",
+   "GermanNoArticle": "Schmuck, -e",
+   "English": "jewelry",
+   "RandomNumber": 976
+ },
+ {
+   "AlphabetOrder": 670,
+   "Article": "die",
+   "GermanWithArticle": "die Brust, -¨e",
+   "GermanNoArticle": "Brust, -¨e",
+   "English": "chest, breasts (pl)",
+   "RandomNumber": 687
+ },
+ {
+   "AlphabetOrder": 467,
+   "Article": "der",
+   "GermanWithArticle": "der Rechtsstreit, -e",
+   "GermanNoArticle": "Rechtsstreit, -e",
+   "English": "legal dispute",
+   "RandomNumber": 362
+ },
+ {
+   "AlphabetOrder": 774,
+   "Article": "die",
+   "GermanWithArticle": "die Kombination, -en",
+   "GermanNoArticle": "Kombination, -en",
+   "English": "combination",
+   "RandomNumber": 11
+ },
+ {
+   "AlphabetOrder": 979,
+   "Article": "die",
+   "GermanWithArticle": "die Wieder belebungsversuche",
+   "GermanNoArticle": "Wieder belebungsversuche",
+   "English": "rescussitation, CPR",
+   "RandomNumber": 116
+ },
+ {
+   "AlphabetOrder": 744,
+   "Article": "die",
+   "GermanWithArticle": "die Hand, -¨e",
+   "GermanNoArticle": "Hand, -¨e",
+   "English": "hand",
+   "RandomNumber": 858
+ },
+ {
+   "AlphabetOrder": 761,
+   "Article": "die",
+   "GermanWithArticle": "die Kälte, -n",
+   "GermanNoArticle": "Kälte, -n",
+   "English": "the cold, i.e. cold weather",
+   "RandomNumber": 381
+ },
+ {
+   "AlphabetOrder": 949,
+   "Article": "die",
+   "GermanWithArticle": "die Vermittlung, -en",
+   "GermanNoArticle": "Vermittlung, -en",
+   "English": "mediation, intercession",
+   "RandomNumber": 451
+ },
+ {
+   "AlphabetOrder": 418,
+   "Article": "der",
+   "GermanWithArticle": "der Löwe, -n",
+   "GermanNoArticle": "Löwe, -n",
+   "English": "lion",
+   "RandomNumber": 726
+ },
+ {
+   "AlphabetOrder": 904,
+   "Article": "die",
+   "GermanWithArticle": "die Sprechstundenhilfe, -n",
+   "GermanNoArticle": "Sprechstundenhilfe, -n",
+   "English": "receptionist",
+   "RandomNumber": 442
+ },
+ {
+   "AlphabetOrder": 413,
+   "Article": "der",
+   "GermanWithArticle": "der Legastheniker, -, die Legasthenikerin, -nen",
+   "GermanNoArticle": "Legastheniker, -, die Legasthenikerin, -nen",
+   "English": "dyslexic",
+   "RandomNumber": 703
+ },
+ {
+   "AlphabetOrder": 996,
+   "Article": "die",
+   "GermanWithArticle": "die Zitrone, -n",
+   "GermanNoArticle": "Zitrone, -n",
+   "English": "citrus",
+   "RandomNumber": 802
+ },
+ {
+   "AlphabetOrder": 809,
+   "Article": "die",
+   "GermanWithArticle": "die Meinung, -en",
+   "GermanNoArticle": "Meinung, -en",
+   "English": "view, opinion",
+   "RandomNumber": 379
+ },
+ {
+   "AlphabetOrder": 963,
+   "Article": "die",
+   "GermanWithArticle": "die Vorspeise, -n",
+   "GermanNoArticle": "Vorspeise, -n",
+   "English": "appetizer",
+   "RandomNumber": 611
+ },
+ {
+   "AlphabetOrder": 433,
+   "Article": "der",
+   "GermanWithArticle": "der Nabel, -",
+   "GermanNoArticle": "Nabel, -",
+   "English": "navel",
+   "RandomNumber": 112
+ },
+ {
+   "AlphabetOrder": 161,
+   "Article": "das",
+   "GermanWithArticle": "das Rindfleisch, -e",
+   "GermanNoArticle": "Rindfleisch, -e",
+   "English": "beef",
+   "RandomNumber": 278
+ },
+ {
+   "AlphabetOrder": 347,
+   "Article": "der",
+   "GermanWithArticle": "der Hacken, -",
+   "GermanNoArticle": "Hacken, -",
+   "English": "hooks",
+   "RandomNumber": 941
+ },
+ {
+   "AlphabetOrder": 577,
+   "Article": "der",
+   "GermanWithArticle": "der Unterricht, -e",
+   "GermanNoArticle": "Unterricht, -e",
+   "English": "class, lesson, instructions",
+   "RandomNumber": 967
+ },
+ {
+   "AlphabetOrder": 157,
+   "Article": "das",
+   "GermanWithArticle": "das Reisebüro, -s",
+   "GermanNoArticle": "Reisebüro, -s",
+   "English": "travel agent",
+   "RandomNumber": 561
+ },
+ {
+   "AlphabetOrder": 139,
+   "Article": "das",
+   "GermanWithArticle": "das Ohr, -en",
+   "GermanNoArticle": "Ohr, -en",
+   "English": "ear",
+   "RandomNumber": 477
+ },
+ {
+   "AlphabetOrder": 106,
+   "Article": "das",
+   "GermanWithArticle": "das Kaufhaus, -¨er",
+   "GermanNoArticle": "Kaufhaus, -¨er",
+   "English": "department store",
+   "RandomNumber": 479
+ },
+ {
+   "AlphabetOrder": 269,
+   "Article": "der",
+   "GermanWithArticle": "der Boden, -¨",
+   "GermanNoArticle": "Boden, -¨",
+   "English": "ground, dirt",
+   "RandomNumber": 667
+ },
+ {
+   "AlphabetOrder": 989,
+   "Article": "die",
+   "GermanWithArticle": "die Würde, -n",
+   "GermanNoArticle": "Würde, -n",
+   "English": "dignity",
+   "RandomNumber": 10
+ },
+ {
+   "AlphabetOrder": 226,
+   "Article": "der",
+   "GermanWithArticle": "der Abschied, -e",
+   "GermanNoArticle": "Abschied, -e",
+   "English": "goodbye, farewell",
+   "RandomNumber": 37
+ },
+ {
+   "AlphabetOrder": 228,
+   "Article": "der",
+   "GermanWithArticle": "der Acker, -¨",
+   "GermanNoArticle": "Acker, -¨",
+   "English": "field",
+   "RandomNumber": 153
+ },
+ {
+   "AlphabetOrder": 225,
+   "Article": "der",
+   "GermanWithArticle": "der Abriss, -e",
+   "GermanNoArticle": "Abriss, -e",
+   "English": "demolition",
+   "RandomNumber": 84
+ },
+ {
+   "AlphabetOrder": 214,
+   "Article": "das",
+   "GermanWithArticle": "das Wechselgeld, -er",
+   "GermanNoArticle": "Wechselgeld, -er",
+   "English": "change",
+   "RandomNumber": 409
+ },
+ {
+   "AlphabetOrder": 846,
+   "Article": "die",
+   "GermanWithArticle": "die Prägung, -en",
+   "GermanNoArticle": "Prägung, -en",
+   "English": "imprint, minting, coinage",
+   "RandomNumber": 523
+ },
+ {
+   "AlphabetOrder": 546,
+   "Article": "der",
+   "GermanWithArticle": "der Strom, -¨e",
+   "GermanNoArticle": "Strom, -¨e",
+   "English": "river",
+   "RandomNumber": 433
+ },
+ {
+   "AlphabetOrder": 691,
+   "Article": "die",
+   "GermanWithArticle": "die Erbse, -n",
+   "GermanNoArticle": "Erbse, -n",
+   "English": "pea",
+   "RandomNumber": 929
+ },
+ {
+   "AlphabetOrder": 600,
+   "Article": "der",
+   "GermanWithArticle": "der Wein, -e",
+   "GermanNoArticle": "Wein, -e",
+   "English": "wine",
+   "RandomNumber": 355
+ },
+ {
+   "AlphabetOrder": 947,
+   "Article": "die",
+   "GermanWithArticle": "die Verführung, -en",
+   "GermanNoArticle": "Verführung, -en",
+   "English": "seduction, temptation",
+   "RandomNumber": 281
+ },
+ {
+   "AlphabetOrder": 338,
+   "Article": "der",
+   "GermanWithArticle": "der Geruch, -¨e",
+   "GermanNoArticle": "Geruch, -¨e",
+   "English": "smell, odor",
+   "RandomNumber": 942
+ },
+ {
+   "AlphabetOrder": 726,
+   "Article": "die",
+   "GermanWithArticle": "die Gardine, -n",
+   "GermanNoArticle": "Gardine, -n",
+   "English": "drapes, curtains",
+   "RandomNumber": 765
+ },
+ {
+   "AlphabetOrder": 911,
+   "Article": "die",
+   "GermanWithArticle": "die Stimme, -n",
+   "GermanNoArticle": "Stimme, -n",
+   "English": "voice, part",
+   "RandomNumber": 777
+ },
+ {
+   "AlphabetOrder": 54,
+   "Article": "das",
+   "GermanWithArticle": "das Fundament, -e",
+   "GermanNoArticle": "Fundament, -e",
+   "English": "foundation",
+   "RandomNumber": 915
+ },
+ {
+   "AlphabetOrder": 843,
+   "Article": "die",
+   "GermanWithArticle": "die Pommesfrites, -",
+   "GermanNoArticle": "Pommesfrites, -",
+   "English": "french fries",
+   "RandomNumber": 208
+ },
+ {
+   "AlphabetOrder": 831,
+   "Article": "die",
+   "GermanWithArticle": "die Pastete, -n",
+   "GermanNoArticle": "Pastete, -n",
+   "English": "meat pie",
+   "RandomNumber": 256
+ },
+ {
+   "AlphabetOrder": 250,
+   "Article": "der",
+   "GermanWithArticle": "der Badeanzug, -e, die Badehose, -n",
+   "GermanNoArticle": "Badeanzug, -e, die Badehose, -n",
+   "English": "bathing suit",
+   "RandomNumber": 834
+ },
+ {
+   "AlphabetOrder": 1,
+   "Article": "das",
+   "GermanWithArticle": "das Abitur, -e",
+   "GermanNoArticle": "Abitur, -e",
+   "English": "school exam",
+   "RandomNumber": 137
+ },
+ {
+   "AlphabetOrder": 316,
+   "Article": "der",
+   "GermanWithArticle": "der Fleck, -en",
+   "GermanNoArticle": "Fleck, -en",
+   "English": "spot",
+   "RandomNumber": 423
+ },
+ {
+   "AlphabetOrder": 231,
+   "Article": "der",
+   "GermanWithArticle": "der Aktenordner, -",
+   "GermanNoArticle": "Aktenordner, -",
+   "English": "file, file cabinet, etc.",
+   "RandomNumber": 34
+ },
+ {
+   "AlphabetOrder": 14,
+   "Article": "das",
+   "GermanWithArticle": "das Bekenntnis, -X",
+   "GermanNoArticle": "Bekenntnis, -X",
+   "English": "confession",
+   "RandomNumber": 682
+ },
+ {
+   "AlphabetOrder": 514,
+   "Article": "der",
+   "GermanWithArticle": "der Seufzer, -",
+   "GermanNoArticle": "Seufzer, -",
+   "English": "sigh",
+   "RandomNumber": 357
+ },
+ {
+   "AlphabetOrder": 954,
+   "Article": "die",
+   "GermanWithArticle": "die Versorgung, -en",
+   "GermanNoArticle": "Versorgung, -en",
+   "English": "care, provision",
+   "RandomNumber": 156
+ },
+ {
+   "AlphabetOrder": 530,
+   "Article": "der",
+   "GermanWithArticle": "der Steward, die Stewardess",
+   "GermanNoArticle": "Steward, die Stewardess",
+   "English": "airline stewardess",
+   "RandomNumber": 800
+ },
+ {
+   "AlphabetOrder": 673,
+   "Article": "die",
+   "GermanWithArticle": "die Bushaltestelle, -n",
+   "GermanNoArticle": "Bushaltestelle, -n",
+   "English": "bus stop",
+   "RandomNumber": 155
+ },
+ {
+   "AlphabetOrder": 662,
+   "Article": "die",
+   "GermanWithArticle": "die Birne, -n",
+   "GermanNoArticle": "Birne, -n",
+   "English": "pear",
+   "RandomNumber": 237
+ },
+ {
+   "AlphabetOrder": 464,
+   "Article": "der",
+   "GermanWithArticle": "der Rand, -¨er",
+   "GermanNoArticle": "Rand, -¨er",
+   "English": "edge",
+   "RandomNumber": 75
+ },
+ {
+   "AlphabetOrder": 43,
+   "Article": "das",
+   "GermanWithArticle": "das Etui, -s",
+   "GermanNoArticle": "Etui, -s",
+   "English": "small case - i.e. Glasses case",
+   "RandomNumber": 134
+ },
+ {
+   "AlphabetOrder": 270,
+   "Article": "der",
+   "GermanWithArticle": "der Brei, -e",
+   "GermanNoArticle": "Brei, -e",
+   "English": "mash, puree",
+   "RandomNumber": 830
+ },
+ {
+   "AlphabetOrder": 120,
+   "Article": "das",
+   "GermanWithArticle": "das Leben, -",
+   "GermanNoArticle": "Leben, -",
+   "English": "life",
+   "RandomNumber": 456
+ },
+ {
+   "AlphabetOrder": 278,
+   "Article": "der",
+   "GermanWithArticle": "der Chirurg, -en",
+   "GermanNoArticle": "Chirurg, -en",
+   "English": "surgeon",
+   "RandomNumber": 288
+ },
+ {
+   "AlphabetOrder": 114,
+   "Article": "das",
+   "GermanWithArticle": "das Konzert, -e",
+   "GermanNoArticle": "Konzert, -e",
+   "English": "concert",
+   "RandomNumber": 383
+ },
+ {
+   "AlphabetOrder": 595,
+   "Article": "der",
+   "GermanWithArticle": "der Wart, -e",
+   "GermanNoArticle": "Wart, -e",
+   "English": "attendant",
+   "RandomNumber": 151
+ },
+ {
+   "AlphabetOrder": 448,
+   "Article": "der",
+   "GermanWithArticle": "der Pantoffelheld, -en",
+   "GermanNoArticle": "Pantoffelheld, -en",
+   "English": "hen pecked husband, i.e. Slipper bound",
+   "RandomNumber": 31
+ },
+ {
+   "AlphabetOrder": 720,
+   "Article": "die",
+   "GermanWithArticle": "die Frucht, -e",
+   "GermanNoArticle": "Frucht, -e",
+   "English": "fruit",
+   "RandomNumber": 213
+ },
+ {
+   "AlphabetOrder": 654,
+   "Article": "die",
+   "GermanWithArticle": "die Barmherzigkeit, x",
+   "GermanNoArticle": "Barmherzigkeit, x",
+   "English": "mercy",
+   "RandomNumber": 918
+ },
+ {
+   "AlphabetOrder": 624,
+   "Article": "die",
+   "GermanWithArticle": "die Abhängigkeit, -en",
+   "GermanNoArticle": "Abhängigkeit, -en",
+   "English": "addiction, dependence",
+   "RandomNumber": 160
+ },
+ {
+   "AlphabetOrder": 313,
+   "Article": "der",
+   "GermanWithArticle": "der Fingernagel, -¨",
+   "GermanNoArticle": "Fingernagel, -¨",
+   "English": "fingernail",
+   "RandomNumber": 921
+ },
+ {
+   "AlphabetOrder": 826,
+   "Article": "die",
+   "GermanWithArticle": "die Not, -¨e",
+   "GermanNoArticle": "Not, -¨e",
+   "English": "need, poverty",
+   "RandomNumber": 864
+ },
+ {
+   "AlphabetOrder": 929,
+   "Article": "die",
+   "GermanWithArticle": "die Tiefkühltruhe, -n",
+   "GermanNoArticle": "Tiefkühltruhe, -n",
+   "English": "refrigerator chest - horizontal, deep freeze",
+   "RandomNumber": 705
+ },
+ {
+   "AlphabetOrder": 321,
+   "Article": "der",
+   "GermanWithArticle": "der Fluss, -¨e",
+   "GermanNoArticle": "Fluss, -¨e",
+   "English": "river",
+   "RandomNumber": 549
+ },
+ {
+   "AlphabetOrder": 997,
+   "Article": "die",
+   "GermanWithArticle": "die Zulieferfirma, -en",
+   "GermanNoArticle": "Zulieferfirma, -en",
+   "English": "ancilliary company, supplier",
+   "RandomNumber": 847
+ },
+ {
+   "AlphabetOrder": 593,
+   "Article": "der",
+   "GermanWithArticle": "der Wagen, -",
+   "GermanNoArticle": "Wagen, -",
+   "English": "car, truck, etc.",
+   "RandomNumber": 536
+ },
+ {
+   "AlphabetOrder": 494,
+   "Article": "der",
+   "GermanWithArticle": "der Schirm, -e",
+   "GermanNoArticle": "Schirm, -e",
+   "English": "shield, screen",
+   "RandomNumber": 95
+ },
+ {
+   "AlphabetOrder": 86,
+   "Article": "das",
+   "GermanWithArticle": "das Hammerwerfen, -X",
+   "GermanNoArticle": "Hammerwerfen, -X",
+   "English": "hammer throwing",
+   "RandomNumber": 468
+ },
+ {
+   "AlphabetOrder": 883,
+   "Article": "die",
+   "GermanWithArticle": "die Schlange, -n",
+   "GermanNoArticle": "Schlange, -n",
+   "English": "snake, serpent, line of people",
+   "RandomNumber": 9
+ },
+ {
+   "AlphabetOrder": 232,
+   "Article": "der",
+   "GermanWithArticle": "der Allgemeinarzt, -¨e",
+   "GermanNoArticle": "Allgemeinarzt, -¨e",
+   "English": "general practice doctor",
+   "RandomNumber": 521
+ },
+ {
+   "AlphabetOrder": 977,
+   "Article": "die",
+   "GermanWithArticle": "die Weisheit, -",
+   "GermanNoArticle": "Weisheit, -",
+   "English": "wisdom",
+   "RandomNumber": 499
+ },
+ {
+   "AlphabetOrder": 629,
+   "Article": "die",
+   "GermanWithArticle": "die Alge, -n",
+   "GermanNoArticle": "Alge, -n",
+   "English": "algae",
+   "RandomNumber": 886
+ },
+ {
+   "AlphabetOrder": 359,
+   "Article": "der",
+   "GermanWithArticle": "der Herd, -e",
+   "GermanNoArticle": "Herd, -e",
+   "English": "whole stove, oven and top",
+   "RandomNumber": 962
+ },
+ {
+   "AlphabetOrder": 466,
+   "Article": "der",
+   "GermanWithArticle": "der Raum, -¨e",
+   "GermanNoArticle": "Raum, -¨e",
+   "English": "space, room",
+   "RandomNumber": 236
+ },
+ {
+   "AlphabetOrder": 876,
+   "Article": "die",
+   "GermanWithArticle": "die Salbe, -n",
+   "GermanNoArticle": "Salbe, -n",
+   "English": "salve, ointment",
+   "RandomNumber": 416
+ },
+ {
+   "AlphabetOrder": 201,
+   "Article": "das",
+   "GermanWithArticle": "das Verbrechen, -",
+   "GermanNoArticle": "Verbrechen, -",
+   "English": "crime",
+   "RandomNumber": 774
+ },
+ {
+   "AlphabetOrder": 968,
+   "Article": "die",
+   "GermanWithArticle": "die Wahrscheinlichkeit, -en",
+   "GermanNoArticle": "Wahrscheinlichkeit, -en",
+   "English": "probability, likelihood",
+   "RandomNumber": 815
+ },
+ {
+   "AlphabetOrder": 681,
+   "Article": "die",
+   "GermanWithArticle": "die Droge, -n",
+   "GermanNoArticle": "Droge, -n",
+   "English": "drugs",
+   "RandomNumber": 322
+ },
+ {
+   "AlphabetOrder": 570,
+   "Article": "der",
+   "GermanWithArticle": "der Trubel, x",
+   "GermanNoArticle": "Trubel, x",
+   "English": "turbulence",
+   "RandomNumber": 901
+ },
+ {
+   "AlphabetOrder": 97,
+   "Article": "das",
+   "GermanWithArticle": "das Interrogativpronomen",
+   "GermanNoArticle": "Interrogativpronomen",
+   "English": "interrogative pronoun",
+   "RandomNumber": 100
+ },
+ {
+   "AlphabetOrder": 461,
+   "Article": "der",
+   "GermanWithArticle": "der Quark, -",
+   "GermanNoArticle": "Quark, -",
+   "English": "sour cream",
+   "RandomNumber": 746
+ },
+ {
+   "AlphabetOrder": 960,
+   "Article": "die",
+   "GermanWithArticle": "die Videothek, -en",
+   "GermanNoArticle": "Videothek, -en",
+   "English": "video store",
+   "RandomNumber": 539
+ },
+ {
+   "AlphabetOrder": 746,
+   "Article": "die",
+   "GermanWithArticle": "die Hauptspeise, -n",
+   "GermanNoArticle": "Hauptspeise, -n",
+   "English": "main meal",
+   "RandomNumber": 199
+ },
+ {
+   "AlphabetOrder": 766,
+   "Article": "die",
+   "GermanWithArticle": "die Kerze, -n",
+   "GermanNoArticle": "Kerze, -n",
+   "English": "candle",
+   "RandomNumber": 361
+ },
+ {
+   "AlphabetOrder": 702,
+   "Article": "die",
+   "GermanWithArticle": "die Farbenpalette, -n",
+   "GermanNoArticle": "Farbenpalette, -n",
+   "English": "painters palette",
+   "RandomNumber": 649
+ },
+ {
+   "AlphabetOrder": 25,
+   "Article": "das",
+   "GermanWithArticle": "das Brötchen",
+   "GermanNoArticle": "Brötchen",
+   "English": "small bread roll",
+   "RandomNumber": 171
+ },
+ {
+   "AlphabetOrder": 150,
+   "Article": "das",
+   "GermanWithArticle": "das Püree, -s",
+   "GermanNoArticle": "Püree, -s",
+   "English": "puree, i.e. Kartoffelpüree - mashed potatoes",
+   "RandomNumber": 6
+ },
+ {
+   "AlphabetOrder": 456,
+   "Article": "der",
+   "GermanWithArticle": "der Pilz, -e",
+   "GermanNoArticle": "Pilz, -e",
+   "English": "mushroom",
+   "RandomNumber": 907
+ },
+ {
+   "AlphabetOrder": 898,
+   "Article": "die",
+   "GermanWithArticle": "die Sorge, -n",
+   "GermanNoArticle": "Sorge, -n",
+   "English": "worry",
+   "RandomNumber": 214
+ },
+ {
+   "AlphabetOrder": 713,
+   "Article": "die",
+   "GermanWithArticle": "die Flut, -en",
+   "GermanNoArticle": "Flut, -en",
+   "English": "flood",
+   "RandomNumber": 608
+ },
+ {
+   "AlphabetOrder": 808,
+   "Article": "die",
+   "GermanWithArticle": "die Meile, -n",
+   "GermanNoArticle": "Meile, -n",
+   "English": "mile",
+   "RandomNumber": 892
+ },
+ {
+   "AlphabetOrder": 626,
+   "Article": "die",
+   "GermanWithArticle": "die Abwicklung, -en",
+   "GermanNoArticle": "Abwicklung, -en",
+   "English": "liquidation, phaseout",
+   "RandomNumber": 441
+ },
+ {
+   "AlphabetOrder": 878,
+   "Article": "die",
+   "GermanWithArticle": "die Sandgrube, -n",
+   "GermanNoArticle": "Sandgrube, -n",
+   "English": "sand pit",
+   "RandomNumber": 895
+ },
+ {
+   "AlphabetOrder": 1000,
+   "Article": "die",
+   "GermanWithArticle": "die Zwiebeln, -",
+   "GermanNoArticle": "Zwiebeln, -",
+   "English": "onion",
+   "RandomNumber": 787
+ },
+ {
+   "AlphabetOrder": 890,
+   "Article": "die",
+   "GermanWithArticle": "die Schule, -n",
+   "GermanNoArticle": "Schule, -n",
+   "English": "school",
+   "RandomNumber": 334
+ },
+ {
+   "AlphabetOrder": 56,
+   "Article": "das",
+   "GermanWithArticle": "das Garagentor, -e",
+   "GermanNoArticle": "Garagentor, -e",
+   "English": "garage door",
+   "RandomNumber": 870
+ },
+ {
+   "AlphabetOrder": 22,
+   "Article": "das",
+   "GermanWithArticle": "das Bonbon, -s",
+   "GermanNoArticle": "Bonbon, -s",
+   "English": "candy, treat",
+   "RandomNumber": 402
+ },
+ {
+   "AlphabetOrder": 7,
+   "Article": "das",
+   "GermanWithArticle": "das Auge, -n",
+   "GermanNoArticle": "Auge, -n",
+   "English": "eye",
+   "RandomNumber": 1000
+ },
+ {
+   "AlphabetOrder": 50,
+   "Article": "das",
+   "GermanWithArticle": "das Fett, -e",
+   "GermanNoArticle": "Fett, -e",
+   "English": "fat",
+   "RandomNumber": 294
+ },
+ {
+   "AlphabetOrder": 813,
+   "Article": "die",
+   "GermanWithArticle": "die Möhre, -n",
+   "GermanNoArticle": "Möhre, -n",
+   "English": "carrot",
+   "RandomNumber": 240
+ },
+ {
+   "AlphabetOrder": 712,
+   "Article": "die",
+   "GermanWithArticle": "die Fluggesellschaft, -¨e",
+   "GermanNoArticle": "Fluggesellschaft, -¨e",
+   "English": "airline",
+   "RandomNumber": 922
+ },
+ {
+   "AlphabetOrder": 149,
+   "Article": "das",
+   "GermanWithArticle": "das Polen",
+   "GermanNoArticle": "Polen",
+   "English": "poland",
+   "RandomNumber": 172
+ },
+ {
+   "AlphabetOrder": 409,
+   "Article": "der",
+   "GermanWithArticle": "der Laptop, -s",
+   "GermanNoArticle": "Laptop, -s",
+   "English": "laptop computer",
+   "RandomNumber": 64
+ },
+ {
+   "AlphabetOrder": 291,
+   "Article": "der",
+   "GermanWithArticle": "der Dualismus, -",
+   "GermanNoArticle": "Dualismus, -",
+   "English": "dualism",
+   "RandomNumber": 269
+ },
+ {
+   "AlphabetOrder": 827,
+   "Article": "die",
+   "GermanWithArticle": "die Olive, -n",
+   "GermanNoArticle": "Olive, -n",
+   "English": "olive",
+   "RandomNumber": 571
+ },
+ {
+   "AlphabetOrder": 513,
+   "Article": "der",
+   "GermanWithArticle": "der Sessel, -",
+   "GermanNoArticle": "Sessel, -",
+   "English": "armchair",
+   "RandomNumber": 434
+ },
+ {
+   "AlphabetOrder": 486,
+   "Article": "der",
+   "GermanWithArticle": "der Sandstrand, -¨e",
+   "GermanNoArticle": "Sandstrand, -¨e",
+   "English": "sandy beach",
+   "RandomNumber": 747
+ },
+ {
+   "AlphabetOrder": 51,
+   "Article": "das",
+   "GermanWithArticle": "das Fieber, -",
+   "GermanNoArticle": "Fieber, -",
+   "English": "fever",
+   "RandomNumber": 232
+ },
+ {
+   "AlphabetOrder": 310,
+   "Article": "der",
+   "GermanWithArticle": "der Finger, -",
+   "GermanNoArticle": "Finger, -",
+   "English": "finger",
+   "RandomNumber": 337
+ },
+ {
+   "AlphabetOrder": 107,
+   "Article": "das",
+   "GermanWithArticle": "das Kilo, -s",
+   "GermanNoArticle": "Kilo, -s",
+   "English": "kilo",
+   "RandomNumber": 140
+ },
+ {
+   "AlphabetOrder": 542,
+   "Article": "der",
+   "GermanWithArticle": "der Strauch, -¨er",
+   "GermanNoArticle": "Strauch, -¨er",
+   "English": "shrubbery",
+   "RandomNumber": 3
+ },
+ {
+   "AlphabetOrder": 118,
+   "Article": "das",
+   "GermanWithArticle": "das Lammfleisch, -",
+   "GermanNoArticle": "Lammfleisch, -",
+   "English": "lamb meat",
+   "RandomNumber": 938
+ },
+ {
+   "AlphabetOrder": 940,
+   "Article": "die",
+   "GermanWithArticle": "die Universität, -en",
+   "GermanNoArticle": "Universität, -en",
+   "English": "university",
+   "RandomNumber": 545
+ },
+ {
+   "AlphabetOrder": 134,
+   "Article": "das",
+   "GermanWithArticle": "das Müsli, -",
+   "GermanNoArticle": "Müsli, -",
+   "English": "grain cereal, cereal grains",
+   "RandomNumber": 524
+ },
+ {
+   "AlphabetOrder": 398,
+   "Article": "der",
+   "GermanWithArticle": "der Kratzer, -",
+   "GermanNoArticle": "Kratzer, -",
+   "English": "scratch",
+   "RandomNumber": 35
+ },
+ {
+   "AlphabetOrder": 166,
+   "Article": "das",
+   "GermanWithArticle": "das Schloss, -¨er",
+   "GermanNoArticle": "Schloss, -¨er",
+   "English": "lock, castle",
+   "RandomNumber": 582
+ },
+ {
+   "AlphabetOrder": 272,
+   "Article": "der",
+   "GermanWithArticle": "der Bruder , -n",
+   "GermanNoArticle": "Bruder , -n",
+   "English": "brother",
+   "RandomNumber": 944
+ },
+ {
+   "AlphabetOrder": 148,
+   "Article": "das",
+   "GermanWithArticle": "das Plätzchen, -",
+   "GermanNoArticle": "Plätzchen, -",
+   "English": "biscuit",
+   "RandomNumber": 302
+ },
+ {
+   "AlphabetOrder": 565,
+   "Article": "der",
+   "GermanWithArticle": "der Trainer, die Trainerin",
+   "GermanNoArticle": "Trainer, die Trainerin",
+   "English": "trainer",
+   "RandomNumber": 253
+ },
+ {
+   "AlphabetOrder": 548,
+   "Article": "der",
+   "GermanWithArticle": "der Supermarkt, -¨e",
+   "GermanNoArticle": "Supermarkt, -¨e",
+   "English": "supermarket",
+   "RandomNumber": 683
+ },
+ {
+   "AlphabetOrder": 121,
+   "Article": "das",
+   "GermanWithArticle": "das Lied, -er",
+   "GermanNoArticle": "Lied, -er",
+   "English": "song",
+   "RandomNumber": 657
+ },
+ {
+   "AlphabetOrder": 6,
+   "Article": "das",
+   "GermanWithArticle": "das Asyl, -e",
+   "GermanNoArticle": "Asyl, -e",
+   "English": "asylum",
+   "RandomNumber": 207
+ },
+ {
+   "AlphabetOrder": 675,
+   "Article": "die",
+   "GermanWithArticle": "die Decke, -n",
+   "GermanNoArticle": "Decke, -n",
+   "English": "ceiling, bed cover",
+   "RandomNumber": 592
+ },
+ {
+   "AlphabetOrder": 13,
+   "Article": "das",
+   "GermanWithArticle": "das Bein, -e",
+   "GermanNoArticle": "Bein, -e",
+   "English": "leg",
+   "RandomNumber": 196
+ },
+ {
+   "AlphabetOrder": 539,
+   "Article": "der",
+   "GermanWithArticle": "der Strafzettel, -",
+   "GermanNoArticle": "Strafzettel, -",
+   "English": "parking ticket, etc.",
+   "RandomNumber": 708
+ },
+ {
+   "AlphabetOrder": 100,
+   "Article": "das",
+   "GermanWithArticle": "das Kalb, -¨er",
+   "GermanNoArticle": "Kalb, -¨er",
+   "English": "calf",
+   "RandomNumber": 93
+ },
+ {
+   "AlphabetOrder": 320,
+   "Article": "der",
+   "GermanWithArticle": "der Flur, -e",
+   "GermanNoArticle": "Flur, -e",
+   "English": "hallway in a house",
+   "RandomNumber": 554
+ },
+ {
+   "AlphabetOrder": 956,
+   "Article": "die",
+   "GermanWithArticle": "die Verspottung, -en",
+   "GermanNoArticle": "Verspottung, -en",
+   "English": "mockery",
+   "RandomNumber": 66
+ },
+ {
+   "AlphabetOrder": 449,
+   "Article": "der",
+   "GermanWithArticle": "der Papagei, -en",
+   "GermanNoArticle": "Papagei, -en",
+   "English": "parrot",
+   "RandomNumber": 300
+ },
+ {
+   "AlphabetOrder": 210,
+   "Article": "das",
+   "GermanWithArticle": "das Volk, ¨er",
+   "GermanNoArticle": "Volk, ¨er",
+   "English": "people, nation",
+   "RandomNumber": 931
+ },
+ {
+   "AlphabetOrder": 707,
+   "Article": "die",
+   "GermanWithArticle": "die Ferse, -n",
+   "GermanNoArticle": "Ferse, -n",
+   "English": "heel",
+   "RandomNumber": 987
+ },
+ {
+   "AlphabetOrder": 886,
+   "Article": "die",
+   "GermanWithArticle": "die Schokolade, -n",
+   "GermanNoArticle": "Schokolade, -n",
+   "English": "chocolate",
+   "RandomNumber": 961
+ },
+ {
+   "AlphabetOrder": 353,
+   "Article": "der",
+   "GermanWithArticle": "der Hase, -n",
+   "GermanNoArticle": "Hase, -n",
+   "English": "hare, undomesticated rabbit",
+   "RandomNumber": 937
+ },
+ {
+   "AlphabetOrder": 501,
+   "Article": "der",
+   "GermanWithArticle": "der Schmetterling, -e",
+   "GermanNoArticle": "Schmetterling, -e",
+   "English": "butterfly",
+   "RandomNumber": 613
+ },
+ {
+   "AlphabetOrder": 652,
+   "Article": "die",
+   "GermanWithArticle": "die Bank, -¨e",
+   "GermanNoArticle": "Bank, -¨e",
+   "English": "bench",
+   "RandomNumber": 405
+ },
+ {
+   "AlphabetOrder": 536,
+   "Article": "der",
+   "GermanWithArticle": "der Stoff, -e",
+   "GermanNoArticle": "Stoff, -e",
+   "English": "fabric, material",
+   "RandomNumber": 675
+ },
+ {
+   "AlphabetOrder": 389,
+   "Article": "der",
+   "GermanWithArticle": "der Kontrast, -e",
+   "GermanNoArticle": "Kontrast, -e",
+   "English": "contrast",
+   "RandomNumber": 934
+ },
+ {
+   "AlphabetOrder": 889,
+   "Article": "die",
+   "GermanWithArticle": "die Schublade, -n",
+   "GermanNoArticle": "Schublade, -n",
+   "English": "drawer",
+   "RandomNumber": 99
+ },
+ {
+   "AlphabetOrder": 628,
+   "Article": "die",
+   "GermanWithArticle": "die Ahnung, -",
+   "GermanNoArticle": "Ahnung, -",
+   "English": "suspicion, hunch",
+   "RandomNumber": 776
+ },
+ {
+   "AlphabetOrder": 857,
+   "Article": "die",
+   "GermanWithArticle": "die Reihe, -n",
+   "GermanNoArticle": "Reihe, -n",
+   "English": "row, line",
+   "RandomNumber": 912
+ },
+ {
+   "AlphabetOrder": 758,
+   "Article": "die",
+   "GermanWithArticle": "die Jacke, -n",
+   "GermanNoArticle": "Jacke, -n",
+   "English": "jacket",
+   "RandomNumber": 748
+ },
+ {
+   "AlphabetOrder": 810,
+   "Article": "die",
+   "GermanWithArticle": "die Metzgerei, -",
+   "GermanNoArticle": "Metzgerei, -",
+   "English": "butcher shop",
+   "RandomNumber": 971
+ },
+ {
+   "AlphabetOrder": 173,
+   "Article": "das",
+   "GermanWithArticle": "das Seil, -e",
+   "GermanNoArticle": "Seil, -e",
+   "English": "rope, line, climbing line",
+   "RandomNumber": 349
+ },
+ {
+   "AlphabetOrder": 621,
+   "Article": "der",
+   "GermanWithArticle": "der Zoo, -s",
+   "GermanNoArticle": "Zoo, -s",
+   "English": "zoo",
+   "RandomNumber": 16
+ },
+ {
+   "AlphabetOrder": 20,
+   "Article": "das",
+   "GermanWithArticle": "das Blut, -X",
+   "GermanNoArticle": "Blut, -X",
+   "English": "blood",
+   "RandomNumber": 953
+ },
+ {
+   "AlphabetOrder": 500,
+   "Article": "der",
+   "GermanWithArticle": "der Schmerz, -en",
+   "GermanNoArticle": "Schmerz, -en",
+   "English": "pain",
+   "RandomNumber": 413
+ },
+ {
+   "AlphabetOrder": 330,
+   "Article": "der",
+   "GermanWithArticle": "der Fußgänger, -",
+   "GermanNoArticle": "Fußgänger, -",
+   "English": "pedestrian",
+   "RandomNumber": 94
+ },
+ {
+   "AlphabetOrder": 34,
+   "Article": "das",
+   "GermanWithArticle": "das Doppelbett, -en",
+   "GermanNoArticle": "Doppelbett, -en",
+   "English": "double bed",
+   "RandomNumber": 1
+ },
+ {
+   "AlphabetOrder": 816,
+   "Article": "die",
+   "GermanWithArticle": "die Münze, -n",
+   "GermanNoArticle": "Münze, -n",
+   "English": "cap",
+   "RandomNumber": 351
+ },
+ {
+   "AlphabetOrder": 854,
+   "Article": "die",
+   "GermanWithArticle": "die Realität, -e",
+   "GermanNoArticle": "Realität, -e",
+   "English": "reality",
+   "RandomNumber": 906
+ },
+ {
+   "AlphabetOrder": 737,
+   "Article": "die",
+   "GermanWithArticle": "die Grippe, -n",
+   "GermanNoArticle": "Grippe, -n",
+   "English": "flu, sickness",
+   "RandomNumber": 577
+ },
+ {
+   "AlphabetOrder": 545,
+   "Article": "der",
+   "GermanWithArticle": "der Streit, -e",
+   "GermanNoArticle": "Streit, -e",
+   "English": "argument, quarrel, dispute",
+   "RandomNumber": 36
+ },
+ {
+   "AlphabetOrder": 457,
+   "Article": "der",
+   "GermanWithArticle": "der Pinsel, -",
+   "GermanNoArticle": "Pinsel, -",
+   "English": "brush",
+   "RandomNumber": 790
+ },
+ {
+   "AlphabetOrder": 423,
+   "Article": "der",
+   "GermanWithArticle": "der Meeresblick, -e",
+   "GermanNoArticle": "Meeresblick, -e",
+   "English": "seaside view",
+   "RandomNumber": 462
+ },
+ {
+   "AlphabetOrder": 955,
+   "Article": "die",
+   "GermanWithArticle": "die Verspätung, -en",
+   "GermanNoArticle": "Verspätung, -en",
+   "English": "delay",
+   "RandomNumber": 395
+ },
+ {
+   "AlphabetOrder": 490,
+   "Article": "der",
+   "GermanWithArticle": "der Schatz, -¨e",
+   "GermanNoArticle": "Schatz, -¨e",
+   "English": "treasure, sweetheart",
+   "RandomNumber": 152
+ },
+ {
+   "AlphabetOrder": 780,
+   "Article": "die",
+   "GermanWithArticle": "die Krawatte, -n",
+   "GermanNoArticle": "Krawatte, -n",
+   "English": "necktie",
+   "RandomNumber": 821
+ },
+ {
+   "AlphabetOrder": 651,
+   "Article": "die",
+   "GermanWithArticle": "die Banane, -n",
+   "GermanNoArticle": "Banane, -n",
+   "English": "banana",
+   "RandomNumber": 38
+ },
+ {
+   "AlphabetOrder": 246,
+   "Article": "der",
+   "GermanWithArticle": "der Asylant, -en",
+   "GermanNoArticle": "Asylant, -en",
+   "English": "asylum seeker",
+   "RandomNumber": 425
+ },
+ {
+   "AlphabetOrder": 822,
+   "Article": "die",
+   "GermanWithArticle": "die Neffe, -n",
+   "GermanNoArticle": "Neffe, -n",
+   "English": "nephew",
+   "RandomNumber": 919
+ },
+ {
+   "AlphabetOrder": 583,
+   "Article": "der",
+   "GermanWithArticle": "der Vers, -e",
+   "GermanNoArticle": "Vers, -e",
+   "English": "verse",
+   "RandomNumber": 638
+ },
+ {
+   "AlphabetOrder": 926,
+   "Article": "die",
+   "GermanWithArticle": "die Taucherbrille, -n",
+   "GermanNoArticle": "Taucherbrille, -n",
+   "English": "diving goggles",
+   "RandomNumber": 803
+ },
+ {
+   "AlphabetOrder": 29,
+   "Article": "das",
+   "GermanWithArticle": "das Chaos, -",
+   "GermanNoArticle": "Chaos, -",
+   "English": "chaos. Disorder",
+   "RandomNumber": 654
+ },
+ {
+   "AlphabetOrder": 698,
+   "Article": "die",
+   "GermanWithArticle": "die Erschöpfung, -X",
+   "GermanNoArticle": "Erschöpfung, -X",
+   "English": "exhaustion, fatigue",
+   "RandomNumber": 730
+ },
+ {
+   "AlphabetOrder": 918,
+   "Article": "die",
+   "GermanWithArticle": "die Suppenkelle, -n",
+   "GermanNoArticle": "Suppenkelle, -n",
+   "English": "soup ladle",
+   "RandomNumber": 778
+ },
+ {
+   "AlphabetOrder": 80,
+   "Article": "das",
+   "GermanWithArticle": "das Glück, -",
+   "GermanNoArticle": "Glück, -",
+   "English": "luck",
+   "RandomNumber": 983
+ },
+ {
+   "AlphabetOrder": 848,
+   "Article": "die",
+   "GermanWithArticle": "die Praxis, Praxen",
+   "GermanNoArticle": "Praxis, Praxen",
+   "English": "doctor´s practice",
+   "RandomNumber": 739
+ },
+ {
+   "AlphabetOrder": 422,
+   "Article": "der",
+   "GermanWithArticle": "der Mediabericht, -e",
+   "GermanNoArticle": "Mediabericht, -e",
+   "English": "media report",
+   "RandomNumber": 328
+ },
+ {
+   "AlphabetOrder": 684,
+   "Article": "die",
+   "GermanWithArticle": "die Durchwahl, ¨e",
+   "GermanNoArticle": "Durchwahl, ¨e",
+   "English": "telephone extension",
+   "RandomNumber": 218
+ },
+ {
+   "AlphabetOrder": 666,
+   "Article": "die",
+   "GermanWithArticle": "die Boutique, -n",
+   "GermanNoArticle": "Boutique, -n",
+   "English": "boutique",
+   "RandomNumber": 927
+ },
+ {
+   "AlphabetOrder": 156,
+   "Article": "das",
+   "GermanWithArticle": "das Reihenhaus, -¨er",
+   "GermanNoArticle": "Reihenhaus, -¨er",
+   "English": "terraced house, row house",
+   "RandomNumber": 950
+ },
+ {
+   "AlphabetOrder": 151,
+   "Article": "das",
+   "GermanWithArticle": "das Quadrat, -e",
+   "GermanNoArticle": "Quadrat, -e",
+   "English": "square",
+   "RandomNumber": 125
+ },
+ {
+   "AlphabetOrder": 304,
+   "Article": "der",
+   "GermanWithArticle": "der Fahrradabstellplatz, -¨e",
+   "GermanNoArticle": "Fahrradabstellplatz, -¨e",
+   "English": "bicycle parking place",
+   "RandomNumber": 742
+ },
+ {
+   "AlphabetOrder": 140,
+   "Article": "das",
+   "GermanWithArticle": "das Öl, -e",
+   "GermanNoArticle": "Öl, -e",
+   "English": "oil",
+   "RandomNumber": 868
+ },
+ {
+   "AlphabetOrder": 604,
+   "Article": "der",
+   "GermanWithArticle": "der Wert, -e",
+   "GermanNoArticle": "Wert, -e",
+   "English": "worth, value",
+   "RandomNumber": 47
+ },
+ {
+   "AlphabetOrder": 382,
+   "Article": "der",
+   "GermanWithArticle": "der Klee, -",
+   "GermanNoArticle": "Klee, -",
+   "English": "clover",
+   "RandomNumber": 495
+ },
+ {
+   "AlphabetOrder": 551,
+   "Article": "der",
+   "GermanWithArticle": "der Tagtraum, -¨e",
+   "GermanNoArticle": "Tagtraum, -¨e",
+   "English": "daydream",
+   "RandomNumber": 157
+ },
+ {
+   "AlphabetOrder": 938,
+   "Article": "die",
+   "GermanWithArticle": "die Umfrage, -n",
+   "GermanNoArticle": "Umfrage, -n",
+   "English": "job Interview",
+   "RandomNumber": 694
+ },
+ {
+   "AlphabetOrder": 647,
+   "Article": "die",
+   "GermanWithArticle": "die Backspacetaste, -n",
+   "GermanNoArticle": "Backspacetaste, -n",
+   "English": "backspace key",
+   "RandomNumber": 534
+ },
+ {
+   "AlphabetOrder": 893,
+   "Article": "die",
+   "GermanWithArticle": "die Schwerathletik, -x",
+   "GermanNoArticle": "Schwerathletik, -x",
+   "English": "contact sports",
+   "RandomNumber": 627
+ },
+ {
+   "AlphabetOrder": 532,
+   "Article": "der",
+   "GermanWithArticle": "der Stiefel, -",
+   "GermanNoArticle": "Stiefel, -",
+   "English": "boot",
+   "RandomNumber": 701
+ },
+ {
+   "AlphabetOrder": 180,
+   "Article": "das",
+   "GermanWithArticle": "das Spiegelei, -er",
+   "GermanNoArticle": "Spiegelei, -er",
+   "English": "fried egg",
+   "RandomNumber": 773
+ },
+ {
+   "AlphabetOrder": 15,
+   "Article": "das",
+   "GermanWithArticle": "das Bekleidungsgeschäft, -e",
+   "GermanNoArticle": "Bekleidungsgeschäft, -e",
+   "English": "clothing store",
+   "RandomNumber": 60
+ },
+ {
+   "AlphabetOrder": 419,
+   "Article": "der",
+   "GermanWithArticle": "der Mais, -X",
+   "GermanNoArticle": "Mais, -X",
+   "English": "corn",
+   "RandomNumber": 541
+ },
+ {
+   "AlphabetOrder": 770,
+   "Article": "die",
+   "GermanWithArticle": "die Klappe, -n",
+   "GermanNoArticle": "Klappe, -n",
+   "English": "flap, fig. trap, mouth",
+   "RandomNumber": 647
+ },
+ {
+   "AlphabetOrder": 933,
+   "Article": "die",
+   "GermanWithArticle": "die Treppe, -n",
+   "GermanNoArticle": "Treppe, -n",
+   "English": "stairs",
+   "RandomNumber": 365
+ },
+ {
+   "AlphabetOrder": 790,
+   "Article": "die",
+   "GermanWithArticle": "die Lebenshaltung, x",
+   "GermanNoArticle": "Lebenshaltung, x",
+   "English": "cost of living",
+   "RandomNumber": 782
+ },
+ {
+   "AlphabetOrder": 447,
+   "Article": "der",
+   "GermanWithArticle": "der Orthopäde, -n",
+   "GermanNoArticle": "Orthopäde, -n",
+   "English": "orthopedist",
+   "RandomNumber": 924
+ },
+ {
+   "AlphabetOrder": 185,
+   "Article": "das",
+   "GermanWithArticle": "das Telefon, -e",
+   "GermanNoArticle": "Telefon, -e",
+   "English": "telephone",
+   "RandomNumber": 221
+ },
+ {
+   "AlphabetOrder": 521,
+   "Article": "der",
+   "GermanWithArticle": "der Stab, -¨e",
+   "GermanNoArticle": "Stab, -¨e",
+   "English": "stick, pole",
+   "RandomNumber": 275
+ },
+ {
+   "AlphabetOrder": 622,
+   "Article": "der",
+   "GermanWithArticle": "der Zucker, -",
+   "GermanNoArticle": "Zucker, -",
+   "English": "sugar",
+   "RandomNumber": 330
+ },
+ {
+   "AlphabetOrder": 772,
+   "Article": "die",
+   "GermanWithArticle": "die Knoblauchzehe, -n",
+   "GermanNoArticle": "Knoblauchzehe, -n",
+   "English": "garlic clove",
+   "RandomNumber": 741
+ },
+ {
+   "AlphabetOrder": 731,
+   "Article": "die",
+   "GermanWithArticle": "die Gerste, -n",
+   "GermanNoArticle": "Gerste, -n",
+   "English": "barley",
+   "RandomNumber": 594
+ },
+ {
+   "AlphabetOrder": 972,
+   "Article": "die",
+   "GermanWithArticle": "die Wäsche, -n",
+   "GermanNoArticle": "Wäsche, -n",
+   "English": "laundry",
+   "RandomNumber": 843
+ },
+ {
+   "AlphabetOrder": 116,
+   "Article": "das",
+   "GermanWithArticle": "das Kraut, -¨er",
+   "GermanNoArticle": "Kraut, -¨er",
+   "English": "plant",
+   "RandomNumber": 543
+ },
+ {
+   "AlphabetOrder": 824,
+   "Article": "die",
+   "GermanWithArticle": "die Nichte, -n",
+   "GermanNoArticle": "Nichte, -n",
+   "English": "niece",
+   "RandomNumber": 780
+ },
+ {
+   "AlphabetOrder": 380,
+   "Article": "der",
+   "GermanWithArticle": "der Keks, -e",
+   "GermanNoArticle": "Keks, -e",
+   "English": "cookies",
+   "RandomNumber": 120
+ },
+ {
+   "AlphabetOrder": 384,
+   "Article": "der",
+   "GermanWithArticle": "der Klub, -s",
+   "GermanNoArticle": "Klub, -s",
+   "English": "club, civic group",
+   "RandomNumber": 398
+ },
+ {
+   "AlphabetOrder": 550,
+   "Article": "der",
+   "GermanWithArticle": "der Synthesizer, -s",
+   "GermanNoArticle": "Synthesizer, -s",
+   "English": "synthesizer",
+   "RandomNumber": 877
+ },
+ {
+   "AlphabetOrder": 589,
+   "Article": "der",
+   "GermanWithArticle": "der Vorschlag, -¨e",
+   "GermanNoArticle": "Vorschlag, -¨e",
+   "English": "proposal, suggestion",
+   "RandomNumber": 969
+ },
+ {
+   "AlphabetOrder": 78,
+   "Article": "das",
+   "GermanWithArticle": "das Gewicht, -X",
+   "GermanNoArticle": "Gewicht, -X",
+   "English": "weight",
+   "RandomNumber": 83
+ },
+ {
+   "AlphabetOrder": 587,
+   "Article": "der",
+   "GermanWithArticle": "der Vorhang, -¨e",
+   "GermanNoArticle": "Vorhang, -¨e",
+   "English": "curtains",
+   "RandomNumber": 752
+ },
+ {
+   "AlphabetOrder": 172,
+   "Article": "das",
+   "GermanWithArticle": "das Schwimmbad, -¨er",
+   "GermanNoArticle": "Schwimmbad, -¨er",
+   "English": "swimming pool",
+   "RandomNumber": 623
+ },
+ {
+   "AlphabetOrder": 240,
+   "Article": "der",
+   "GermanWithArticle": "der Anspruch, -¨e",
+   "GermanNoArticle": "Anspruch, -¨e",
+   "English": "claim (ins.)",
+   "RandomNumber": 984
+ },
+ {
+   "AlphabetOrder": 186,
+   "Article": "das",
+   "GermanWithArticle": "das Teppichgeschäft, -e",
+   "GermanNoArticle": "Teppichgeschäft, -e",
+   "English": "carpet store",
+   "RandomNumber": 292
+ },
+ {
+   "AlphabetOrder": 437,
+   "Article": "der",
+   "GermanWithArticle": "der Nebel, -",
+   "GermanNoArticle": "Nebel, -",
+   "English": "fog, mist",
+   "RandomNumber": 299
+ },
+ {
+   "AlphabetOrder": 27,
+   "Article": "das",
+   "GermanWithArticle": "das Bund, -",
+   "GermanNoArticle": "Bund, -",
+   "English": "a bundle",
+   "RandomNumber": 189
+ },
+ {
+   "AlphabetOrder": 289,
+   "Article": "der",
+   "GermanWithArticle": "der Drache, -n",
+   "GermanNoArticle": "Drache, -n",
+   "English": "dragon",
+   "RandomNumber": 957
+ },
+ {
+   "AlphabetOrder": 286,
+   "Article": "der",
+   "GermanWithArticle": "der Dirigentenstab, -",
+   "GermanNoArticle": "Dirigentenstab, -",
+   "English": "conductors baton",
+   "RandomNumber": 419
+ },
+ {
+   "AlphabetOrder": 578,
+   "Article": "der",
+   "GermanWithArticle": "der Unterschied, -e",
+   "GermanNoArticle": "Unterschied, -e",
+   "English": "difference, variation",
+   "RandomNumber": 65
+ },
+ {
+   "AlphabetOrder": 730,
+   "Article": "die",
+   "GermanWithArticle": "die Gelegenheit, -",
+   "GermanNoArticle": "Gelegenheit, -",
+   "English": "opportunity",
+   "RandomNumber": 715
+ },
+ {
+   "AlphabetOrder": 375,
+   "Article": "der",
+   "GermanWithArticle": "der Kamm, -¨e",
+   "GermanNoArticle": "Kamm, -¨e",
+   "English": "comb",
+   "RandomNumber": 226
+ },
+ {
+   "AlphabetOrder": 222,
+   "Article": "das",
+   "GermanWithArticle": "das Zollkontrolle, -n",
+   "GermanNoArticle": "Zollkontrolle, -n",
+   "English": "customs in airport",
+   "RandomNumber": 655
+ },
+ {
+   "AlphabetOrder": 329,
+   "Article": "der",
+   "GermanWithArticle": "der Fuß, -¨e",
+   "GermanNoArticle": "Fuß, -¨e",
+   "English": "foot",
+   "RandomNumber": 550
+ },
+ {
+   "AlphabetOrder": 230,
+   "Article": "der",
+   "GermanWithArticle": "der Aktenkoffer, -",
+   "GermanNoArticle": "Aktenkoffer, -",
+   "English": "attache case",
+   "RandomNumber": 754
+ },
+ {
+   "AlphabetOrder": 268,
+   "Article": "der",
+   "GermanWithArticle": "der Blumenstrauß, -¨e",
+   "GermanNoArticle": "Blumenstrauß, -¨e",
+   "English": "bunch of flowers",
+   "RandomNumber": 303
+ },
+ {
+   "AlphabetOrder": 642,
+   "Article": "die",
+   "GermanWithArticle": "die Atmung, -X",
+   "GermanNoArticle": "Atmung, -X",
+   "English": "respiration, breathing",
+   "RandomNumber": 91
+ },
+ {
+   "AlphabetOrder": 492,
+   "Article": "der",
+   "GermanWithArticle": "der Schimpf, -",
+   "GermanNoArticle": "Schimpf, -",
+   "English": "insult, affront",
+   "RandomNumber": 619
+ },
+ {
+   "AlphabetOrder": 236,
+   "Article": "der",
+   "GermanWithArticle": "der Angriff, -",
+   "GermanNoArticle": "Angriff, -",
+   "English": "attack, raid",
+   "RandomNumber": 45
+ },
+ {
+   "AlphabetOrder": 863,
+   "Article": "die",
+   "GermanWithArticle": "die Reklame, -n",
+   "GermanNoArticle": "Reklame, -n",
+   "English": "advertising",
+   "RandomNumber": 831
+ },
+ {
+   "AlphabetOrder": 406,
+   "Article": "der",
+   "GermanWithArticle": "der Kuss, -¨e",
+   "GermanNoArticle": "Kuss, -¨e",
+   "English": "kiss",
+   "RandomNumber": 612
+ },
+ {
+   "AlphabetOrder": 345,
+   "Article": "der",
+   "GermanWithArticle": "der Gürtel, -",
+   "GermanNoArticle": "Gürtel, -",
+   "English": "belt",
+   "RandomNumber": 899
+ },
+ {
+   "AlphabetOrder": 659,
+   "Article": "die",
+   "GermanWithArticle": "die Besichtigung, -en",
+   "GermanNoArticle": "Besichtigung, -en",
+   "English": "sight seeing tour",
+   "RandomNumber": 131
+ },
+ {
+   "AlphabetOrder": 665,
+   "Article": "die",
+   "GermanWithArticle": "die Bordkarte, -n",
+   "GermanNoArticle": "Bordkarte, -n",
+   "English": "bording card",
+   "RandomNumber": 376
+ },
+ {
+   "AlphabetOrder": 454,
+   "Article": "der",
+   "GermanWithArticle": "der Pfeffer, -",
+   "GermanNoArticle": "Pfeffer, -",
+   "English": "pepper",
+   "RandomNumber": 467
+ },
+ {
+   "AlphabetOrder": 641,
+   "Article": "die",
+   "GermanWithArticle": "die Art, -en",
+   "GermanNoArticle": "Art, -en",
+   "English": "kind, sort, type",
+   "RandomNumber": 955
+ },
+ {
+   "AlphabetOrder": 529,
+   "Article": "der",
+   "GermanWithArticle": "der Stern, -¨e",
+   "GermanNoArticle": "Stern, -¨e",
+   "English": "stars",
+   "RandomNumber": 528
+ },
+ {
+   "AlphabetOrder": 295,
+   "Article": "der",
+   "GermanWithArticle": "der Düsenjäger, -",
+   "GermanNoArticle": "Düsenjäger, -",
+   "English": "fighter jet",
+   "RandomNumber": 384
+ },
+ {
+   "AlphabetOrder": 728,
+   "Article": "die",
+   "GermanWithArticle": "die Gefühllosigkeit, -x",
+   "GermanNoArticle": "Gefühllosigkeit, -x",
+   "English": "callousness, insensitivity",
+   "RandomNumber": 936
+ },
+ {
+   "AlphabetOrder": 785,
+   "Article": "die",
+   "GermanWithArticle": "die Kühltasche, -n",
+   "GermanNoArticle": "Kühltasche, -n",
+   "English": "cooler, cold bag",
+   "RandomNumber": 991
+ },
+ {
+   "AlphabetOrder": 768,
+   "Article": "die",
+   "GermanWithArticle": "die Kirsche, -n",
+   "GermanNoArticle": "Kirsche, -n",
+   "English": "cherry",
+   "RandomNumber": 547
+ },
+ {
+   "AlphabetOrder": 932,
+   "Article": "die",
+   "GermanWithArticle": "die Träne, -n",
+   "GermanNoArticle": "Träne, -n",
+   "English": "tear",
+   "RandomNumber": 972
+ },
+ {
+   "AlphabetOrder": 318,
+   "Article": "der",
+   "GermanWithArticle": "der Flugbegleiter, -,die Flugbegleiterin",
+   "GermanNoArticle": "Flugbegleiter, -,die Flugbegleiterin",
+   "English": "airline stewardess",
+   "RandomNumber": 759
+ },
+ {
+   "AlphabetOrder": 478,
+   "Article": "der",
+   "GermanWithArticle": "der Roller, -",
+   "GermanNoArticle": "Roller, -",
+   "English": "scooter",
+   "RandomNumber": 732
+ },
+ {
+   "AlphabetOrder": 175,
+   "Article": "das",
+   "GermanWithArticle": "das Shampoo, -s",
+   "GermanNoArticle": "Shampoo, -s",
+   "English": "shampoo",
+   "RandomNumber": 602
+ },
+ {
+   "AlphabetOrder": 696,
+   "Article": "die",
+   "GermanWithArticle": "die Ernährung, -X",
+   "GermanNoArticle": "Ernährung, -X",
+   "English": "nutrition",
+   "RandomNumber": 743
+ },
+ {
+   "AlphabetOrder": 935,
+   "Article": "die",
+   "GermanWithArticle": "die Überraschung, -en",
+   "GermanNoArticle": "Überraschung, -en",
+   "English": "a surprise",
+   "RandomNumber": 688
+ },
+ {
+   "AlphabetOrder": 227,
+   "Article": "der",
+   "GermanWithArticle": "der Abstand, -¨e",
+   "GermanNoArticle": "Abstand, -¨e",
+   "English": "distance",
+   "RandomNumber": 745
+ },
+ {
+   "AlphabetOrder": 724,
+   "Article": "die",
+   "GermanWithArticle": "die Garantie, -n",
+   "GermanNoArticle": "Garantie, -n",
+   "English": "guarantee",
+   "RandomNumber": 580
+ },
+ {
+   "AlphabetOrder": 939,
+   "Article": "die",
+   "GermanWithArticle": "die Ungelegenheiten, (pl)",
+   "GermanNoArticle": "Ungelegenheiten, (pl)",
+   "English": "inconvenience (un-opportunity)",
+   "RandomNumber": 973
+ },
+ {
+   "AlphabetOrder": 528,
+   "Article": "der",
+   "GermanWithArticle": "der Stau, -e",
+   "GermanNoArticle": "Stau, -e",
+   "English": "traffic jam",
+   "RandomNumber": 475
+ },
+ {
+   "AlphabetOrder": 864,
+   "Article": "die",
+   "GermanWithArticle": "die Rettung, -en",
+   "GermanNoArticle": "Rettung, -en",
+   "English": "rescue",
+   "RandomNumber": 230
+ },
+ {
+   "AlphabetOrder": 218,
+   "Article": "das",
+   "GermanWithArticle": "das Wunder , -",
+   "GermanNoArticle": "Wunder , -",
+   "English": "wonder , marvel",
+   "RandomNumber": 946
+ },
+ {
+   "AlphabetOrder": 243,
+   "Article": "der",
+   "GermanWithArticle": "der Apparat, -e",
+   "GermanNoArticle": "Apparat, -e",
+   "English": "apparatus, Gadget, Machine",
+   "RandomNumber": 254
+ },
+ {
+   "AlphabetOrder": 834,
+   "Article": "die",
+   "GermanWithArticle": "die Pfadfinder",
+   "GermanNoArticle": "Pfadfinder",
+   "English": "boy scouts",
+   "RandomNumber": 77
+ },
+ {
+   "AlphabetOrder": 497,
+   "Article": "der",
+   "GermanWithArticle": "der Schluck, -e",
+   "GermanNoArticle": "Schluck, -e",
+   "English": "of liquid, a drink, a swallow, a drop",
+   "RandomNumber": 593
+ },
+ {
+   "AlphabetOrder": 143,
+   "Article": "das",
+   "GermanWithArticle": "das Paradie s, -e",
+   "GermanNoArticle": "Paradie s, -e",
+   "English": "paradise",
+   "RandomNumber": 751
+ },
+ {
+   "AlphabetOrder": 424,
+   "Article": "der",
+   "GermanWithArticle": "der Mensch, -en",
+   "GermanNoArticle": "Mensch, -en",
+   "English": "humans",
+   "RandomNumber": 141
+ },
+ {
+   "AlphabetOrder": 799,
+   "Article": "die",
+   "GermanWithArticle": "die Lust, -¨e",
+   "GermanNoArticle": "Lust, -¨e",
+   "English": "desire, pleasure, joy",
+   "RandomNumber": 553
+ },
+ {
+   "AlphabetOrder": 463,
+   "Article": "der",
+   "GermanWithArticle": "der Rahmen, -",
+   "GermanNoArticle": "Rahmen, -",
+   "English": "frame",
+   "RandomNumber": 678
+ },
+ {
+   "AlphabetOrder": 33,
+   "Article": "das",
+   "GermanWithArticle": "das Dirndl, -",
+   "GermanNoArticle": "Dirndl, -",
+   "English": "bavarian traditional women´s dress",
+   "RandomNumber": 297
+ },
+ {
+   "AlphabetOrder": 606,
+   "Article": "der",
+   "GermanWithArticle": "der Wetter, -",
+   "GermanNoArticle": "Wetter, -",
+   "English": "better",
+   "RandomNumber": 359
+ },
+ {
+   "AlphabetOrder": 899,
+   "Article": "die",
+   "GermanWithArticle": "die Soße, -n",
+   "GermanNoArticle": "Soße, -n",
+   "English": "sauce",
+   "RandomNumber": 7
+ },
+ {
+   "AlphabetOrder": 323,
+   "Article": "der",
+   "GermanWithArticle": "der Freimut, x",
+   "GermanNoArticle": "Freimut, x",
+   "English": "frankness",
+   "RandomNumber": 786
+ }
+]

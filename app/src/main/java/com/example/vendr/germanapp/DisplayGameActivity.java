@@ -89,7 +89,7 @@ public class DisplayGameActivity extends AppCompatActivity {
     public void updateNounTextView(){
         //generate random number for picking a word from dictionary
         Random rand = new Random();
-        int curIndex = rand.nextInt(wordsDictionaryList.size());//todo: index is always 0
+        int curIndex = rand.nextInt(wordsDictionaryList.size());
         //remember a current word for future refferences
         currentWord = wordsDictionaryList.get(curIndex);
         String message = currentWord.GermanText;
