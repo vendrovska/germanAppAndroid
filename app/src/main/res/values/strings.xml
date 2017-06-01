@@ -5,4 +5,5 @@
     <string name="button_dieArticle">DIE</string>
     <string name="button_dasArticle">DAS</string>
     <string name="textview_currentWord">CurrentWord</string>
+    <string name="textview_currentWordEnglish">CurrentWordEnglish</string>
 </resources>

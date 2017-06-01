@@ -79,7 +79,7 @@ public class DisplayGameActivity extends AppCompatActivity {
             //proceed to the next word
             //color pressed button to the red color
         }
-       else{
+       else {
            currentWord.UserAnswerCount = 0;
        }
        updateNounTextView();
@@ -94,7 +94,12 @@ public class DisplayGameActivity extends AppCompatActivity {
         currentWord = wordsDictionaryList.get(curIndex);
         String message = currentWord.GermanText;
         currentCorrectArticle = currentWord.Article;
-        TextView textview_currentWord = (TextView) findViewById(R.id.textView);
-        textview_currentWord.setText(currentWord.GermanText);
+        TextView textview_currentWordGerman = (TextView) findViewById(R.id.textView);
+        TextView textview_currentWordEnglish = (TextView) findViewById(R.id.textView2);
+        if(true){
+            //TODO: update the if statement and open "the end" activity
+        }
+        textview_currentWordGerman.setText(currentWord.GermanText);
+        textview_currentWordEnglish.setText(currentWord.EnglishTranslation);
     }
 }
