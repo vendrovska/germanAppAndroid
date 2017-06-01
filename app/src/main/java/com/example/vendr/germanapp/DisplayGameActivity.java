@@ -6,12 +6,16 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import java.util.ArrayList;
 import java.util.Random;
 
 public class DisplayGameActivity extends AppCompatActivity {
 
     String currentCorrectArticle = "DER";
-    GermanNoun [] wordsDictionary = new GermanNoun[4];
+    ArrayList <GermanNoun> wordsDictionaryList = new ArrayList<GermanNoun>();
+    GermanNoun currentWord;
+    int userScore = 0;
+    int curIndex;
     public void fillLocalDictionary(){
         //TODO get data from real dictionary
 
@@ -34,16 +38,16 @@ public class DisplayGameActivity extends AppCompatActivity {
         thirdNoun.GermanText = "Madchen";
         thirdNoun.AlphabetOrderId = 3;
         thirdNoun.RandomOrderId = 1;
-        GermanNoun initialNoun = new GermanNoun();
-        initialNoun.Article = "DAS";
-        initialNoun.EnglishTranslation = "boy";
-        initialNoun.GermanText = "ganz";
-        initialNoun.AlphabetOrderId = 3;
-        initialNoun.RandomOrderId = 1;
-        wordsDictionary[0] = firstNoun;
-        wordsDictionary[1] = secondNoun;
-        wordsDictionary[2] = thirdNoun;
-        wordsDictionary[3] = initialNoun;
+        GermanNoun fourthNoun = new GermanNoun();
+        fourthNoun.Article = "DAS";
+        fourthNoun.EnglishTranslation = "boy";
+        fourthNoun.GermanText = "ganz";
+        fourthNoun.AlphabetOrderId = 3;
+        fourthNoun.RandomOrderId = 1;
+        wordsDictionaryList.add(firstNoun);
+        wordsDictionaryList.add(secondNoun);
+        wordsDictionaryList.add(thirdNoun);
+        wordsDictionaryList.add(fourthNoun);
 
 
     }
@@ -57,7 +61,13 @@ public class DisplayGameActivity extends AppCompatActivity {
     }
     public void checkUserAnswer(View view){
         String articleChosen = ((Button) view).getText().toString();
-       // if(articleChosen == currentCorrectArticle){
+       if(articleChosen.equals(currentCorrectArticle) ){
+           //wordsDictionaryList.set(curIndex,);
+           currentWord.UserAnswerCount++;
+           if(currentWord.UserAnswerCount >= 3){
+               //remove from wordsDictionary
+               wordsDictionaryList.remove(curIndex);
+           }
             //add answer to total # of corretct answers
             //say the word aloud
             //check if word has article chosen correctly 3 times in a row
@@ -68,17 +78,23 @@ public class DisplayGameActivity extends AppCompatActivity {
             //clear word correct answers conunting back to 0
             //proceed to the next word
             //color pressed button to the red color
-        //}
+        }
+       else{
+           currentWord.UserAnswerCount = 0;
+       }
        updateNounTextView();
         //todo switch fr btn name to handkle diff. article values
         //todo connect to mongo db dictionary
     }
     public void updateNounTextView(){
+        //generate random number for picking a word from dictionary
         Random rand = new Random();
-        int index = rand.nextInt(wordsDictionary.length);
-        String message = wordsDictionary[index].GermanText;
-        currentCorrectArticle = wordsDictionary[index].Article;
+        int curIndex = rand.nextInt(wordsDictionaryList.size());//todo: index is always 0
+        //remember a current word for future refferences
+        currentWord = wordsDictionaryList.get(curIndex);
+        String message = currentWord.GermanText;
+        currentCorrectArticle = currentWord.Article;
         TextView textview_currentWord = (TextView) findViewById(R.id.textView);
-        textview_currentWord.setText(wordsDictionary[index].GermanText);
+        textview_currentWord.setText(currentWord.GermanText);
     }
 }
