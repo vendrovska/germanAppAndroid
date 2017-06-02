@@ -3,6 +3,7 @@ package com.example.vendr.germanapp;
 import android.content.Context;
 import android.content.Intent;
 import android.content.res.AssetManager;
+import android.graphics.Color;
 import android.support.constraint.solver.SolverVariable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -83,9 +84,8 @@ public class DisplayGameActivity extends AppCompatActivity {
     public void checkUserAnswer(View view){
         String articleChosen = ((Button) view).getText().toString();
        if(articleChosen.equals(currentCorrectArticle) ){
-           //wordsDictionaryList.set(curIndex,);
            currentWord.UserAnswerCount++;
-
+           updateButtonColor(view, articleChosen.equals(currentCorrectArticle));
            if(currentWord.UserAnswerCount >= 3){
                //remove from wordsDictionary
                wordsDictionaryList.remove(curIndex); //todo: replace with more efficient structure (array with first and last indexes
@@ -116,6 +116,15 @@ public class DisplayGameActivity extends AppCompatActivity {
         //todo switch fr btn name to handkle diff. article values
         //todo connect to mongo db dictionary
     }
+
+    private void updateButtonColor(View v, boolean answer) {
+       // String buttonId = v.getResources().getResourceEntryName(v.getId());
+        int buttonIntId =  v.getId();
+        Button clickedButton = (Button) findViewById(buttonIntId);
+        //int resID = getResources().getIdentifier(buttonId, "id", getPackageName());
+        clickedButton.setBackgroundColor(Color.RED);
+    }
+
     public void updateNounTextView(){
         //generate random number for picking a word from dictionary
         Random rand = new Random();
