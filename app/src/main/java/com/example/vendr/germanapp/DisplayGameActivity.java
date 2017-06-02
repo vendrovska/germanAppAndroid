@@ -1,5 +1,8 @@
 package com.example.vendr.germanapp;
 
+import android.content.Context;
+import android.content.Intent;
+import android.content.res.AssetManager;
 import android.support.constraint.solver.SolverVariable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -14,6 +17,7 @@ import com.google.gson.reflect.TypeToken;
 
 import org.apache.commons.io.IOUtils;
 import org.json.JSONArray;
+import org.json.JSONException;
 import org.json.JSONObject;
 
 
@@ -23,67 +27,54 @@ import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
 public class DisplayGameActivity extends AppCompatActivity {
-
+    private static final int ROUND_SIZE = 20;
+    private  static final int MIN_ROUND_SIZE = 3;
+    boolean dataSourceIsEmpty = true;
     String currentCorrectArticle = "DER";
     ArrayList <GermanNoun> wordsDictionaryList = new ArrayList<GermanNoun>();
     GermanNoun currentWord;
     int userScore = 0;
     int curIndex;
+    int lastDataSourceIndex = 0;
+    JSONArray dataSource;
 
-    public void getGermanDictionary(){
-        //ClassLoader classloader = Thread.currentThread().getContextClassLoader();
-        //InputStream is = classloader.getResourceAsStream("GermanNounsDictionary.json");
-        //JsonParser jp = new JsonParser();
-        //Gson gson = new Gson();
-        //BufferedReader br = new BufferedReader(new FileReader("GermanNounsDictionary.json"));
-        //SolverVariable.Type type = new TypeToken<List<GermanNoun>>(){}.getType();
-       // List<GermanNoun> models = gson.fromJson(br, type);
-
+    public void getFullGermanDictionary(){
+        String s = "";
+        try {
+            AssetManager assetManager = getAssets();
+            InputStream inputStream = assetManager.open("GermanNounsDictionary.json");
+            InputStreamReader inputStreamReader = new InputStreamReader(inputStream);
+            BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
+            StringBuilder total = new StringBuilder();
+            while ((s = bufferedReader.readLine()) != null) {
+                total.append(s).append('\n');
+            }
+            s = total.toString();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        try {
+             dataSource = new JSONArray(s);
+             dataSourceIsEmpty = false;
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
     }
-
     public void fillLocalDictionary(){
-        getGermanDictionary();
+        getFullGermanDictionary();
         //TODO get data from real dictionary
         //todo:replace code below with a real data
-        GermanNoun firstNoun = new GermanNoun();
-        firstNoun.Article = "DER";
-        firstNoun.EnglishTranslation = "belt";
-        firstNoun.GermanText = "Buckle";
-        firstNoun.AlphabetOrderId = 1;
-        firstNoun.RandomOrderId = 3;
-        GermanNoun secondNoun = new GermanNoun();
-        secondNoun.Article = "DIE";
-        secondNoun.EnglishTranslation = "Map";
-        secondNoun.GermanText = "Welt";
-        secondNoun.AlphabetOrderId = 2;
-        secondNoun.RandomOrderId = 2;
-        GermanNoun thirdNoun = new GermanNoun();
-        thirdNoun.Article = "DAS";
-        thirdNoun.EnglishTranslation = "Girl";
-        thirdNoun.GermanText = "Madchen";
-        thirdNoun.AlphabetOrderId = 3;
-        thirdNoun.RandomOrderId = 1;
-        GermanNoun fourthNoun = new GermanNoun();
-        fourthNoun.Article = "DAS";
-        fourthNoun.EnglishTranslation = "boy";
-        fourthNoun.GermanText = "ganz";
-        fourthNoun.AlphabetOrderId = 3;
-        fourthNoun.RandomOrderId = 1;
-        wordsDictionaryList.add(firstNoun);
-        wordsDictionaryList.add(secondNoun);
-        wordsDictionaryList.add(thirdNoun);
-        wordsDictionaryList.add(fourthNoun);
-
-
     }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         fillLocalDictionary();
+        getRangeFromDictionary();
         // updateNounTextView();
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display_game);
@@ -94,9 +85,17 @@ public class DisplayGameActivity extends AppCompatActivity {
        if(articleChosen.equals(currentCorrectArticle) ){
            //wordsDictionaryList.set(curIndex,);
            currentWord.UserAnswerCount++;
+
            if(currentWord.UserAnswerCount >= 3){
                //remove from wordsDictionary
-               wordsDictionaryList.remove(curIndex);
+               wordsDictionaryList.remove(curIndex); //todo: replace with more efficient structure (array with first and last indexes
+
+               if(wordsDictionaryList.size()== 0){
+                   openGameEndActivity(view);
+               }
+               if(wordsDictionaryList.size() <= MIN_ROUND_SIZE && !dataSourceIsEmpty){
+                   getRangeFromDictionary();
+               }
                userScore++;
            }
             //add answer to total # of corretct answers
@@ -136,5 +135,38 @@ public class DisplayGameActivity extends AppCompatActivity {
         TextView textview_currentScore = (TextView) findViewById(R.id.textView3);
         textview_currentScore.setText(String.valueOf(userScore));
 
+    }
+
+    public void getRangeFromDictionary(){
+        //wordsDictionaryList
+
+        for(int i = lastDataSourceIndex; i < lastDataSourceIndex + ROUND_SIZE; i++){
+            if(i >= dataSource.length()){
+                dataSourceIsEmpty = true;
+                break;
+            }
+            try {
+                JSONObject jsonNoun = dataSource.getJSONObject(i);
+                GermanNoun newNoun = new GermanNoun();
+                newNoun.Article = jsonNoun.getString("Article");
+                newNoun.EnglishTranslation = jsonNoun.getString("English");
+                newNoun.GermanText = jsonNoun.getString("GermanNoArticle");
+                newNoun.GermanText = newNoun.GermanText.substring(0,newNoun.GermanText.indexOf(","));
+                newNoun.GermanWithArticle = jsonNoun.getString("GermanWithArticle");
+                newNoun.UserAnswerCount = 0;
+                wordsDictionaryList.add(newNoun);
+
+
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
+        }
+        lastDataSourceIndex += ROUND_SIZE;
+
+
+    }
+    public void openGameEndActivity(View view){
+        Intent intent = new Intent(this, TheEndActivity.class);
+        startActivity(intent);
     }
 }

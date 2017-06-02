@@ -8,8 +8,9 @@ public class GermanNoun {
     String Article;
     String GermanText;
     String EnglishTranslation;
-    int AlphabetOrderId;
-    int RandomOrderId;
+    String GermanWithArticle;
+    //int AlphabetOrderId;
+    //int RandomOrderId;
     int UserAnswerCount;
 
 }

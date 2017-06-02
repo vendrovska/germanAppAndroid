@@ -7,4 +7,6 @@
     <string name="textview_currentWord">CurrentWord</string>
     <string name="textview_currentWordEnglish">CurrentWordEnglish</string>
     <string name="textview_userScore">0</string>
+    <string name="title_activity_game_end">GameEnd</string>
+    <string name="gameEnd">THE END</string>
 </resources>
