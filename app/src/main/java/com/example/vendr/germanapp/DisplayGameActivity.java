@@ -1,12 +1,30 @@
 package com.example.vendr.germanapp;
 
+import android.support.constraint.solver.SolverVariable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.JsonReader;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.google.gson.Gson;
+import com.google.gson.JsonArray;
+import com.google.gson.reflect.TypeToken;
+
+import org.apache.commons.io.IOUtils;
+import org.json.JSONArray;
+import org.json.JSONObject;
+
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
 
 public class DisplayGameActivity extends AppCompatActivity {
@@ -16,9 +34,21 @@ public class DisplayGameActivity extends AppCompatActivity {
     GermanNoun currentWord;
     int userScore = 0;
     int curIndex;
-    public void fillLocalDictionary(){
-        //TODO get data from real dictionary
 
+    public void getGermanDictionary(){
+        //ClassLoader classloader = Thread.currentThread().getContextClassLoader();
+        //InputStream is = classloader.getResourceAsStream("GermanNounsDictionary.json");
+        //JsonParser jp = new JsonParser();
+        //Gson gson = new Gson();
+        //BufferedReader br = new BufferedReader(new FileReader("GermanNounsDictionary.json"));
+        //SolverVariable.Type type = new TypeToken<List<GermanNoun>>(){}.getType();
+       // List<GermanNoun> models = gson.fromJson(br, type);
+
+    }
+
+    public void fillLocalDictionary(){
+        getGermanDictionary();
+        //TODO get data from real dictionary
         //todo:replace code below with a real data
         GermanNoun firstNoun = new GermanNoun();
         firstNoun.Article = "DER";
@@ -67,6 +97,7 @@ public class DisplayGameActivity extends AppCompatActivity {
            if(currentWord.UserAnswerCount >= 3){
                //remove from wordsDictionary
                wordsDictionaryList.remove(curIndex);
+               userScore++;
            }
             //add answer to total # of corretct answers
             //say the word aloud
@@ -96,10 +127,14 @@ public class DisplayGameActivity extends AppCompatActivity {
         currentCorrectArticle = currentWord.Article;
         TextView textview_currentWordGerman = (TextView) findViewById(R.id.textView);
         TextView textview_currentWordEnglish = (TextView) findViewById(R.id.textView2);
-        if(true){
+            if(true){
             //TODO: update the if statement and open "the end" activity
         }
         textview_currentWordGerman.setText(currentWord.GermanText);
         textview_currentWordEnglish.setText(currentWord.EnglishTranslation);
+
+        TextView textview_currentScore = (TextView) findViewById(R.id.textView3);
+        textview_currentScore.setText(String.valueOf(userScore));
+
     }
 }

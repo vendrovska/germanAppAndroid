@@ -6,4 +6,5 @@
     <string name="button_dasArticle">DAS</string>
     <string name="textview_currentWord">CurrentWord</string>
     <string name="textview_currentWordEnglish">CurrentWordEnglish</string>
+    <string name="textview_userScore">0</string>
 </resources>
