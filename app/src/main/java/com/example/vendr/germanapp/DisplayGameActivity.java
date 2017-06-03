@@ -8,8 +8,11 @@ import android.speech.tts.TextToSpeech;
 import android.support.constraint.solver.SolverVariable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
+import android.view.View.OnClickListener;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.TextView;
 
 import org.json.JSONArray;
@@ -22,9 +25,10 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.Locale;
 import java.util.Random;
 
-public class DisplayGameActivity extends AppCompatActivity {
+public class DisplayGameActivity extends AppCompatActivity  implements TextToSpeech.OnInitListener{
     private static final int ROUND_SIZE = 20;
     private  static final int MIN_ROUND_SIZE = 3;
     boolean dataSourceIsEmpty = true;
@@ -35,7 +39,9 @@ public class DisplayGameActivity extends AppCompatActivity {
     int curIndex;
     int lastDataSourceIndex = 0;
     JSONArray dataSource;
-    TextToSpeech ttsObject;
+    private TextToSpeech tts;
+    private Button btnSpeak;
+    private TextView txtTeext;
 
     public void getFullGermanDictionary(){
         String s = "";
@@ -72,12 +78,28 @@ public class DisplayGameActivity extends AppCompatActivity {
         establishTextToSpeech();
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display_game);
+
+        tts = new TextToSpeech(this, this);
+        /*
+        btnSpeak = (Button) findViewById(R.id.dieButton);
+        txtTeext = (TextView) findViewById(R.id.textView2);
+        btnSpeak.setOnClickListener(new View.OnClickListener(){
+
+            @Override
+            public void  onClick (View v){
+                speakOut();
+            }
+
+
+        });
+*/
         updateNounTextView();
     }
     public void checkUserAnswer(View view){
         String articleChosen = ((Button) view).getText().toString();
         boolean correrctAnswer = articleChosen.equals(currentCorrectArticle);
         updateButtonColor(view, correrctAnswer);
+        startTalkToSpeech(view);
        if(correrctAnswer){
            currentWord.UserAnswerCount++;
            if(currentWord.UserAnswerCount >= 3){
@@ -109,6 +131,23 @@ public class DisplayGameActivity extends AppCompatActivity {
        updateNounTextView();
         //todo switch fr btn name to handkle diff. article values
         //todo connect to mongo db dictionary
+    }
+
+    private void startTalkToSpeech(View view) {
+        //btnSpeak = (Button) findViewById(R.id.dieButton);
+        speakOut();
+        /*
+        txtTeext = (TextView) findViewById(R.id.textView2);
+        btnSpeak.setOnClickListener(new View.OnClickListener(){
+
+            @Override
+            public void  onClick (View v){
+                speakOut();
+            }
+
+
+        });
+        */
     }
 
     private void updateButtonColor(View v, boolean answerCorrect) {
@@ -145,10 +184,6 @@ public class DisplayGameActivity extends AppCompatActivity {
 
     }
     private void establishTextToSpeech(){
-         tts = new TextToSpeech();
-        Intent checkIntent = new Intent();
-        checkIntent.setAction(TextToSpeech.Engine.ACTION_CHECK_TTS_DATA);
-        startActivityForResult(checkIntent, MY_DATA_CHECK_CODE);
     }
     public void getRangeFromDictionary(){
         //wordsDictionaryList
@@ -181,5 +216,26 @@ public class DisplayGameActivity extends AppCompatActivity {
     public void openGameEndActivity(View view){
         Intent intent = new Intent(this, TheEndActivity.class);
         startActivity(intent);
+    }
+
+    @Override
+    public void onInit(int status) {
+    if (status == TextToSpeech.SUCCESS){
+    int result = tts.setLanguage(Locale.GERMAN);
+    if((result == TextToSpeech.LANG_NOT_SUPPORTED) || result == TextToSpeech.LANG_MISSING_DATA){
+        Log.e("TTS", "This language is not supported");
+    }
+    else{
+        //btnSpeak.setEnabled(true);
+        speakOut();
+    }
+        }
+        else{
+        Log.e("TTs", "initialization failed");
+    }
+    }
+    private void speakOut() {
+        String text = currentWord.GermanWithArticle; //txtTeext.getText().toString();
+        tts.speak(text, TextToSpeech.QUEUE_FLUSH, null);
     }
 }
