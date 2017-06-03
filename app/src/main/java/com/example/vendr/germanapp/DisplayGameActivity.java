@@ -1,36 +1,27 @@
 package com.example.vendr.germanapp;
 
-import android.content.Context;
 import android.content.Intent;
 import android.content.res.AssetManager;
 import android.graphics.Color;
+import android.graphics.PorterDuff;
+import android.speech.tts.TextToSpeech;
 import android.support.constraint.solver.SolverVariable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.JsonReader;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.google.gson.Gson;
-import com.google.gson.JsonArray;
-import com.google.gson.reflect.TypeToken;
-
-import org.apache.commons.io.IOUtils;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
 
 import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-import java.util.List;
 import java.util.Random;
 
 public class DisplayGameActivity extends AppCompatActivity {
@@ -44,6 +35,7 @@ public class DisplayGameActivity extends AppCompatActivity {
     int curIndex;
     int lastDataSourceIndex = 0;
     JSONArray dataSource;
+    TextToSpeech ttsObject;
 
     public void getFullGermanDictionary(){
         String s = "";
@@ -74,18 +66,20 @@ public class DisplayGameActivity extends AppCompatActivity {
     }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         fillLocalDictionary();
         getRangeFromDictionary();
-        // updateNounTextView();
+        establishTextToSpeech();
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display_game);
         updateNounTextView();
     }
     public void checkUserAnswer(View view){
         String articleChosen = ((Button) view).getText().toString();
-       if(articleChosen.equals(currentCorrectArticle) ){
+        boolean correrctAnswer = articleChosen.equals(currentCorrectArticle);
+        updateButtonColor(view, correrctAnswer);
+       if(correrctAnswer){
            currentWord.UserAnswerCount++;
-           updateButtonColor(view, articleChosen.equals(currentCorrectArticle));
            if(currentWord.UserAnswerCount >= 3){
                //remove from wordsDictionary
                wordsDictionaryList.remove(curIndex); //todo: replace with more efficient structure (array with first and last indexes
@@ -117,12 +111,17 @@ public class DisplayGameActivity extends AppCompatActivity {
         //todo connect to mongo db dictionary
     }
 
-    private void updateButtonColor(View v, boolean answer) {
-       // String buttonId = v.getResources().getResourceEntryName(v.getId());
+    private void updateButtonColor(View v, boolean answerCorrect) {
         int buttonIntId =  v.getId();
+        String color;
+        if(answerCorrect){
+          color = "#99ffcc";
+        }
+        else{
+            color = "#ff9999";
+        }
         Button clickedButton = (Button) findViewById(buttonIntId);
-        //int resID = getResources().getIdentifier(buttonId, "id", getPackageName());
-        clickedButton.setBackgroundColor(Color.RED);
+        clickedButton.getBackground().setColorFilter(Color.parseColor(color), PorterDuff.Mode.DARKEN);
     }
 
     public void updateNounTextView(){
@@ -132,7 +131,7 @@ public class DisplayGameActivity extends AppCompatActivity {
         //remember a current word for future refferences
         currentWord = wordsDictionaryList.get(curIndex);
         String message = currentWord.GermanText;
-        currentCorrectArticle = currentWord.Article;
+        currentCorrectArticle = currentWord.Article.toUpperCase();
         TextView textview_currentWordGerman = (TextView) findViewById(R.id.textView);
         TextView textview_currentWordEnglish = (TextView) findViewById(R.id.textView2);
             if(true){
@@ -145,7 +144,12 @@ public class DisplayGameActivity extends AppCompatActivity {
         textview_currentScore.setText(String.valueOf(userScore));
 
     }
-
+    private void establishTextToSpeech(){
+         tts = new TextToSpeech();
+        Intent checkIntent = new Intent();
+        checkIntent.setAction(TextToSpeech.Engine.ACTION_CHECK_TTS_DATA);
+        startActivityForResult(checkIntent, MY_DATA_CHECK_CODE);
+    }
     public void getRangeFromDictionary(){
         //wordsDictionaryList
 
