@@ -201,6 +201,7 @@ public class DisplayGameActivity extends AppCompatActivity  implements TextToSpe
                 newNoun.GermanText = jsonNoun.getString("GermanNoArticle");
                 newNoun.GermanText = newNoun.GermanText.substring(0,newNoun.GermanText.indexOf(","));
                 newNoun.GermanWithArticle = jsonNoun.getString("GermanWithArticle");
+                newNoun.GermanWithArticle = newNoun.GermanWithArticle.substring(0,newNoun.GermanWithArticle.indexOf(","));
                 newNoun.UserAnswerCount = 0;
                 wordsDictionaryList.add(newNoun);
 
@@ -227,15 +228,18 @@ public class DisplayGameActivity extends AppCompatActivity  implements TextToSpe
     }
     else{
         //btnSpeak.setEnabled(true);
-        speakOut();
+        //speakOut();
+        Log.e("TTS","initialized");
     }
         }
         else{
-        Log.e("TTs", "initialization failed");
+        Log.e("TTS", "initialization failed");
     }
     }
     private void speakOut() {
         String text = currentWord.GermanWithArticle; //txtTeext.getText().toString();
         tts.speak(text, TextToSpeech.QUEUE_FLUSH, null);
+        while (tts.isSpeaking() ) {
+        };
     }
 }
