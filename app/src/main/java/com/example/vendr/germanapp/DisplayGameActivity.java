@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.content.res.AssetManager;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
+import android.media.Image;
 import android.speech.tts.TextToSpeech;
 import android.support.constraint.solver.SolverVariable;
 import android.support.v7.app.AppCompatActivity;
@@ -13,6 +14,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageButton;
 import android.widget.TextView;
 
 import org.json.JSONArray;
@@ -32,6 +34,7 @@ public class DisplayGameActivity extends AppCompatActivity  implements TextToSpe
     private static final int ROUND_SIZE = 20;
     private  static final int MIN_ROUND_SIZE = 3;
     boolean dataSourceIsEmpty = true;
+    boolean mutedTts = false;
     String currentCorrectArticle = "DER";
     ArrayList <GermanNoun> wordsDictionaryList = new ArrayList<GermanNoun>();
     GermanNoun currentWord;
@@ -72,27 +75,12 @@ public class DisplayGameActivity extends AppCompatActivity  implements TextToSpe
     }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
         fillLocalDictionary();
         getRangeFromDictionary();
         establishTextToSpeech();
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display_game);
-
         tts = new TextToSpeech(this, this);
-        /*
-        btnSpeak = (Button) findViewById(R.id.dieButton);
-        txtTeext = (TextView) findViewById(R.id.textView2);
-        btnSpeak.setOnClickListener(new View.OnClickListener(){
-
-            @Override
-            public void  onClick (View v){
-                speakOut();
-            }
-
-
-        });
-*/
         updateNounTextView();
     }
     public void checkUserAnswer(View view){
@@ -137,20 +125,7 @@ public class DisplayGameActivity extends AppCompatActivity  implements TextToSpe
     }
 
     private void startTalkToSpeech(View view) {
-        //btnSpeak = (Button) findViewById(R.id.dieButton);
         speakOut();
-        /*
-        txtTeext = (TextView) findViewById(R.id.textView2);
-        btnSpeak.setOnClickListener(new View.OnClickListener(){
-
-            @Override
-            public void  onClick (View v){
-                speakOut();
-            }
-
-
-        });
-        */
     }
 
     private void updateButtonColor(View v, boolean answerCorrect, boolean reset) {
@@ -253,9 +228,25 @@ public class DisplayGameActivity extends AppCompatActivity  implements TextToSpe
     }
     }
     private void speakOut() {
-        String text = currentWord.GermanWithArticle; //txtTeext.getText().toString();
-        tts.speak(text, TextToSpeech.QUEUE_FLUSH, null);
-        while (tts.isSpeaking() ) {
-        };
+        if(!mutedTts){
+            String text = currentWord.GermanWithArticle; //txtTeext.getText().toString();
+            tts.speak(text, TextToSpeech.QUEUE_FLUSH, null);
+            while (tts.isSpeaking() ) {
+            };
+        }
+
+    }
+
+    public void muteOff(View v){
+        mutedTts = true;
+        v.setVisibility(View.INVISIBLE);
+        ImageButton buttonOn=(ImageButton)findViewById(R.id.muteOn);
+        buttonOn.setVisibility(View.VISIBLE);
+    }
+    public void muteOn(View v){
+        mutedTts = false;
+        v.setVisibility(View.INVISIBLE);
+        ImageButton buttonOff=(ImageButton)findViewById(R.id.muteOff);
+        buttonOff.setVisibility(View.VISIBLE);
     }
 }
