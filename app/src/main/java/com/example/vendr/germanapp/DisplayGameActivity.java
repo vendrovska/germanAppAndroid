@@ -98,7 +98,8 @@ public class DisplayGameActivity extends AppCompatActivity  implements TextToSpe
     public void checkUserAnswer(View view){
         String articleChosen = ((Button) view).getText().toString();
         boolean correrctAnswer = articleChosen.equals(currentCorrectArticle);
-        updateButtonColor(view, correrctAnswer);
+        boolean reset = false;
+        updateButtonColor(view, correrctAnswer, reset);
         startTalkToSpeech(view);
        if(correrctAnswer){
            currentWord.UserAnswerCount++;
@@ -129,6 +130,8 @@ public class DisplayGameActivity extends AppCompatActivity  implements TextToSpe
            currentWord.UserAnswerCount = 0;
        }
        updateNounTextView();
+        reset = true;
+        updateButtonColor(view, correrctAnswer, reset);
         //todo switch fr btn name to handkle diff. article values
         //todo connect to mongo db dictionary
     }
@@ -150,17 +153,30 @@ public class DisplayGameActivity extends AppCompatActivity  implements TextToSpe
         */
     }
 
-    private void updateButtonColor(View v, boolean answerCorrect) {
+    private void updateButtonColor(View v, boolean answerCorrect, boolean reset) {
         int buttonIntId =  v.getId();
-        String color;
-        if(answerCorrect){
+        String color = "#eff0f2";
+        if(answerCorrect && !reset){
           color = "#99ffcc";
         }
-        else{
+        else if (!answerCorrect && !reset) {
             color = "#ff9999";
         }
-        Button clickedButton = (Button) findViewById(buttonIntId);
-        clickedButton.getBackground().setColorFilter(Color.parseColor(color), PorterDuff.Mode.DARKEN);
+        if (reset){
+            Button dieBtn = (Button) findViewById(R.id.dieButton);
+            Button derBtn = (Button) findViewById(R.id.derButton);
+            Button dasBtn = (Button) findViewById(R.id.dasButton);
+            dieBtn.getBackground().setColorFilter(Color.parseColor(color), PorterDuff.Mode.DARKEN);
+            derBtn.getBackground().setColorFilter(Color.parseColor(color), PorterDuff.Mode.DARKEN);
+            dasBtn.getBackground().setColorFilter(Color.parseColor(color), PorterDuff.Mode.DARKEN);
+
+        }
+        else{
+            Button clickedButton = (Button) findViewById(buttonIntId);
+            clickedButton.getBackground().setColorFilter(Color.parseColor(color), PorterDuff.Mode.DARKEN);
+        }
+
+
     }
 
     public void updateNounTextView(){
