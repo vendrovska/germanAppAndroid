@@ -12,4 +12,5 @@
     <string name="textView_DER">DER</string>
     <string name="textView_DIE">DIE</string>
     <string name="textView_DAS">DAS</string>
+    <string name="noun_ratingScore">0</string>
 </resources>

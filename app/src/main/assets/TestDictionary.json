@@ -1,0 +1,26 @@
+[
+  {
+    "AlphabetOrder": 930,
+    "Article": "die",
+    "GermanWithArticle": "die Tonne, -n",
+    "GermanNoArticle": "Tonne, -n",
+    "English": "barrel",
+    "RandomNumber": 489
+  },
+  {
+    "AlphabetOrder": 627,
+    "Article": "die",
+    "GermanWithArticle": "die Ader , -n",
+    "GermanNoArticle": "Ader , -n",
+    "English": "artery",
+    "RandomNumber": 126
+  },
+  {
+    "AlphabetOrder": 202,
+    "Article": "das",
+    "GermanWithArticle": "das Vergehen, -",
+    "GermanNoArticle": "Vergehen, -",
+    "English": "offense",
+    "RandomNumber": 622
+  }
+  ]
