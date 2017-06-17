@@ -233,6 +233,7 @@ public class DisplayGameActivity extends AppCompatActivity  implements TextToSpe
     public void openGameEndActivity(View view){
         Intent intent = new Intent(this, TheEndActivity.class);
         startActivity(intent);
+        finish();
     }
 
     @Override
