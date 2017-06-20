@@ -54,8 +54,8 @@ public class DisplayGameActivity extends AppCompatActivity  implements TextToSpe
         String s = "";
         try {
             AssetManager assetManager = getAssets();
-            //InputStream inputStream = assetManager.open("GermanNounsDictionary.json");
-            InputStream inputStream = assetManager.open("TestDictionary.json");
+            InputStream inputStream = assetManager.open("GermanNounsDictionary.json");
+            //InputStream inputStream = assetManager.open("TestDictionary.json");
             InputStreamReader inputStreamReader = new InputStreamReader(inputStream);
             BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
             StringBuilder total = new StringBuilder();
