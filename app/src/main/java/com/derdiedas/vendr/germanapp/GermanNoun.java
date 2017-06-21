@@ -1,4 +1,4 @@
-package com.example.vendr.germanapp;
+package com.derdiedas.vendr.germanapp;
 
 /**
  * Created by vendr on 5/30/2017.

@@ -1,4 +1,4 @@
-package com.example.vendr.germanapp;
+package com.derdiedas.vendr.germanapp;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

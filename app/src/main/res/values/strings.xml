@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GermanApp</string>
+    <string name="app_name">DerDieDas</string>
     <string name="button_start">PLAY</string>
     <string name="button_derArticle">DER</string>
     <string name="button_dieArticle">DIE</string>

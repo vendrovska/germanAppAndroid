@@ -1,4 +1,4 @@
-package com.example.vendr.germanapp;
+package com.derdiedas.vendr.germanapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
